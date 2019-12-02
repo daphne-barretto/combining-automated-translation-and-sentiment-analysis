@@ -16,10 +16,10 @@ var Language = {
 };
 
 // Project Customization
-var apiKey = "AIzaSyAZo1uNm7s_Ia_LMcNAuYYAluv6ri6KkB0"; // unique API key per project
+var apiKey = "REMOVED"; // unique API key per project
 var spreadsheetId = "1Vo_rGGyAc4Ig5O81N-qnchcLm_wzhVym0aoOZggFUmQ"; // spreadsheet id for analysis logging
-var sheetName = "r/TodayILearned"; // name of sheet within spreadsheet for analysis logging
-var emailAddress = "daphnegb@princeton.edu"; // email address for testToEmail()
+var sheetName = "CHOOSE_SHEET"; // name of sheet within spreadsheet for analysis logging
+var emailAddress = "CHOOSE_EMAIL"; // email address for testToEmail()
 var sourceLang = Language.ENGLISH; // source language for entries in sheet
 
 // Combination of automated translation and sentiment analysis in all available languages
