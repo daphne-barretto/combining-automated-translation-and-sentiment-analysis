@@ -1,0 +1,591 @@
+{"zh":{"documentSentiment":{"magnitude":9,"score":0.2},"language":"zh","sentences":[{"text":{"content":"在
+俄
+亥俄州的非洲野生动物园中，有10只动物在大火中丧生\n\n丹伯里镇警察说，星期四
+在俄亥俄州北部的非洲野生动物园野生动物火灾时，有十只动物被
+杀。","beginOffset":0},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"消
+防员于下午6:15被召唤到克林顿港公
+园。","beginOffset":207},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"渥
+太华县警长办公室和公园官员说，在有一个牲口棚发生火灾后，渥太华县警长办公室和
+公园官员
+说。","beginOffset":262},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"丹
+伯里镇警察局的卡罗琳·德莫尔（Carolyn DeMore）军官告诉记者，大火发生前，三只
+长颈鹿，三只红河猪，三只小鼓和一只跳羚已经在谷仓
+内。","beginOffset":399},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"小
+羚羊是大型的森林羚羊，跳羚是中型的瞪羚羚
+羊。","beginOffset":586},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"公
+园的共同主人霍莉·亨特（Holly Hunt）告诉美国有线电视新闻网（CNN），公园里还有
+300多种其他动物，其中的所有动物都已经入
+帐。","beginOffset":657},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"公
+园官员在脸书上发表的一份声明中说：“我们很高兴我们的工作人员很安全，没有人受
+伤，但是我们每天爱护的野生动物的流失对我们爱这些动物的团队成员来说是悲惨的。
+”","beginOffset":833},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"亨
+特说，看守最初是在该物业停电后于周四发现大
+火。","beginOffset":1069},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"她
+说，该设施在星期三曾短暂断
+电。","beginOffset":1141},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"在
+一年中的这个时候，公园的一些动物通常被安置在加热的谷仓
+中。","beginOffset":1191},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"丹
+伯里镇消防局局长基思·卡勒说，周四晚上火势并未得到完全遏制，预计消防人员将在
+夜间继续扑灭大
+火。","beginOffset":1283},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"火
+灾原因尚未确
+定。","beginOffset":1428},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"卡
+勒说，俄亥俄州立消防队长将在周五抵达公园调查大
+火。","beginOffset":1455},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"卡
+勒说，消防人员发现了储存在谷仓内的丙烷储
+罐。","beginOffset":1535},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"旁
+观者录制的视频显示，当谷仓里冒出烟雾时，两只长颈鹿正逃离火
+焰。","beginOffset":1606},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"德
+莫尔说，第一反应者在附近的池塘发现至少一头长颈
+鹿。","beginOffset":1702},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"根
+据公园的网站，参观者占地100英亩，可在驾车途中喂食几种动物，包括长颈鹿，斑马
+和野
+牛。","beginOffset":1782},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"感
+恩节公园关
+闭。","beginOffset":1910},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"由
+于当局对此事件进行了调查，工作人员对损失进行哀悼，因此它将在周五关
+闭。","beginOffset":1934},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"非
+洲野生动物园野生动物园成立于
+1969年。","beginOffset":2044},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"它
+位于俄亥俄州托莱多东南约37英里
+处。","beginOffset":2099},"sentiment":{"magnitude":0.3,"score":0.3}}]},"en":{"documentSentiment":{"magnitude":4.1,"score":0},"language":"en","sentences":[{"text":{"content":"10 
+animals were killed in a fire at the African Safari Wildlife Park in 
+Ohio","beginOffset":0},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Ten 
+animals were killed when a fire broke out Thursday at the African Safari 
+Wildlife Park in northern Ohio, Danbury Township police 
+said.","beginOffset":78},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Firefighters 
+were called to the Port Clinton park at 6:15 p.m. after reports of a fire 
+at a barn housing animals, the Ottawa County Sheriff's Office and park 
+officials 
+said.","beginOffset":218},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Three 
+giraffes, three red river hogs, three bongos and a springbok had been 
+inside the barn before the fire, Officer Carolyn DeMore with the Danbury 
+Township Police told 
+reporters.","beginOffset":393},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+bongo is a large forest antelope and the springbok is a medium-sized, 
+gazelle-like 
+antelope.","beginOffset":574},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Holly 
+Hunt, the co-owner of park, told CNN there are 300 other animals in the 
+park and all have been accounted 
+for.","beginOffset":670},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"We 
+are grateful that our staff is safe and no one was injured, but the loss of 
+the wildlife that we care for every day is tragic for our team members who 
+love these animals,\" park officials said in a statement posted on 
+Facebook.","beginOffset":787},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"Hunt 
+said a caretaker initially spotted the fire Thursday following a power 
+flicker in the 
+property.","beginOffset":1019},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"She 
+said the facility had briefly lost power on 
+Wednesday.","beginOffset":1120},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Some 
+of the park's animals are usually housed in the heated barn during this 
+time of the 
+year.","beginOffset":1180},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"The 
+fire was not fully contained Thursday night and firefighters were expected 
+to continue battling the blaze overnight, Danbury Township Fire Chief Keith 
+Kahler 
+said.","beginOffset":1276},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+cause of the fire has not yet been 
+determined.","beginOffset":1445},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+Ohio State Fire Marshal will arrive at the park Friday to investigate the 
+blaze, Kahler 
+said.","beginOffset":1496},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Firefighters 
+found propane tanks stored inside the barn, Kahler 
+said.","beginOffset":1595},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+video recorded by a bystander shows two giraffes running away from the 
+flames as smoke pours from the 
+barn.","beginOffset":1666},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"DeMore 
+said first responders found at least one giraffe at a nearby 
+pond.","beginOffset":1776},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Visitors 
+to the 100-acre drive-thru park can feed several animals on their drive, 
+including giraffes, zebras and bison, according to the park's 
+website.","beginOffset":1851},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"The 
+park was closed for 
+Thanksgiving.","beginOffset":2005},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"It 
+will remain closed Friday as authorities investigate the incident and the 
+staff mourns the 
+loss.","beginOffset":2043},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"The 
+African Safari Wildlife Park was established in 
+1969.","beginOffset":2144},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"It's 
+located about 37 miles southeast of Toledo, 
+Ohio.","beginOffset":2202},"sentiment":{"magnitude":0,"score":0}}]},"fr":{"documentSentiment":{"magnitude":6.8,"score":0},"language":"fr","sentences":[{"text":{"content":"10 
+animaux ont été tués dans un incendie au parc animalier African Safari dans 
+l'Ohio","beginOffset":0},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Dix 
+animaux ont été tués lors d'un incendie jeudi au African Safari Wildlife 
+Park, dans le nord de l'Ohio, a annoncé la police du canton de 
+Danbury.","beginOffset":90},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Les 
+pompiers ont été appelés au parc de Port Clinton à 18 h 
+15.","beginOffset":244},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"après 
+des informations faisant état d'un incendie dans une grange abritant des 
+animaux, le bureau du shérif du comté d'Ottawa et des responsables du parc 
+ont 
+déclaré.","beginOffset":312},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Trois 
+officiers girafes, trois porcs de rivière rouge, trois bongos et un 
+springbok se trouvaient dans la grange avant l'incendie, a annoncé à la 
+presse la policière Carolyn DeMore, en compagnie de la police du canton de 
+Danbury.","beginOffset":486},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Un 
+bongo est une grande antilope forestière et le springbok est une antilope 
+de taille moyenne ressemblant à une 
+gazelle.","beginOffset":720},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Holly 
+Hunt, la copropriétaire du parc, a déclaré à CNN qu'il y avait 300 autres 
+animaux dans le parc et qu'ils ont tous été 
+retrouvés.","beginOffset":845},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Nous 
+sommes reconnaissants que notre personnel soit en sécurité et que personne 
+n'ait été blessé, mais la perte de la faune que nous soignons chaque jour 
+est tragique pour les membres de notre équipe qui aiment ces animaux\", ont 
+déclaré les responsables du parc dans un communiqué publié sur 
+Facebook.","beginOffset":988},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Selon 
+Hunt, un gardien a initialement repéré l'incendie jeudi après un 
+scintillement dans la 
+propriété.","beginOffset":1302},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Elle 
+a dit que l'installation avait brièvement perdu le pouvoir 
+mercredi.","beginOffset":1411},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Certains 
+animaux du parc sont généralement logés dans la grange chauffée pendant 
+cette période de 
+l'année.","beginOffset":1487},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"L'incendie 
+n'a pas été complètement maîtrisé jeudi soir et les pompiers devraient 
+continuer à combattre l'incendie du jour au lendemain, a déclaré le chef 
+des pompiers du canton de Danbury, Keith 
+Kahler.","beginOffset":1601},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"La 
+cause de l'incendie n'a pas encore été 
+déterminée.","beginOffset":1814},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Le 
+prévôt des incendies de l'Ohio arrivera au parc vendredi pour enquêter sur 
+l'incendie, a déclaré 
+Kahler.","beginOffset":1872},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Les 
+pompiers ont trouvé des réservoirs de propane entreposés à l'intérieur de 
+l'étable, a déclaré 
+Kahler.","beginOffset":1986},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Une 
+vidéo enregistrée par un passant montre deux girafes fuyant devant les 
+flammes alors que de la fumée s'échappe de la 
+grange.","beginOffset":2101},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"DeMore 
+a déclaré que les premiers intervenants avaient trouvé au moins une girafe 
+dans un étang 
+proche.","beginOffset":2234},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Les 
+visiteurs du parc de service au volant d'une centaine d'acres peuvent 
+nourrir plusieurs animaux sur leur route, notamment des girafes, des zèbres 
+et des bisons, selon le site Web du 
+parc.","beginOffset":2343},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Le 
+parc était fermé pour 
+Thanksgiving.","beginOffset":2537},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Il 
+restera fermé vendredi pendant que les autorités enquêtent sur l'incident 
+et le personnel pleure la 
+perte.","beginOffset":2578},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"L'African 
+Safari Wildlife Park a été créé en 
+1969.","beginOffset":2692},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Il 
+est situé à environ 60 km au sud-est de Toledo, dans 
+l'Ohio.","beginOffset":2747},"sentiment":{"magnitude":0,"score":0}}]},"de":{"documentSentiment":{"magnitude":9.9,"score":-0.2},"language":"de","sentences":[{"text":{"content":"10 
+Tiere wurden bei einem Brand im African Safari Wildlife Park in Ohio 
+getötet","beginOffset":0},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Zehn 
+Tiere wurden getötet, als am Donnerstag im African Safari Wildlife Park im 
+Norden von Ohio ein Feuer ausbrach, teilte die Polizei von Danbury Township 
+mit.","beginOffset":82},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Feuerwehrleute 
+wurden um 18:15 Uhr in den Port Clinton Park 
+gerufen.","beginOffset":245},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Nach 
+Berichten über einen Brand in einer Scheune, sagte der Ottawa County 
+Sheriff und 
+Parkbeamte.","beginOffset":314},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Vor 
+dem Brand befanden sich drei Giraffen, drei Red-River-Schweine, drei Bongos 
+und ein Springbock in der Scheune, teilte Officer Carolyn DeMore von der 
+Polizei der Gemeinde Danbury Reportern 
+mit.","beginOffset":414},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Ein 
+Bongo ist eine große Waldantilope und der Springbock ist eine mittelgroße, 
+gazellenartige 
+Antilope.","beginOffset":611},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Holly 
+Hunt, die Miteigentümerin des Parks, teilte CNN mit, dass es 300 andere 
+Tiere im Park gebe, für die alle verantwortlich 
+sind.","beginOffset":718},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"\"Wir 
+sind dankbar, dass unser Personal in Sicherheit ist und niemand verletzt 
+wurde, aber der Verlust der Wildtiere, die wir jeden Tag pflegen, ist für 
+unsere Teammitglieder, die diese Tiere lieben, tragisch\", hieß es in einer 
+Erklärung auf 
+Facebook.","beginOffset":853},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"Hunt 
+sagte, ein Hausmeister habe das Feuer am Donnerstag nach einem Stromschlag 
+auf dem Grundstück 
+entdeckt.","beginOffset":1108},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Sie 
+sagte, die Einrichtung habe am Mittwoch kurzzeitig den Strom 
+verloren.","beginOffset":1218},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Einige 
+Tiere des Parks sind zu dieser Jahreszeit in der Regel in der beheizten 
+Scheune 
+untergebracht.","beginOffset":1294},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Das 
+Feuer war am Donnerstagabend nicht vollständig eingedämmt, und es wird 
+erwartet, dass die Feuerwehrleute über Nacht weiter gegen das Feuer 
+kämpfen, sagte Keith Kahler, Brandmeister der Gemeinde 
+Danbury.","beginOffset":1397},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Die 
+Brandursache ist noch nicht 
+bekannt.","beginOffset":1609},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Der 
+Ohio State Fire Marshal wird am Freitag im Park eintreffen, um den Brand zu 
+untersuchen, sagte 
+Kahler.","beginOffset":1650},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Feuerwehrleute 
+fanden Propantanks in der Scheune, sagte 
+Kahler.","beginOffset":1758},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Ein 
+von einem Zuschauer aufgenommenes Video zeigt zwei Giraffen, die vor den 
+Flammen davonlaufen, während Rauch aus der Scheune 
+strömt.","beginOffset":1823},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Laut 
+DeMore fanden die Ersthelfer mindestens eine Giraffe in einem nahe 
+gelegenen 
+Teich.","beginOffset":1961},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Besucher 
+des 30 Hektar großen Durchfahrtsparks können laut Website des Parks mehrere 
+Tiere auf ihrer Fahrt füttern, darunter Giraffen, Zebras und 
+Bisons.","beginOffset":2051},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Der 
+Park war wegen Thanksgiving 
+geschlossen.","beginOffset":2209},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Es 
+bleibt Freitag geschlossen, da die Behörden den Vorfall untersuchen und das 
+Personal um den Verlust 
+trauert.","beginOffset":2254},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"Der 
+African Safari Wildlife Park wurde 1969 
+gegründet.","beginOffset":2368},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Er 
+liegt etwa 60 km südöstlich von Toledo, 
+Ohio.","beginOffset":2424},"sentiment":{"magnitude":0,"score":0}}]},"it":{"documentSentiment":{"magnitude":7.9,"score":-0.1},"language":"it","sentences":[{"text":{"content":"10 
+animali sono stati uccisi in un incendio presso l'African Safari Wildlife 
+Park in 
+Ohio","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Dieci 
+animali sono stati uccisi quando è scoppiato un incendio giovedì 
+all'African Safari Wildlife Park nel nord dell'Ohio, ha detto la polizia di 
+Danbury 
+Township.","beginOffset":91},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"I 
+pompieri sono stati chiamati al parco di Port Clinton alle 18:15 dopo le 
+notizie di un incendio in un fienile che ospita animali, l'ufficio dello 
+sceriffo della contea di Ottawa e i funzionari del parco hanno 
+detto.","beginOffset":259},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Tre 
+giraffe, tre maiali del fiume rosso, tre bonghi e un antilope saltante 
+erano stati all'interno del fienile prima dell'incendio, ha detto ai 
+giornalisti l'agente Carolyn DeMore con la polizia del distretto di 
+Danbury.","beginOffset":478},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Un 
+bongo è una grande antilope della foresta e l'antilope saltante è 
+un'antilope di medie dimensioni, simile a una 
+gazzella.","beginOffset":699},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Holly 
+Hunt, il comproprietario del parco, ha detto alla CNN che ci sono altri 300 
+animali nel parco e tutti sono stati presi in 
+considerazione.","beginOffset":827},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"Siamo 
+grati che il nostro personale sia al sicuro e che nessuno sia rimasto 
+ferito, ma la perdita della fauna selvatica di cui ci prendiamo cura ogni 
+giorno è tragica per i membri del nostro team che amano questi animali\", 
+hanno detto i funzionari del parco in una nota pubblicata su 
+Facebook.","beginOffset":972},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Hunt 
+ha detto che un custode inizialmente ha individuato il fuoco giovedì a 
+seguito di uno sfarfallio nella 
+proprietà.","beginOffset":1269},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Ha 
+detto che la struttura ha perso brevemente il potere 
+mercoledì.","beginOffset":1390},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Alcuni 
+degli animali del parco sono generalmente alloggiati nella stalla 
+riscaldata durante questo periodo 
+dell'anno.","beginOffset":1459},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Il 
+fuoco non è stato completamente contenuto giovedì sera e si prevede che i 
+vigili del fuoco continueranno a combattere l'incendio durante la notte, ha 
+dichiarato il capo dei vigili del fuoco del distretto di Danbury Keith 
+Kahler.","beginOffset":1578},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"La 
+causa dell'incendio non è stata ancora 
+determinata.","beginOffset":1813},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Il 
+Maresciallo dei vigili del fuoco dell'Ohio arriverà al parco venerdì per 
+indagare sull'incendio, ha detto 
+Kahler.","beginOffset":1869},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"I 
+pompieri hanno trovato carri armati di propano immagazzinati nel fienile, 
+ha detto 
+Kahler.","beginOffset":1989},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Un 
+video registrato da uno spettatore mostra due giraffe che scappano dalle 
+fiamme mentre il fumo fuoriesce dal 
+fienile.","beginOffset":2083},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"DeMore 
+ha detto che i primi soccorritori hanno trovato almeno una giraffa in uno 
+stagno 
+vicino.","beginOffset":2204},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"I 
+visitatori del parco drive-thru di 100 acri possono nutrire diversi animali 
+durante il loro viaggio, tra cui giraffe, zebre e bisonti, secondo il sito 
+web del 
+parco.","beginOffset":2301},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Il 
+parco è stato chiuso per il 
+Ringraziamento.","beginOffset":2470},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Rimarrà 
+chiuso venerdì mentre le autorità indagano sull'incidente e il personale 
+piange la 
+perdita.","beginOffset":2518},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"L'African 
+Safari Wildlife Park è stato istituito nel 
+1969.","beginOffset":2622},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Si 
+trova a circa 37 miglia a sud-est di Toledo, 
+nell'Ohio.","beginOffset":2682},"sentiment":{"magnitude":0,"score":0}}]},"ja":{"documentSentiment":{"magnitude":6.9,"score":0},"language":"ja","sentences":[{"text":{"content":"オ
+ハイオ州のアフリカンサファリ野生動物公園で10匹の動物が火災で死亡した\n\nダン
+ベリータウンシップの警察によると、木曜日にオハイオ州北部のアフリカンサファリ
+野生動物公園で火災が発生した場合、10頭の動物が死亡しまし
+た。","beginOffset":0},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"消
+防士は午後6時15分にポートクリントン公園に呼ばれまし
+た。","beginOffset":317},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"オ
+タワ郡保安官事務所と公園職員は、家畜小屋での火災の報告の後、言っ
+た。","beginOffset":401},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"火
+災の前に3頭のキリン、3頭の紅河豚、3頭のボンゴ、スプリングボックが納屋の中に
+いたと、ダンベリータウンシップ警察のキャロリンデモア警官は記者団に語っ
+た。","beginOffset":508},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"ボ
+ンゴは大きな森のカモシカで、スプリングボックは中型のガゼルのようなカモシカで
+す。","beginOffset":733},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"公
+園の共同所有者であるホリー・ハントは、CNNに公園には他に300匹の動物がおり、す
+べてが説明されていると語っ
+た。","beginOffset":858},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"「
+スタッフは安全で、負傷者はいませんが、これらの動物を愛しているチームメンバー
+にとって、毎日の世話をしている野生生物の損失は悲劇的です」と、公園の関係者は
+Facebookに投稿した声明で述べていま
+す。","beginOffset":1019},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"ハ
+ント氏によると、木曜日に管理人が火事を発見したのは、建物の電力がちらついたた
+めで
+す。","beginOffset":1305},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"彼
+女は、施設が水曜日に短時間停電したと言いまし
+た。","beginOffset":1434},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"公
+園の動物の一部は、通常、この時期に加熱された納屋に収容されま
+す。","beginOffset":1511},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"火
+は木曜日の夜に完全に封じ込められておらず、消防士は一晩その炎との戦いを続ける
+と予想されていた、とダンベリー・タウンシップ消防署長キース・カーラーは述べ
+た。","beginOffset":1612},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"火
+災の原因はまだ特定されていませ
+ん。","beginOffset":1848},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"オ
+ハイオ州消防元sは火曜日に調査のために公園に到着するとカーラーは言っ
+た。","beginOffset":1902},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"消
+防士は、納屋の内部にプロパンタンクが保管されていることを発見したとKahler氏は
+言いま
+す。","beginOffset":2013},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"傍
+観者が録画したビデオでは、2頭のキリンが納屋から煙が降り注ぐと炎から逃げてい
+ま
+す。","beginOffset":2144},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"デ
+モアは、最初のレスポンダーが近くの池で少なくとも1匹のキリンを見つけたと言い
+まし
+た。","beginOffset":2268},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"100エー
+カーのドライブスルーパークへの訪問者は、公園のウェブサイトによると、キリン、
+シマウマ、バイソンなどのいくつかの動物をドライブで飼うことができま
+す。","beginOffset":2397},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"公
+園は感謝祭のため閉鎖されまし
+た。","beginOffset":2627},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"当
+局が事件を調査し、スタッフが損失を追asするため、金曜日は閉鎖されたままになり
+ま
+す。","beginOffset":2678},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"ア
+フリカンサファリ野生動物公園は1969年に設立されまし
+た。","beginOffset":2805},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"オ
+ハイオ州トレドの南東約3​​7マイルに位置していま
+す。","beginOffset":2887},"sentiment":{"magnitude":0.3,"score":0.3}}]},"ko":{"documentSentiment":{"magnitude":9.8,"score":0.3},"language":"ko","sentences":[{"text":{"content":"오하이오 
+주 아프리카 사파리 야생 동물 공원에서 10 마리의 동물이 화재로 
+사망","beginOffset":0},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"댄 
+버리 타운 쉽 경찰에 따르면 목요일 오하이오 북부 아프리카 사파리 야생 동물 
+공원에서 화재가 발생했을 때 10 마리의 동물이 
+사망했다고한다.","beginOffset":108},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"소방관들은 
+오후 6시 15 분에 포트 클린턴 공원으로 
+소집되었습니다.","beginOffset":304},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"오타와 
+카운티 보안관 사무실과 공원 관계자는 헛간 주택 동물에 화재가 발생했다고 
+보도했다.","beginOffset":395},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"댄 
+베리 타운 쉽 경찰과 함께 캐롤린 데모 어 장교는 기자들과 함께 기린 3 마리, 
+홍강 돼지 3 마리, 봉고 3 마리, 스프링복 한 마리가 헛간 안에 있었다고 
+말했다.","beginOffset":523},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"봉고는 
+큰 숲 영양이며 스프링복은 중간 크기의 가젤 
+영양입니다.","beginOffset":736},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"공원의 
+공동 소유자 인 홀리 헌트 (Holly Hunt)는 CNN에 공원에 300 마리의 다른 동물이 
+있으며 모두 설명했다고 
+전했다.","beginOffset":825},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"파크 
+관계자는 페이스 북에 올린 성명에서 \"우리 직원들은 안전하고 아무도 다 치지 
+않아서 고맙지 만, 우리가 매일 돌보는 야생 동물의 상실은이 동물들을 사랑하는 
+우리 팀원들에게는 비극적\"이라고 
+말했다.","beginOffset":979},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"헌트 
+장관은 목요일에 재산이 깜박 거리면서 목요일에 화재를 발견했다고 
+말했다.","beginOffset":1257},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"그녀는 
+수요일에 시설이 잠시 정전되었다고 
+말했다.","beginOffset":1367},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"공원의 
+일부 동물은 일반적으로 일년 중이시기에 헛간에 
+보관됩니다.","beginOffset":1438},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"댄 
+베리 타운 쉽 소방관 키이스 칼러 (Keith Kahler)는 목요일 밤에는 화재가 
+완전히 봉쇄되지 않았으며 소방관들은 밤새 불꽃을 진압 할 것이라고 
+예상했다.","beginOffset":1532},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"화재의 
+원인은 아직 결정되지 
+않았습니다.","beginOffset":1737},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Kahler는 
+오하이오 주 소방관이 금요일에 공원에 도착하여 화재를 조사 할 것이라고 
+말했다.","beginOffset":1794},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"소방관은 
+헛간 안에 저장된 프로판 탱크를 발견했다고 Kahler는 
+말했다.","beginOffset":1916},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"방관자가 
+녹화 한 비디오는 연기가 헛간에서 쏟아 질 때 불꽃에서 도망 치는 두 기린을 
+보여줍니다.","beginOffset":2011},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"DeMore는 
+첫 번째 응답자들이 근처 연못에서 적어도 하나의 기린을 발견했다고 
+말했다.","beginOffset":2144},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"공원의 
+웹 사이트에 따르면 100 에이커의 드라이브 스루 공원 방문객은 기린, 얼룩말 및 
+들소를 포함하여 드라이브에 여러 동물을 먹일 수 
+있습니다.","beginOffset":2259},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"추수 
+감사절을 위해 공원이 문을 
+닫았습니다.","beginOffset":2457},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"당국은 
+사건을 조사하고 직원들이 상실을 애도하면서 금요일에도 문을 닫을 
+것이다.","beginOffset":2518},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"아프리카 
+사파리 야생 동물 공원은 1969 년에 설립되었으며 오하이오 주 톨레도에서 
+남동쪽으로 약 37 마일 거리에 
+있습니다.","beginOffset":2632},"sentiment":{"magnitude":0.7,"score":0.7}}]},"pt":{"documentSentiment":{"magnitude":3.8,"score":0},"language":"pt","sentences":[{"text":{"content":"10 
+animais foram mortos em um incêndio no African Safari Wildlife Park em 
+Ohio","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Dez 
+animais foram mortos quando um incêndio eclodiu na quinta-feira no African 
+Safari Wildlife Park, no norte de Ohio, informou a polícia do distrito de 
+Danbury.","beginOffset":81},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Os 
+bombeiros foram chamados ao parque de Port Clinton às 18h15. depois de 
+relatos de um incêndio em um celeiro que abriga animais, disseram o 
+escritório do xerife do condado de Ottawa e as autoridades do 
+parque.","beginOffset":246},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Três 
+girafas, três porcos do rio vermelho, três bongôs e uma gazela haviam 
+estado dentro do celeiro antes do incêndio, disse a repórteres a oficial 
+Carolyn DeMore, da polícia do distrito de 
+Danbury.","beginOffset":462},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Um 
+bongo é um grande antílope da floresta e a gazela é um antílope de tamanho 
+médio, semelhante a uma 
+gazela.","beginOffset":668},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Holly 
+Hunt, co-proprietária do parque, disse à CNN que existem outros 300 animais 
+no parque e todos foram 
+contabilizados.","beginOffset":784},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Somos 
+gratos por nossa equipe estar segura e ninguém se machucar, mas a perda da 
+vida selvagem que cuidamos todos os dias é trágica para os membros de nossa 
+equipe que amam esses animais\", disseram as autoridades do parque em 
+comunicado divulgado no 
+Facebook.","beginOffset":909},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Hunt 
+disse que um zelador inicialmente viu o incêndio na quinta-feira após uma 
+oscilação de energia na 
+propriedade.","beginOffset":1174},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Ela 
+disse que as instalações perderam energia brevemente na 
+quarta-feira.","beginOffset":1294},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Alguns 
+dos animais do parque costumam ser alojados no celeiro aquecido durante 
+esta época do 
+ano.","beginOffset":1371},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"O 
+incêndio não foi totalmente contido na noite de quinta-feira e os bombeiros 
+devem continuar lutando contra o incêndio da noite para o dia, disse o 
+chefe dos bombeiros do distrito de Danbury, Keith 
+Kahler.","beginOffset":1471},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"A 
+causa do incêndio ainda não foi 
+determinada.","beginOffset":1682},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"O 
+marechal de fogo do estado de Ohio chegará ao parque na sexta-feira para 
+investigar o incêndio, disse 
+Kahler.","beginOffset":1731},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Os 
+bombeiros encontraram tanques de propano armazenados dentro do celeiro, 
+disse 
+Kahler.","beginOffset":1846},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Um 
+vídeo gravado por um espectador mostra duas girafas fugindo das chamas 
+enquanto a fumaça sai do 
+celeiro.","beginOffset":1936},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"DeMore 
+disse que os socorristas encontraram pelo menos uma girafa em um lago 
+próximo.","beginOffset":2046},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Os 
+visitantes do parque drive-thru de 100 acres podem alimentar vários 
+animais, incluindo girafas, zebras e bisões, de acordo com o site do 
+parque.","beginOffset":2134},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"O 
+parque estava fechado para o Dia de Ação de 
+Graças.","beginOffset":2285},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Ele 
+permanecerá fechado na sexta-feira, enquanto as autoridades investigam o 
+incidente e a equipe lamenta a 
+perda.","beginOffset":2342},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"O 
+African Safari Wildlife Park foi criado em 
+1969.","beginOffset":2459},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Está 
+localizado a cerca de 60 km a sudeste de Toledo, 
+Ohio.","beginOffset":2510},"sentiment":{"magnitude":0,"score":0}}]},"es":{"documentSentiment":{"magnitude":8.1,"score":0},"language":"es","sentences":[{"text":{"content":"10 
+animales murieron en un incendio en el African Safari Wildlife Park en 
+Ohio","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Diez 
+animales murieron cuando se produjo un incendio el jueves en el African 
+Safari Wildlife Park en el norte de Ohio, dijo la policía del municipio de 
+Danbury.","beginOffset":80},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Los 
+bomberos fueron llamados al parque Port Clinton a las 6:15 
+p.m.","beginOffset":243},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Después 
+de informes de un incendio en un granero que albergaba animales, dijeron la 
+Oficina del Sheriff del Condado de Ottawa y los funcionarios del 
+parque.","beginOffset":311},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Tres 
+jirafas, tres cerdos del río Rojo, tres bongos y una gacela habían estado 
+dentro del granero antes del incendio, dijo a la prensa la oficial Carolyn 
+DeMore de la policía del municipio de 
+Danbury.","beginOffset":470},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Un 
+bongo es un gran antílope del bosque y el springbok es un antílope mediano 
+de tamaño 
+gacela.","beginOffset":674},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"Holly 
+Hunt, la copropietaria del parque, le dijo a CNN que hay otros 300 animales 
+en el parque y que todos han sido 
+contabilizados.","beginOffset":774},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Estamos 
+agradecidos de que nuestro personal esté seguro y de que nadie resultó 
+herido, pero la pérdida de la vida silvestre que cuidamos todos los días es 
+trágica para los miembros de nuestro equipo que aman a estos animales\", 
+dijeron los funcionarios del parque en un comunicado publicado en 
+Facebook.","beginOffset":907},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Hunt 
+dijo que un cuidador inicialmente vio el incendio el jueves después de un 
+parpadeo de energía en la 
+propiedad.","beginOffset":1217},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Ella 
+dijo que la instalación había perdido brevemente el poder el 
+miércoles.","beginOffset":1335},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Algunos 
+de los animales del parque generalmente se alojan en el establo climatizado 
+durante esta época del 
+año.","beginOffset":1416},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"El 
+incendio no se contuvo por completo el jueves por la noche y se esperaba 
+que los bomberos continuaran luchando contra el incendio durante la noche, 
+dijo el jefe de bomberos del municipio de Danbury, Keith 
+Kahler.","beginOffset":1531},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"La 
+causa del incendio aún no se ha 
+determinado.","beginOffset":1748},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"El 
+jefe de bomberos del estado de Ohio llegará al parque el viernes para 
+investigar el incendio, dijo 
+Kahler.","beginOffset":1797},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Los 
+bomberos encontraron tanques de propano almacenados dentro del granero, 
+dijo 
+Kahler.","beginOffset":1909},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Un 
+video grabado por un espectador muestra a dos jirafas huyendo de las llamas 
+mientras el humo sale del 
+granero.","beginOffset":1999},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"DeMore 
+dijo que los primeros en responder encontraron al menos una jirafa en un 
+estanque 
+cercano.","beginOffset":2113},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Los 
+visitantes del parque drive-thru de 100 acres pueden alimentar a varios 
+animales en su camino, incluidas jirafas, cebras y bisontes, según el sitio 
+web del 
+parque.","beginOffset":2212},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"El 
+parque estaba cerrado por Acción de 
+Gracias.","beginOffset":2382},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Permanecerá 
+cerrado el viernes mientras las autoridades investigan el incidente y el 
+personal llora la 
+pérdida.","beginOffset":2431},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"El 
+African Safari Wildlife Park se estableció en 
+1969.","beginOffset":2546},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Se 
+encuentra a unas 37 millas al sureste de Toledo, 
+Ohio.","beginOffset":2602},"sentiment":{"magnitude":0.2,"score":0.2}}]},"random_to_source":{"documentSentiment":{"magnitude":4.8,"score":0},"language":"en","sentences":[{"text":{"content":"10 
+animals were killed in a fire at the African Safari Wildlife Park in 
+Ohio","beginOffset":0},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Ten 
+animals were killed when a fire broke out on Thursday at the African Safari 
+Wildlife Park in northern Ohio, police from Danbury Township 
+said.","beginOffset":78},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Firefighters 
+were called to Port Clinton Park at 
+18:15.","beginOffset":226},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"After 
+reporting a fire in a barn, Ottawa County sheriff and park official 
+said.","beginOffset":282},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Prior 
+to the fire, three giraffes, three Red River pigs, three bongos, and a 
+springbuck in the barn, told reporters Officer Carolyn DeMore from the 
+Danbury Town Police 
+Department.","beginOffset":363},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+bongo is a large forest antelope and the springbok is a medium-sized, 
+gazelle-like 
+antelope.","beginOffset":543},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Holly 
+Hunt, the co-owner of the park, told CNN that there are 300 other animals 
+in the park that everyone is responsible 
+for.","beginOffset":639},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"We 
+are grateful that our staff is safe and nobody has been injured, but the 
+loss of wildlife we ​​maintain every day is tragic for our team members who 
+love these animals,\" a statement said on 
+Facebook.","beginOffset":766},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Hunt 
+said a caretaker discovered the fire on Thursday after electric shock on 
+the 
+property.","beginOffset":975},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"She 
+said the facility had lost power for a short time on 
+Wednesday.","beginOffset":1067},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Some 
+animals of the park are usually housed in the heated barn at this time of 
+the 
+year.","beginOffset":1136},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"The 
+fire was not fully contained on Thursday night and firefighters are 
+expected to continue fighting the fire overnight, said Keith Kahler, fire 
+chief of the community of 
+Danbury.","beginOffset":1226},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"The 
+cause of fire is not discovered 
+yet.","beginOffset":1408},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+Ohio State Fire Marshal will arrive at the park Friday to investigate the 
+fire, Kahler 
+said.","beginOffset":1449},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Firefighters 
+found propane tanks in the barn, Kahler 
+said.","beginOffset":1547},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+video taken by a viewer shows two giraffes running away from the flames as 
+smoke flows from the 
+barn.","beginOffset":1607},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"According 
+to DeMore, the first responders found at least one giraffe in a nearby 
+pond.","beginOffset":1711},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"According 
+to the park's website, visitors to the 30-acre thoroughfare can feed 
+several animals on their journey, including giraffes, zebras and 
+bison.","beginOffset":1799},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"The 
+park was closed for 
+Thanksgiving.","beginOffset":1951},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"It 
+remains closed Friday as the authorities investigate the incident and mourn 
+the loss of the 
+staff.","beginOffset":1989},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"The 
+African Safari Wildlife Park was founded in 
+1969.","beginOffset":2092},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"It 
+is located about 60 km southeast of Toledo, 
+Ohio.","beginOffset":2146},"sentiment":{"magnitude":0,"score":0}}],"foreign_lang":"de"}}

@@ -1,0 +1,647 @@
+{"zh":{"documentSentiment":{"magnitude":8.5,"score":0.1},"language":"zh","sentences":[{"text":{"content":"风
+暴
+威胁周末忙碌的旅行\n\n一场来自加利福尼亚的强烈风暴可能会给全国数以百万计希
+望在感恩节周末之后回家的旅行者造成重大破
+坏。","beginOffset":0},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"国
+家气象局表示，由于冰雪或山洪持续覆盖该国大片地区，因此在该国某些地区旅行是不
+可能
+的。","beginOffset":181},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"预
+计风暴将在整个周末向东进入星期五，在平原进入中西部，在星期六到中西部，在星期
+天向东
+北。","beginOffset":312},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"由
+于预计将有数百万的度假旅行者回家，所以星期日将特别具有破坏
+性。","beginOffset":446},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"上
+周五，一位旅客通过Twitter询问天气服务是否建议在周末开车到明尼苏达州德卢
+斯。","beginOffset":542},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"该
+机构警告说：“如果您今晚在德卢斯（Duluth），由于大雪和暴风雪的影响，您很可能
+会被困在那里，直到至少周日下午。
+”","beginOffset":656},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"航
+空贸易行业的贸易组织美国航空公司（American for America）预计，周日将有3110万
+人次乘飞机上
+天。","beginOffset":823},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"多
+家航空公司表示，他们像往常一样在周五运
+营。","beginOffset":952},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"达
+美航空（Delta Airlines）表示，天气可能会干扰周六在中西部上空机场以及周日和周
+一在东北地区的飞机旅
+行。","beginOffset":1020},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"它
+允许客户取消或重新安排航
+班。","beginOffset":1168},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"美
+国航空在南卡罗来纳州拉皮德城也发出了类似的报
+价。","beginOffset":1213},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"该
+州的部分地区受到暴风雪的警告，可以看到多达两英尺的积
+雪。","beginOffset":1288},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"该
+州当局报告称，驾驶员在冰雪覆盖的道路上失去控制后发生了致命的车
+祸。","beginOffset":1377},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"卡
+车滑入沟中并翻滚后，一名37岁的乘客死
+亡。","beginOffset":1479},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"其
+他地方的高速公路被关
+闭。","beginOffset":1543},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"加
+利福尼亚的司机被困，亚利桑那州的当局恳请旅客等待天
+气。","beginOffset":1582},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"气
+象部门周五从蒙大拿州向内布拉斯加州向威斯康星州发出警
+告。","beginOffset":1668},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"它
+预计在犹他州，科罗拉多州，蒙大拿州和怀俄明州的部分地区会降
+雪。","beginOffset":1755},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"本
+周早些时候，强风和雪成为一个问题，当时有60辆车卷入了犹他州的大规模堆
+积。","beginOffset":1851},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"北
+密歇根大学提前两天重新开放了学生宿舍，为预报员预测该地区降雪量达到或超过一英
+尺提供了选
+择。","beginOffset":1963},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"校
+园警察局长迈克·巴斯说：“我们想让人们知道他们可能开车进入什么地方。
+”","beginOffset":2103},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"本
+周早些时候，西海岸被冬季暴风雨袭击，造成数千次航班延
+误。","beginOffset":2212},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"太
+平洋西北部山区最多倾泻了四英尺的雪，星期二，丹佛被一场暴风雨淹
+没。","beginOffset":2299},"sentiment":{"magnitude":0.2,"score":-0.2}}]},"en":{"documentSentiment":{"magnitude":6.7,"score":-0.1},"language":"en","sentences":[{"text":{"content":"Storm 
+threatens disruption on busiest travel 
+weekend","beginOffset":0},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"A 
+powerful storm making its way from California could cause major disruptions 
+for millions of travelers across the country hoping to get home after the 
+Thanksgiving 
+weekend.","beginOffset":54},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"The 
+National Weather Service said travel could be impossible in some parts of 
+the country as ice or flash flooding continues to cover swaths of the 
+country.","beginOffset":229},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"The 
+storm was expected to head east throughout the weekend into the Plains on 
+Friday, the Midwest by Saturday and Northeast on 
+Sunday.","beginOffset":387},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Sunday 
+will be particularly disruptive as millions of holiday travelers are 
+expected to head 
+home.","beginOffset":523},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"One 
+traveler asked the weather service via Twitter on Friday if it was 
+advisable to drive to Duluth, Minn., over the 
+weekend.","beginOffset":622},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"“If 
+you are in Duluth by tonight, you will likely be stuck there until at least 
+Sunday afternoon due to heavy snow and blizzard conditions,\" the agency 
+warned.","beginOffset":749},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Airlines 
+for America, the airline trade industry's trade group, expects 31.1 million 
+passengers to take to the skies 
+Sunday.","beginOffset":912},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Multiple 
+airlines said they were operating on Friday as 
+usual.","beginOffset":1037},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Delta 
+Airlines said weather could disrupt travel at airports in the upper Midwest 
+on Saturday and the northeast on Sunday and 
+Monday.","beginOffset":1101},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"It 
+offered to let customers cancel or reschedule 
+flights.","beginOffset":1236},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"American 
+Airlines issued similar offers in Rapid City, 
+S.D.","beginOffset":1294},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Sections 
+of the state were under a blizzard warning and could see as much as two 
+feet of 
+snow.","beginOffset":1354},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Authorities 
+in the state reported a fatal crash after a driver lost control on an 
+ice-covered 
+road.","beginOffset":1450},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"A 
+37-year-old passenger died after a truck slid into a ditch and rolled 
+over.","beginOffset":1550},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Highways 
+elsewhere were shut 
+down.","beginOffset":1629},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Drivers 
+in California were left stranded and authorities in Arizona pleaded with 
+travelers to wait out the 
+weather.","beginOffset":1664},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+weather service issued warnings Friday from Montana to Nebraska to 
+Wisconsin.","beginOffset":1781},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"It 
+anticipates heavy snowfall in parts of Utah, Colorado, Montana and 
+Wyoming.","beginOffset":1863},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Strong 
+winds and snow became an issue earlier this week when 60 vehicles were 
+involved in a massive pileup in 
+Utah.","beginOffset":1942},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Northern 
+Michigan University reopened its residence halls two days early to give 
+students options as forecasters predicted a foot or more of snow in the 
+region.","beginOffset":2059},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"“We 
+want to make people aware of what they could be driving into,” campus 
+police Chief Mike Bath 
+said.","beginOffset":2221},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+West Coast was slammed with winter storms earlier this week, causing 
+thousands of flight 
+delays.","beginOffset":2329},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Up 
+to four feet of snow was dumped in mountainous areas of the Pacific 
+Northwest and Denver was clobbered by a storm 
+Tuesday.","beginOffset":2430},"sentiment":{"magnitude":0.2,"score":-0.2}}]},"fr":{"documentSentiment":{"magnitude":9.2,"score":0},"language":"fr","sentences":[{"text":{"content":"La 
+tempête menace de perturber le week-end de voyage le plus 
+occupé","beginOffset":0},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Une 
+puissante tempête venant de Californie pourrait causer des perturbations 
+majeures à des millions de voyageurs à travers le pays dans l’espoir de 
+rentrer chez eux après le week-end de 
+Thanksgiving.","beginOffset":71},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Le 
+Service météorologique national a déclaré que les voyages pourraient être 
+impossibles dans certaines régions du pays car la glace ou des inondations 
+soudaines continuent de couvrir une grande partie du 
+pays.","beginOffset":279},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"On 
+prévoyait que la tempête se dirigerait vers l'est tout au long du week-end 
+dans les Plaines vendredi, le Midwest samedi et le Nord-Est 
+dimanche.","beginOffset":497},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Dimanche 
+sera particulièrement perturbant, car des millions de vacanciers devraient 
+rentrer chez 
+eux.","beginOffset":648},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Un 
+voyageur a demandé vendredi au service météorologique via Twitter s'il 
+était conseillé de se rendre à Duluth, au Minnesota, le 
+week-end.","beginOffset":751},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Si 
+vous êtes à Duluth ce soir, vous serez probablement coincé là-bas au moins 
+dimanche après-midi en raison des fortes chutes de neige et du blizzard\", 
+a prévenu 
+l'agence.","beginOffset":898},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Airlines 
+for America, le groupe commercial de l'industrie du transport aérien, 
+s'attend à ce que 31,1 millions de passagers montent dans les airs 
+dimanche.","beginOffset":1078},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Plusieurs 
+compagnies aériennes ont indiqué qu'elles opéraient vendredi comme 
+d'habitude.","beginOffset":1236},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Selon 
+Delta Airlines, la météo pourrait perturber les vols dans les aéroports du 
+Haut-Midwest samedi et du nord-est dimanche et 
+lundi.","beginOffset":1329},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Elle 
+a proposé aux clients d’annuler ou de reprogrammer leurs 
+vols.","beginOffset":1468},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"American 
+Airlines a publié des offres similaires à Rapid City, 
+S.D.","beginOffset":1539},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Des 
+sections de l'état étaient sous un avertissement de blizzard et pouvaient 
+voir jusqu'à deux pieds de 
+neige.","beginOffset":1609},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Les 
+autorités de l'État ont signalé un accident mortel après la perte de 
+contrôle d'un conducteur sur une route recouverte de 
+glace.","beginOffset":1725},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"Un 
+passager âgé de 37 ans est décédé après qu'un camion ait glissé dans un 
+fossé et se soit 
+renversé.","beginOffset":1863},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Les 
+routes ailleurs ont été 
+fermées.","beginOffset":1975},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Les 
+conducteurs californiens sont restés coincés et les autorités de l'Arizona 
+ont exhorté les voyageurs à attendre le beau 
+temps.","beginOffset":2015},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Le 
+service météo a émis des avertissements vendredi du Montana au Nebraska au 
+Wisconsin.","beginOffset":2152},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Il 
+prévoit de fortes chutes de neige dans certaines régions de l'Utah, du 
+Colorado, du Montana et du 
+Wyoming.","beginOffset":2244},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Les 
+vents forts et la neige sont devenus un problème plus tôt cette semaine 
+lorsque 60 véhicules ont été impliqués dans un entassement massif dans 
+l'Utah.","beginOffset":2356},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"La 
+Northern Michigan University a rouvert ses résidences deux jours à l’avance 
+pour donner aux étudiants la possibilité de choisir, les prévisionnistes 
+prévoyant un pied de neige ou plus dans la 
+région.","beginOffset":2518},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"«Nous 
+voulons que les gens sachent dans quoi ils pourraient conduire», a déclaré 
+le chef de la police du campus, Mike 
+Bath.","beginOffset":2731},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Des 
+tempêtes hivernales se sont abattues sur la côte ouest plus tôt cette 
+semaine, causant des milliers de retards de 
+vol.","beginOffset":2860},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Jusqu'à 
+quatre pieds de neige ont été déversés dans les régions montagneuses du 
+nord-ouest du Pacifique et Denver a été envahi par une tempête 
+mardi.","beginOffset":2986},"sentiment":{"magnitude":0.4,"score":0.4}}]},"de":{"documentSentiment":{"magnitude":5.6,"score":0},"language":"de","sentences":[{"text":{"content":"Sturm 
+droht Störung am verkehrsreichsten 
+Reisewochenende","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ein 
+starker Sturm, der seinen Weg von Kalifornien bahnt, könnte für Millionen 
+von Reisenden im ganzen Land zu größeren Störungen führen, in der Hoffnung, 
+nach dem Thanksgiving-Wochenende nach Hause zu 
+kommen.","beginOffset":59},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Der 
+Nationale Wetterdienst sagte, dass Reisen in einigen Teilen des Landes 
+unmöglich sein könnten, da Eis- oder Sturzfluten weiterhin Schwaden des 
+Landes 
+bedecken.","beginOffset":275},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Es 
+wurde erwartet, dass der Sturm am Freitag das ganze Wochenende über nach 
+Osten in die Ebenen, am Samstag in den Mittleren Westen und am Sonntag in 
+den Nordosten 
+flog.","beginOffset":442},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Der 
+Sonntag wird besonders störend sein, da Millionen von Urlaubsreisenden nach 
+Hause erwartet 
+werden.","beginOffset":614},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Ein 
+Reisender fragte den Wetterdienst am Freitag via Twitter, ob es ratsam sei, 
+über das Wochenende nach Duluth im US-Bundesstaat Minnesota zu 
+fahren.","beginOffset":718},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"Wenn 
+Sie bis heute Abend in Duluth sind, werden Sie dort wahrscheinlich bis 
+mindestens Sonntag Nachmittag festsitzen, da es stark schneit und 
+Schneestürme gibt\", warnte die 
+Agentur.","beginOffset":871},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Airlines 
+for America, die Handelsgruppe der Luftfahrtbranche, erwartet am Sonntag 
+31,1 Millionen 
+Passagiere.","beginOffset":1056},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Mehrere 
+Fluggesellschaften gaben an, am Freitag wie gewohnt operiert zu 
+haben.","beginOffset":1165},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Laut 
+Delta Airlines könnte das Wetter am Samstag und am Sonntag und Montag die 
+Flugreisen an den Flughäfen im oberen Mittleren Westen und im Nordosten 
+stören.","beginOffset":1245},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Es 
+wurde angeboten, Kunden Flüge stornieren oder neu planen zu 
+lassen.","beginOffset":1408},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"American 
+Airlines hat ähnliche Angebote in Rapid City, 
+S.D.","beginOffset":1480},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Teile 
+des Staates standen unter einer Schneesturmwarnung und konnten bis zu zwei 
+Fuß Schnee 
+sehen.","beginOffset":1541},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Die 
+staatlichen Behörden meldeten einen tödlichen Unfall, nachdem ein Fahrer 
+die Kontrolle über eine vereiste Straße verloren 
+hatte.","beginOffset":1642},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Ein 
+37-jähriger Passagier starb, nachdem ein Lastwagen in einen Graben 
+gerutscht war und sich umgedreht 
+hatte.","beginOffset":1779},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Andere 
+Autobahnen wurden 
+stillgelegt.","beginOffset":1892},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Fahrer 
+in Kalifornien blieben gestrandet, und die Behörden in Arizona flehten 
+Reisende an, das Wetter 
+abzuwarten.","beginOffset":1930},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Der 
+Wetterdienst warnte Freitag von Montana nach Nebraska nach 
+Wisconsin.","beginOffset":2046},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"In 
+Teilen von Utah, Colorado, Montana und Wyoming ist mit starken Schneefällen 
+zu 
+rechnen.","beginOffset":2120},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Starke 
+Winde und Schnee wurden zu Beginn dieser Woche zu einem Problem, als 60 
+Fahrzeuge in Utah in einen massiven Aufruhr verwickelt 
+waren.","beginOffset":2212},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Die 
+Northern Michigan University hat ihre Studentenwohnheime zwei Tage früher 
+wiedereröffnet, um den Studenten die Möglichkeit zu geben, Prognosen zu 
+unterbreiten.","beginOffset":2354},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"Wir 
+wollen die Leute darauf aufmerksam machen, in was sie hineinfahren 
+könnten\", sagte der Chef der Campus-Polizei, Mike 
+Bath.","beginOffset":2522},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Die 
+Westküste wurde Anfang dieser Woche von Winterstürmen heimgesucht, die 
+Tausende von Flugverspätungen 
+verursachten.","beginOffset":2652},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Bis 
+zu drei Meter Schnee wurden in Bergregionen des pazifischen Nordwestens 
+abgeladen, und Denver wurde am Dienstag von einem Sturm 
+heimgesucht.","beginOffset":2774},"sentiment":{"magnitude":0.3,"score":0.3}}]},"it":{"documentSentiment":{"magnitude":8.8,"score":-0.1},"language":"it","sentences":[{"text":{"content":"Storm 
+minaccia l'interruzione nel weekend di viaggio più 
+affollato","beginOffset":0},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Una 
+potente tempesta proveniente dalla California potrebbe causare gravi disagi 
+a milioni di viaggiatori in tutto il paese nella speranza di tornare a casa 
+dopo il fine settimana del 
+Ringraziamento.","beginOffset":69},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Il 
+Servizio meteorologico nazionale ha affermato che il viaggio potrebbe 
+essere impossibile in alcune parti del paese poiché le inondazioni di 
+ghiaccio o lampo continuano a coprire aree del 
+paese.","beginOffset":269},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"La 
+tempesta avrebbe dovuto dirigersi verso est per tutto il fine settimana 
+nelle pianure venerdì, nel Midwest di sabato e nord-est di 
+domenica.","beginOffset":468},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"La 
+domenica sarà particolarmente dirompente poiché milioni di viaggiatori in 
+vacanza dovrebbero tornare a 
+casa.","beginOffset":614},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Un 
+viaggiatore ha chiesto al servizio meteo via Twitter venerdì se era 
+consigliabile guidare fino a Duluth, Minn., Nel fine 
+settimana.","beginOffset":728},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"\"Se 
+sei a Duluth entro stanotte, probabilmente rimarrai bloccato lì almeno fino 
+a domenica pomeriggio a causa della forte nevicata e delle condizioni di 
+tormenta\", ha avvertito 
+l'agenzia.","beginOffset":865},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Airlines 
+for America, il gruppo commerciale dell'industria aeronautica, prevede che 
+31,1 milioni di passeggeri saliranno sui cieli 
+domenica.","beginOffset":1055},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Più 
+compagnie aeree hanno dichiarato di operare venerdì come al 
+solito.","beginOffset":1196},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Delta 
+Airlines ha affermato che il tempo potrebbe interrompere i viaggi negli 
+aeroporti del Midwest superiore sabato e nord-est di domenica e 
+lunedì.","beginOffset":1271},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Ha 
+offerto di consentire ai clienti di annullare o riprogrammare i 
+voli.","beginOffset":1423},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"American 
+Airlines ha emesso offerte simili a Rapid City, 
+S.D.","beginOffset":1496},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Sezioni 
+dello stato erano sotto un avvertimento di tormenta e potevano vedere fino 
+a due piedi di 
+neve.","beginOffset":1558},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Le 
+autorità dello stato hanno riportato un incidente mortale dopo che un 
+guidatore ha perso il controllo su una strada coperta di 
+ghiaccio.","beginOffset":1663},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"Un 
+passeggero di 37 anni è morto dopo che un camion è scivolato in una fossa e 
+si è 
+ribaltato.","beginOffset":1804},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Le 
+altre strade erano 
+chiuse.","beginOffset":1903},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"I 
+conducenti in California sono rimasti bloccati e le autorità in Arizona 
+hanno supplicato i viaggiatori di aspettare il 
+tempo.","beginOffset":1933},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Il 
+servizio meteorologico ha emesso avvisi venerdì dal Montana al Nebraska al 
+Wisconsin.","beginOffset":2063},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Prevede 
+forti nevicate in alcune parti di Utah, Colorado, Montana e 
+Wyoming.","beginOffset":2153},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Forti 
+venti e neve sono diventati un problema all'inizio di questa settimana 
+quando 60 veicoli sono stati coinvolti in un massiccio ammasso nello 
+Utah.","beginOffset":2230},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"L'Università 
+del Michigan del Nord ha riaperto le sue residenze con due giorni di 
+anticipo per offrire agli studenti opzioni mentre i meteorologi prevedono 
+un piede o più di neve nella 
+regione.","beginOffset":2383},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"\"Vogliamo 
+rendere le persone consapevoli di ciò che potrebbero guidare\", ha detto il 
+capo della polizia del campus Mike 
+Bath.","beginOffset":2580},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"La 
+costa occidentale è stata colpita da tempeste invernali all'inizio di 
+questa settimana, causando migliaia di ritardi dei 
+voli.","beginOffset":2708},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Fino 
+a quattro piedi di neve sono stati scaricati nelle aree montuose del 
+nord-ovest del Pacifico e Denver è stata bloccata da una tempesta 
+martedì.","beginOffset":2839},"sentiment":{"magnitude":0,"score":0}}]},"ja":{"documentSentiment":{"magnitude":10,"score":0},"language":"ja","sentences":[{"text":{"content":"嵐
+は週末の最も忙しい旅行で混乱を脅かす\n\nカリフォルニアからの強力な嵐は、感謝
+祭の週末の後に家に帰ることを望んでいる全国の何百万人もの旅行者に大きな混乱を
+引き起こす可能性がありま
+す。","beginOffset":0},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"国
+立気象局は、氷または鉄砲水が国の範囲をカバーし続けているため、国の一部では旅
+行が不可能になる可能性があると述べ
+た。","beginOffset":271},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"嵐
+は金曜日に週末にかけて東に向かい、土曜日までに中西部、日曜日に北東に向かうと
+予想されていまし
+た。","beginOffset":447},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"何
+百万人もの休日の旅行者が家に帰ると予想されるので、日曜日は特に破壊的で
+す。","beginOffset":596},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"1人
+の旅行者が金曜日にTwitter経由で気象サービスに、週末にミネソタ州ダルースまで
+ドライブすることをお勧めしますかと尋ねまし
+た。","beginOffset":711},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"「
+今夜までにダルースにいる場合は、大雪と吹雪の状態により、少なくとも日曜日の午
+後までそこにいる可能性が高いでしょう」と同局は警告しまし
+た。","beginOffset":895},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"航
+空業界の業界団体であるアメリカ向け航空会社は、日曜日に3110万人の乗客が空を飛
+ぶことを期待していま
+す。","beginOffset":1104},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"複
+数の航空会社が、金曜日に通常どおり運航していると述べまし
+た。","beginOffset":1255},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"デ
+ルタ航空は、天候が土曜日に中西部上部の空港、日曜日と月曜日に北東部の空港の旅
+行を混乱させる可能性があると述べまし
+た。","beginOffset":1350},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"顧
+客がフライトをキャンセルまたは再スケジュールできるようにしま
+す。","beginOffset":1529},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"ア
+メリカン航空は、S.D。Rapid Cityで同様のオファーを発行しまし
+た。","beginOffset":1628},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"州
+の一部は吹雪の警告を受けており、2フィートもの雪を見ることができまし
+た。","beginOffset":1719},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"州
+当局は、ドライバーが氷に覆われた道路でコントロールを失った後、致命的なクラッ
+シュを報告し
+た。","beginOffset":1830},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"37歳
+の乗客は、トラックが溝に滑り込んで横転した後に死亡し
+た。","beginOffset":1972},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"他
+の道路は閉鎖されまし
+た。","beginOffset":2063},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"カ
+リフォルニアのドライバーは立ち往生し、アリゾナ州の当局は旅行者に天気を待つよ
+う懇願しまし
+た。","beginOffset":2102},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"気
+象サービスは、金曜日にモンタナからネブラスカ、ウィスコンシンに警告を発しまし
+た。","beginOffset":2245},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"ユ
+タ州、コロラド州、モンタナ州、ワイオミング州の一部で大雪が予想されま
+す。","beginOffset":2368},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"今
+週初め、60台の車両がユタ州の大規模な山積みに巻き込まれたときに、強風と雪が問
+題になりまし
+た。","beginOffset":2479},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"ノー
+ザンミシガン大学は、2日前にレジデンスホールを再開し、予報官がこの地域で1フ
+ィート以上の雪を予測したため、学生に選択肢を提供しまし
+た。","beginOffset":2621},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"「
+私たちは、人々が運転する可能性があることを人々に認識させたいと思っています」
+と、キャンパス警察署長のマイク・バスは言いまし
+た。","beginOffset":2826},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"今
+週初め、西海岸は冬の嵐に襲われ、何千もの飛行遅延が発生しまし
+た。","beginOffset":3020},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"太
+平洋岸北西部の山岳地帯には最大4フィートの雪が降っており、火曜日にデンバーは
+暴風雨に襲われまし
+た。","beginOffset":3119},"sentiment":{"magnitude":0,"score":0}}]},"ko":{"documentSentiment":{"magnitude":11.5,"score":0.2},"language":"ko","sentences":[{"text":{"content":"가장 
+바쁜 여행 주말에 폭풍으로 인한 
+혼란","beginOffset":0},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"캘리포니아에서 
+시작된 강력한 폭풍은 추수 감사절 주말 후에 집으로 돌아 오기를 희망하는 전국 
+수백만 명의 여행자에게 큰 혼란을 야기 할 수 
+있습니다.","beginOffset":59},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"국가 
+기상청 (National Weather Service)은 얼음이나 섬광 홍수가 계속해서 나라의 
+늪을 덮고 있기 때문에 일부 지역에서는 여행이 불가능할 수 있다고 
+말했다.","beginOffset":266},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"이번 
+주말 폭풍은 금요일 평일, 토요일 중서부, 일요일 북동부 평원으로 
+향했다.","beginOffset":469},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"일요일에는 
+수백만 명의 휴가 여행객이 집으로 향할 것으로 예상되므로 특히 혼란 스러울 
+것입니다.","beginOffset":577},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"한 
+여행자가 금요일에 트위터를 통해 날씨 서비스에 주말 동안 미네소타 덜 루스로 
+운전하는 것이 
+좋습니다.","beginOffset":711},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"\"오늘 
+밤 덜 루스에 있다면 폭설과 눈보라로 인해 일요일 오후까지 갇힐 
+가능성이있다\"고 
+경고했다.","beginOffset":857},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"항공 
+무역 산업의 무역 그룹 인 미국 항공은 3110 만 명의 승객이 일요일 하늘을 
+타기를 
+기대합니다.","beginOffset":991},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"여러 
+항공사가 평소처럼 금요일에 운항하고 있다고 
+밝혔다.","beginOffset":1123},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"델타 
+항공은 날씨가 토요일 중서부 및 북동부 공항에서 일요일과 월요일에 여행을 
+중단시킬 수 있다고 
+밝혔다.","beginOffset":1204},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"고객이 
+항공편을 취소하거나 일정을 조정할 수 
+있도록했습니다.","beginOffset":1353},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"아메리칸 
+항공은 S.D.의 래피드 시티에서 유사한 제안을 
+발표했습니다.","beginOffset":1439},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"주의 
+구역은 눈보라 경고를 받고 눈이 2 피트 나되는 것을 볼 
+수있었습니다.","beginOffset":1533},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"이주의 
+당국은 운전자가 얼음 덮인 도로에서 통제력을 상실한 후 치명적인 사고를 
+당했다고보고했습니다.","beginOffset":1635},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"트럭이 
+도랑으로 미끄러 져 넘어간 후 37 세의 승객이 
+사망했습니다.","beginOffset":1777},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"다른 
+곳의 고속도로가 
+폐쇄되었습니다.","beginOffset":1869},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"캘리포니아의 
+운전자들은 좌초되었고 애리조나 주 당국은 날씨를 기다리기 위해 여행자들에게 
+탄원했습니다.","beginOffset":1922},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"기상청은 
+금요일 몬태나에서 네브라스카까지, 위스콘신까지 경고를 
+발령했습니다.","beginOffset":2070},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"유타, 
+콜로라도, 몬태나 및 와이오밍의 일부 지역에 폭설이 
+예상됩니다.","beginOffset":2181},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"강한 
+바람과 눈이 이번 주 초 유타에서 거대한 차량 더미에 60 대의 차량이 참여했을 
+때 
+문제가되었습니다.","beginOffset":2277},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Northern 
+Michigan University는 이틀 일찍 기숙사를 재 개설하여 예측 자들이이 지역의 
+눈이 1 피트 이상일 것으로 예상 한대로 학생들에게 옵션을 
+제공했습니다.","beginOffset":2420},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"캠퍼스 
+경찰청장 Mike Bath는“우리는 사람들이 무엇을 몰고 갈 수 있는지 알고 
+싶어합니다.","beginOffset":2626},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"서해안은 
+이번 주 초 겨울 폭풍으로 인해 수천 건의 비행 지연이 
+발생했습니다.","beginOffset":2747},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"태평양 
+북서부의 산악 지역에는 최대 4 피트의 눈이 내 렸으며 화요일 덴버는 폭풍에 
+휩싸였습니다.","beginOffset":2853},"sentiment":{"magnitude":0.4,"score":0.4}}]},"pt":{"documentSentiment":{"magnitude":5.9,"score":0},"language":"pt","sentences":[{"text":{"content":"Tempestade 
+ameaça interrupção no fim de semana mais 
+movimentado","beginOffset":0},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Uma 
+forte tempestade vindo da Califórnia pode causar grandes perturbações para 
+milhões de viajantes em todo o país que esperam chegar em casa após o fim 
+de semana de Ação de 
+Graças.","beginOffset":68},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"O 
+Serviço Nacional de Meteorologia disse que as viagens podem ser impossíveis 
+em algumas partes do país, uma vez que as inundações de gelo ou relâmpagos 
+continuam cobrindo áreas do 
+país.","beginOffset":260},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Esperava-se 
+que a tempestade seguisse para leste durante todo o fim de semana nas 
+planícies na sexta-feira, no Centro-Oeste no sábado e no nordeste no 
+domingo.","beginOffset":456},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"O 
+domingo será particularmente perturbador, já que milhões de turistas devem 
+voltar para 
+casa.","beginOffset":619},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Um 
+viajante perguntou ao serviço meteorológico via Twitter na sexta-feira se 
+era aconselhável ir a Duluth, Minnesota, no fim de 
+semana.","beginOffset":717},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"Se 
+você estiver em Duluth hoje à noite, provavelmente ficará preso até pelo 
+menos domingo à tarde devido às fortes nevascas e nevasca\", alertou a 
+agência.","beginOffset":857},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"A 
+Airlines for America, grupo comercial do setor de transporte aéreo, espera 
+31,1 milhões de passageiros no 
+domingo.","beginOffset":1021},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Várias 
+companhias aéreas disseram que estavam operando na sexta-feira, como de 
+costume.","beginOffset":1140},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"A 
+Delta Airlines disse que o clima pode atrapalhar as viagens nos aeroportos 
+do meio-oeste do sábado e nordeste no domingo e 
+segunda-feira.","beginOffset":1231},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ofereceu-se 
+para permitir que os clientes cancelassem ou reagendassem 
+voos.","beginOffset":1373},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+American Airlines emitiu ofertas semelhantes em Rapid City, 
+S.D.","beginOffset":1449},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Seções 
+do estado estavam sob um alerta de nevasca e podiam ver até dois pés de 
+neve.","beginOffset":1516},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"As 
+autoridades do estado relataram um acidente fatal depois que um motorista 
+perdeu o controle em uma estrada coberta de 
+gelo.","beginOffset":1606},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Um 
+passageiro de 37 anos morreu depois que um caminhão entrou em uma vala e 
+rolou.","beginOffset":1733},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Rodovias 
+em outros lugares foram 
+fechadas.","beginOffset":1818},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Os 
+motoristas da Califórnia ficaram presos e as autoridades do Arizona pediram 
+aos viajantes que esperassem o tempo 
+passar.","beginOffset":1861},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"O 
+serviço meteorológico emitiu avisos sexta-feira de Montana a Nebraska e 
+Wisconsin.","beginOffset":1987},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Prevê 
+forte nevasca em partes de Utah, Colorado, Montana e 
+Wyoming.","beginOffset":2074},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Ventos 
+fortes e neve se tornaram um problema no início desta semana, quando 60 
+veículos estavam envolvidos em um grande acúmulo em 
+Utah.","beginOffset":2143},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+Northern Michigan University reabriu suas residências dois dias antes para 
+oferecer aos estudantes opções, já que os meteorologistas previam um pé ou 
+mais de neve na 
+região.","beginOffset":2284},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"Queremos 
+conscientizar as pessoas sobre o que elas poderiam estar levando\", disse o 
+chefe de polícia do campus, Mike 
+Bath.","beginOffset":2467},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"A 
+costa oeste foi atingida por tempestades de inverno no início desta semana, 
+causando milhares de atrasos nos 
+vôos.","beginOffset":2593},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Até 
+quatro pés de neve foram jogados em áreas montanhosas do noroeste do 
+Pacífico e Denver foi atingida por uma tempestade na 
+terça-feira.","beginOffset":2712},"sentiment":{"magnitude":0,"score":0}}]},"es":{"documentSentiment":{"magnitude":10.7,"score":0},"language":"es","sentences":[{"text":{"content":"Tormenta 
+amenaza con interrupción en el fin de semana de viajes más 
+concurrido","beginOffset":0},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Una 
+tormenta poderosa que llega desde California podría causar grandes 
+interrupciones a millones de viajeros en todo el país que esperan llegar a 
+casa después del fin de semana de Acción de 
+Gracias.","beginOffset":82},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"El 
+Servicio Meteorológico Nacional dijo que viajar podría ser imposible en 
+algunas partes del país, ya que el hielo o las inundaciones repentinas 
+continúan cubriendo franjas del 
+país.","beginOffset":286},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Se 
+esperaba que la tormenta se dirigiera hacia el este durante el fin de 
+semana hacia las llanuras el viernes, el medio oeste el sábado y el noreste 
+el 
+domingo.","beginOffset":476},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"El 
+domingo será particularmente perturbador ya que se espera que millones de 
+viajeros de vacaciones regresen a 
+casa.","beginOffset":639},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Un 
+viajero le preguntó al servicio meteorológico a través de Twitter el 
+viernes si era aconsejable conducir a Duluth, Minnesota, durante el fin de 
+semana.","beginOffset":757},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"\"Si 
+estás en Duluth esta noche, es probable que estés atrapado allí hasta al 
+menos el domingo por la tarde debido a las fuertes nevadas y las 
+condiciones de tormenta de nieve\", advirtió la 
+agencia.","beginOffset":916},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Airlines 
+for America, el grupo comercial de la industria del comercio de aerolíneas, 
+espera que 31,1 millones de pasajeros salgan a los cielos el 
+domingo.","beginOffset":1119},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Varias 
+aerolíneas dijeron que operaban el viernes como de 
+costumbre.","beginOffset":1275},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Delta 
+Airlines dijo que el clima podría interrumpir los viajes en los aeropuertos 
+del medio oeste superior el sábado y el noreste el domingo y 
+lunes.","beginOffset":1346},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Ofreció 
+permitir a los clientes cancelar o reprogramar 
+vuelos.","beginOffset":1499},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"American 
+Airlines emitió ofertas similares en Rapid City, 
+S.D.","beginOffset":1563},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Secciones 
+del estado estaban bajo una advertencia de tormenta de nieve y podían ver 
+hasta dos pies de 
+nieve.","beginOffset":1627},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Las 
+autoridades en el estado informaron un accidente fatal después de que un 
+conductor perdió el control en una carretera cubierta de 
+hielo.","beginOffset":1738},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Un 
+pasajero de 37 años murió después de que un camión se deslizó en una zanja 
+y se 
+volcó.","beginOffset":1881},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Las 
+carreteras en otros lugares fueron 
+cerradas.","beginOffset":1978},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Los 
+conductores en California quedaron varados y las autoridades en Arizona 
+suplicaron a los viajeros que esperaran el 
+clima.","beginOffset":2027},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"El 
+servicio meteorológico emitió advertencias el viernes desde Montana a 
+Nebraska a 
+Wisconsin.","beginOffset":2154},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Anticipa 
+fuertes nevadas en partes de Utah, Colorado, Montana y 
+Wyoming.","beginOffset":2251},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Los 
+fuertes vientos y la nieve se convirtieron en un problema a principios de 
+esta semana cuando 60 vehículos estuvieron involucrados en un choque masivo 
+en 
+Utah.","beginOffset":2324},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Northern 
+Michigan University reabrió sus residencias dos días antes para darles a 
+los estudiantes opciones, ya que los pronosticadores predijeron un pie o 
+más de nieve en la 
+región.","beginOffset":2489},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Queremos 
+que las personas se den cuenta de a qué podrían conducir\", dijo el jefe de 
+policía del campus Mike 
+Bath.","beginOffset":2676},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"La 
+costa oeste fue azotada por tormentas de invierno a principios de esta 
+semana, causando miles de retrasos en los 
+vuelos.","beginOffset":2795},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Se 
+arrojaron hasta cuatro pies de nieve en áreas montañosas del Noroeste del 
+Pacífico y Denver sufrió una tormenta el 
+martes.","beginOffset":2919},"sentiment":{"magnitude":0.6,"score":0.6}}]},"random_to_source":{"documentSentiment":{"magnitude":5.8,"score":0},"language":"en","sentences":[{"text":{"content":"Confusion 
+caused by storms on the busiest trip 
+weekend","beginOffset":0},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"The 
+powerful storm that originated in California can cause great confusion for 
+millions of travelers across the country hoping to return home after 
+Thanksgiving 
+weekend.","beginOffset":56},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"The 
+National Weather Service said travel in some areas may not be possible 
+because ice or flash floods continue to cover the country's 
+swamps.","beginOffset":227},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+weekend storms headed northeastern plains on Friday weekdays, midwest 
+Saturdays and 
+Sundays.","beginOffset":371},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"This 
+is particularly confusing as Sundays expect millions of vacationers to head 
+home.","beginOffset":469},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"One 
+traveler recommends driving to Duluth, Minnesota during the weekend on 
+weather services via Twitter on 
+Friday.","beginOffset":556},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"If 
+you're in Duluth tonight, there's a chance that you'll be trapped until 
+Sunday afternoon because of heavy snow and blizzards,\" he 
+warned.","beginOffset":672},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"As 
+a trade group in the air trade industry, American Airlines expects 31.1 
+million passengers to ride the Sunday 
+sky.","beginOffset":815},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Several 
+airlines said they were operating on Friday as 
+usual.","beginOffset":933},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Delta 
+said the weather could stop travel on Sundays and Mondays at midwest and 
+northeastern airports on 
+Saturday.","beginOffset":996},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Allowed 
+customers to cancel flights or reschedule 
+flights.","beginOffset":1111},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"American 
+Airlines announced a similar proposal in Rapid City, 
+S.D.","beginOffset":1170},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"The 
+caution zone received a snowstorm warning and was able to see 2 feet of 
+snow.","beginOffset":1237},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+authorities of the migrant reported that the driver had a fatal accident 
+after losing control on an ice-covered 
+road.","beginOffset":1320},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"A 
+37-year-old passenger died after the truck slipped into the 
+ditch.","beginOffset":1442},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+highway elsewhere is 
+closed.","beginOffset":1512},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"California 
+drivers were stranded, and Arizona authorities petitioned travelers to wait 
+for the 
+weather.","beginOffset":1545},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"The 
+Meteorological Department issued warnings from Montana to Nebraska and 
+Wisconsin on 
+Friday.","beginOffset":1650},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Heavy 
+snowfall is expected in Utah, Colorado, Montana, and some parts of 
+Wyoming.","beginOffset":1746},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Strong 
+winds and snow were a problem earlier this week when 60 cars were involved 
+in a huge pile of vehicles in 
+Utah.","beginOffset":1828},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Northern 
+Michigan University reopened the dormitory two days earlier, giving 
+students the option as predictors expected more than one foot of snow in 
+the 
+area.","beginOffset":1947},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"“We 
+want to know what people can drive,” said Camp Police Chief Mike 
+Bath.","beginOffset":2108},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+west coast has experienced thousands of flight delays due to winter storms 
+earlier this 
+week.","beginOffset":2188},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Up 
+to four feet of snow fell in the mountainous regions of the Pacific 
+Northwest, and Denver was stormy on 
+Tuesday.","beginOffset":2286},"sentiment":{"magnitude":0,"score":0}}],"foreign_lang":"ko"}}

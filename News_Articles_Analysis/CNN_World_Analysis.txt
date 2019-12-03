@@ -1,0 +1,576 @@
+{"zh":{"documentSentiment":{"magnitude":7.9,"score":0},"language":"zh","sentences":[{"text":{"content":"伊
+拉
+克领导人下令进行调查，因为致命的抗议活动激起\n\n伊拉克总理阿迪尔·阿卜杜勒
+·马赫迪（Adil Abdul Mahdi）下令调查暴力行为，本周在持续的反政府抗议活动
+中，暴力导致至少31人死
+亡。","beginOffset":0},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"总
+理办公室星期四在一份声明中说，将成立一个专门委员会，由阿卜杜勒·马赫迪
+（Abdul Mahdi）的军事顾问领
+导。","beginOffset":251},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"在
+此之前，伊朗呼吁伊拉克当局“坚定而有效地”对周三袭击南部城市纳杰夫的德黑兰领事
+馆的示威者作出反
+应。","beginOffset":401},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"自
+从10月1日以来，一直在举行针对所谓政府腐败和拒绝伊朗参与伊朗事务的抗议活
+动。","beginOffset":553},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"伊
+朗外交部发言人阿巴斯·穆萨维（Abbas Mousavi）对冲进并折磨领事馆的暴徒表示“仇
+恨
+”。","beginOffset":669},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"伊
+朗外交部周四发布的一份声明说，穆萨维呼吁伊拉克政府以负责任，坚定和有效的方式
+对付袭击的肇事
+者。","beginOffset":789},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"国
+营伊斯兰共和国通讯社（IRNA）周四表示，伊朗外交人员在袭击发生前撤离了领事
+馆。","beginOffset":935},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"这
+是伊朗驻伊拉克使馆在什叶派圣城卡尔巴拉的办公室上个月遭到袭击之后的第二次袭
+击。","beginOffset":1050},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"伊
+拉克独立高级人权委员会周四说，从11月26日至11月28日，在伊拉克各地进行的三天示
+威活动中，共有31人丧生，1,000多人受
+伤。","beginOffset":1172},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"一
+名安全官员和一名军医在匿名的情况下告诉美国有线电视新闻网，星期四，在纳西里耶
+市有13名抗议者被杀，造成75人受伤，因为他们无权与媒体讲
+话。","beginOffset":1342},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"当
+局对位于巴格达东南200多英里的纳西里耶实行宵
+禁。","beginOffset":1544},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"自
+抗议活动开始以来，伊拉克总共有300多人丧生，1.5万人受
+伤。","beginOffset":1618},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"活
+动人士告诉美国有线电视新闻网，抗议者要求政府下台并在联合国直接监督下举行早期
+选
+举。","beginOffset":1702},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"许
+多伊拉克人将目前的经济困境归咎于当权的政
+党。","beginOffset":1830},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"抗
+议活动的规模被认为是自伊拉克前总统萨达姆·侯赛因（Saddam Hussein）2003年倒台
+以来最大规模的抗议活动，令政府感到惊
+讶。","beginOffset":1899},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"阿
+卜杜勒·马赫迪（Abdul Mahdi）同意于10月31日辞
+职。","beginOffset":2068},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"除
+使用致命武力外，官员还实行宵禁和互联网停电，以试图镇压抗议活
+动。","beginOffset":2136},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"政
+府表示，只有在遭到袭击时才会开枪，但示威者对此表示怀
+疑。","beginOffset":2235},"sentiment":{"magnitude":0.5,"score":-0.5}}]},"en":{"documentSentiment":{"magnitude":6.3,"score":-0.2},"language":"en","sentences":[{"text":{"content":"Iraqi 
+leader orders investigation as deadly protests rage 
+on","beginOffset":0},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Iraqi 
+Prime Minister Adil Abdul Mahdi has ordered an investigation into violence 
+that has led to the deaths of at least 31 people this week in ongoing 
+anti-government 
+protests.","beginOffset":62},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"The 
+Prime Minister's office said in a statement Thursday that a dedicated 
+committee will be formed, led by Abdul Mahdi's military 
+adviser.","beginOffset":240},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"It 
+comes after Iran called on Iraqi authorities to respond \"firmly and 
+effectively\" to protesters who attacked Tehran's consulate in the southern 
+city of Najaf on 
+Wednesday.","beginOffset":380},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Protests 
+against alleged government corruption and a rejection of Iranian 
+involvement in the country's affairs have continued since October 
+1.","beginOffset":555},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Iran's 
+Foreign Ministry spokesman Abbas Mousavi expressed \"hatred\" for the 
+rioters who stormed and torched the 
+consulate.","beginOffset":699},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Mousavi 
+called on the Iraqi government to deal with the \"perpetrators of the 
+attack responsibly, firmly and effectively,\" according to an Iranian 
+foreign affairs ministry statement released on 
+Thursday.","beginOffset":821},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Iran's 
+diplomatic staff evacuated the consulate before the attack, state-run 
+Islamic Republic News Agency (IRNA) said 
+Thursday.","beginOffset":1025},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"This 
+is the second attack on an Iranian embassy in Iraq after its office in the 
+Shia holy city of Karbala was attacked last 
+month.","beginOffset":1153},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Thirty-one 
+people were killed and more than 1,000 injured over three days of 
+demonstrations across Iraq from November 26 to November 28, the country's 
+Independent High Commission for Human Rights said 
+Thursday.","beginOffset":1285},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"On 
+Thursday, 13 protesters were killed in the city of Nasiriya with 75 people 
+injured, a security official and a medic told CNN on condition of 
+anonymity, as they are not authorized to speak to the 
+media.","beginOffset":1497},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Authorities 
+imposed a curfew on Nasiriya, which lies more than 200 miles southeast of 
+Baghdad.","beginOffset":1702},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"In 
+total, more than 300 people have been killed and 15,000 injured in Iraq 
+since the protests 
+began.","beginOffset":1798},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Protesters 
+have demanded the government to step down and hold early elections under 
+direct supervision of the United Nations, activists told 
+CNN.","beginOffset":1899},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Many 
+Iraqis blame the current political parties in power for their economic 
+hardship.","beginOffset":2046},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"The 
+scale of the protests, believed to be the biggest since the fall of former 
+Iraqi President Saddam Hussein in 2003, took the government by 
+surprise.","beginOffset":2132},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Abdul 
+Mahdi agreed to resign on October 
+31.","beginOffset":2285},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Besides 
+using lethal force, officials have imposed curfews and internet blackouts 
+in attempts to quash the 
+protests.","beginOffset":2329},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"The 
+government said it only shoots when attacked, but demonstrators have 
+disputed 
+that.","beginOffset":2446},"sentiment":{"magnitude":0.4,"score":-0.4}}]},"fr":{"documentSentiment":{"magnitude":6.3,"score":0},"language":"fr","sentences":[{"text":{"content":"Un 
+dirigeant irakien ordonne une enquête alors que des manifestations 
+meurtrières font 
+rage","beginOffset":0},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Le 
+Premier ministre irakien Adil Abdul Mahdi a ordonné l'ouverture d'une 
+enquête sur les violences qui ont entraîné la mort d'au moins 31 personnes 
+cette semaine dans le cadre de manifestations anti-gouvernementales en 
+cours.","beginOffset":95},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Le 
+bureau du Premier ministre a annoncé jeudi dans une déclaration qu'un 
+comité spécial serait formé, dirigé par le conseiller militaire d'Abdul 
+Mahdi.","beginOffset":326},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Cela 
+intervient après que l'Iran a appelé les autorités irakiennes à réagir 
+\"fermement et efficacement\" aux manifestants qui ont attaqué mercredi le 
+consulat de Téhéran à Najaf, dans le sud du 
+pays.","beginOffset":485},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Les 
+manifestations contre la corruption présumée du gouvernement et le rejet de 
+l'engagement de l'Iran dans les affaires du pays se poursuivent depuis le 
+1er 
+octobre.","beginOffset":694},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Le 
+porte-parole du ministère iranien des Affaires étrangères, Abbas Mousavi, a 
+exprimé sa \"haine\" contre les émeutiers qui ont pris d'assaut et incendié 
+le 
+consulat.","beginOffset":864},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Mousavi 
+a appelé le gouvernement irakien à traiter les \"auteurs de l'attaque de 
+manière responsable, ferme et efficace\", selon un communiqué du ministère 
+des Affaires étrangères iranien publié 
+jeudi.","beginOffset":1036},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Le 
+personnel diplomatique iranien a évacué le consulat avant l'attaque, a 
+annoncé jeudi l'agence de presse iranienne 
+IRNA.","beginOffset":1245},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Il 
+s'agit de la deuxième attaque contre une ambassade iranienne en Irak après 
+l'attaque de son bureau dans la ville sainte chiite de Karbala le mois 
+dernier.","beginOffset":1371},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Trente 
+et une personnes ont été tuées et plus d'un millier de blessées au cours de 
+manifestations qui ont duré trois jours en Irak du 26 au 28 novembre, a 
+annoncé jeudi la Haute Commission indépendante pour les droits de 
+l'homme.","beginOffset":1532},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Jeudi, 
+13 manifestants ont été tués dans la ville de Nasiriya, 75 personnes ont 
+été blessées, ont déclaré à CNN un responsable de la sécurité et un médecin 
+sous le couvert de l'anonymat, car ils ne sont pas autorisés à parler aux 
+médias.","beginOffset":1770},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Les 
+autorités ont imposé un couvre-feu à Nassiriya, située à plus de 200 km au 
+sud-est de 
+Bagdad.","beginOffset":2023},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Au 
+total, plus de 300 personnes ont été tuées et 15 000 blessées en Irak 
+depuis le début des 
+manifestations.","beginOffset":2127},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Les 
+manifestants ont demandé au gouvernement de se retirer et d'organiser des 
+élections anticipées sous la supervision directe des Nations Unies, ont 
+déclaré des activistes à 
+CNN.","beginOffset":2241},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"De 
+nombreux Iraquiens accusent les partis politiques actuels au pouvoir de 
+leurs difficultés 
+économiques.","beginOffset":2428},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"L'ampleur 
+des manifestations, considérée comme la plus grande depuis la chute de 
+l'ancien président irakien Saddam Hussein en 2003, a pris le gouvernement 
+par 
+surprise.","beginOffset":2536},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Abdul 
+Mahdi a accepté de démissionner le 31 
+octobre.","beginOffset":2709},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Outre 
+le recours à la force meurtrière, les autorités ont imposé des couvre-feux 
+et des coupures de courant sur Internet dans le but d’annuler les 
+manifestations.","beginOffset":2764},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Le 
+gouvernement a déclaré qu'il ne tirait que lorsqu'il était attaqué, mais 
+les manifestants l'ont 
+contesté.","beginOffset":2933},"sentiment":{"magnitude":0.4,"score":-0.4}}]},"de":{"documentSentiment":{"magnitude":8.1,"score":-0.3},"language":"de","sentences":[{"text":{"content":"Der 
+irakische Führer ordnet eine Untersuchung an, da tödliche Proteste 
+wüten","beginOffset":0},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Der 
+irakische Premierminister Adil Abdul Mahdi hat eine Untersuchung der Gewalt 
+angeordnet, bei der in dieser Woche bei anhaltenden Protesten gegen die 
+Regierung mindestens 31 Menschen ums Leben 
+kamen.","beginOffset":81},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Das 
+Büro des Premierministers teilte am Donnerstag in einer Erklärung mit, dass 
+ein spezielles Komitee gebildet wird, das von Abdul Mahdis Militärberater 
+geleitet 
+wird.","beginOffset":284},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Es 
+geschah, nachdem der Iran die irakischen Behörden aufgefordert hatte, 
+\"entschlossen und effektiv\" auf Demonstranten zu reagieren, die am 
+Mittwoch Teherans Konsulat in der südlichen Stadt Nadschaf 
+angriffen.","beginOffset":457},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Die 
+Proteste gegen die mutmaßliche Korruption der Regierung und die Ablehnung 
+des iranischen Engagements in den Angelegenheiten des Landes dauern seit 
+dem 1. Oktober 
+an.","beginOffset":670},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Der 
+iranische Außenministeriumssprecher Abbas Mousavi äußerte \"Hass\" gegen 
+die Randalierer, die das Konsulat stürmten und in Brand 
+steckten.","beginOffset":842},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Laut 
+einer am Donnerstag veröffentlichten Erklärung des iranischen 
+Außenministeriums forderte Mussawi die irakische Regierung auf, mit den 
+\"Tätern des Anschlags verantwortungsbewusst, fest und effektiv 
+umzugehen\".","beginOffset":987},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Die 
+diplomatischen Mitarbeiter des Iran haben das Konsulat vor dem Angriff 
+evakuiert, teilte die staatliche Nachrichtenagentur der Islamischen 
+Republik (IRNA) am Donnerstag 
+mit.","beginOffset":1206},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Dies 
+ist der zweite Angriff auf eine iranische Botschaft im Irak, nachdem das 
+Büro in der schiitischen heiligen Stadt Karbala im vergangenen Monat 
+angegriffen 
+wurde.","beginOffset":1384},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Einunddreißig 
+Menschen wurden während dreier Demonstrationstage im Irak vom 26. bis 28. 
+November getötet und mehr als 1.000 verletzt, teilte die Unabhängige Hohe 
+Kommission für Menschenrechte des Landes am Donnerstag 
+mit.","beginOffset":1552},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Am 
+Donnerstag wurden in der Stadt Nasiriya 13 Demonstranten mit 75 Verletzten 
+getötet, ein Sicherheitsbeamter und ein Sanitäter teilten CNN unter der 
+Bedingung der Anonymität mit, dass sie nicht befugt seien, mit den Medien 
+zu 
+sprechen.","beginOffset":1780},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Die 
+Behörden verhängten eine Ausgangssperre gegen Nasiriya, das mehr als 320 
+Kilometer südöstlich von Bagdad 
+liegt.","beginOffset":2020},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Insgesamt 
+wurden im Irak seit Beginn der Proteste mehr als 300 Menschen getötet und 
+15.000 
+verletzt.","beginOffset":2141},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Demonstranten 
+forderten die Regierung auf, zurückzutreten und vorgezogene Wahlen unter 
+direkter Aufsicht der Vereinten Nationen abzuhalten, sagten Aktivisten 
+gegenüber 
+CNN.","beginOffset":2243},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Viele 
+Iraker machen die derzeitigen politischen Parteien an der Macht für ihre 
+wirtschaftliche Not 
+verantwortlich.","beginOffset":2419},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Das 
+Ausmaß der Proteste, das als das größte seit dem Sturz des ehemaligen 
+irakischen Präsidenten Saddam Hussein im Jahr 2003 angesehen wurde, 
+überraschte die 
+Regierung.","beginOffset":2535},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Abdul 
+Mahdi erklärte sich bereit, am 31. Oktober 
+zurückzutreten.","beginOffset":2710},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Neben 
+der Anwendung tödlicher Gewalt haben Beamte Ausgangssperren und 
+Internet-Blackouts verhängt, um die Proteste zu 
+unterdrücken.","beginOffset":2777},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Die 
+Regierung sagte, dass es nur schießt, wenn es angegriffen wird, aber 
+Demonstranten haben das 
+bestritten.","beginOffset":2912},"sentiment":{"magnitude":0.6,"score":-0.6}}]},"it":{"documentSentiment":{"magnitude":6,"score":-0.2},"language":"it","sentences":[{"text":{"content":"Il 
+leader iracheno ordina le indagini mentre si scatenano proteste 
+mortali","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Il 
+primo ministro iracheno Adil Abdul Mahdi ha ordinato un'indagine sulla 
+violenza che ha provocato la morte di almeno 31 persone questa settimana 
+nelle proteste antigovernative in 
+corso.","beginOffset":76},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"L'ufficio 
+del Primo Ministro ha dichiarato in una dichiarazione giovedì che verrà 
+formato un comitato dedicato, guidato dal consigliere militare di Abdul 
+Mahdi.","beginOffset":265},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Viene 
+dopo che l'Iran ha invitato le autorità irachene a rispondere \"fermamente 
+ed efficacemente\" ai manifestanti che hanno attaccato mercoledì il 
+consolato di Teheran nella città meridionale di 
+Najaf.","beginOffset":429},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Le 
+proteste contro la presunta corruzione del governo e il rifiuto del 
+coinvolgimento iraniano negli affari del paese sono continuate dal 1 ° 
+ottobre.","beginOffset":635},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Il 
+portavoce del ministero degli Esteri iraniano Abbas Mousavi ha espresso 
+\"odio\" per i rivoltosi che hanno preso d'assalto e dato alle fiamme il 
+consolato.","beginOffset":788},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Mousavi 
+ha invitato il governo iracheno a trattare con \"gli autori dell'attacco in 
+modo responsabile, fermo ed efficace\", secondo una dichiarazione del 
+ministero degli Esteri iraniano rilasciata 
+giovedì.","beginOffset":945},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Lo 
+staff diplomatico iraniano ha evacuato il consolato prima dell'attacco, ha 
+riferito giovedì l'agenzia statale della Repubblica islamica 
+(IRNA).","beginOffset":1151},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Questo 
+è il secondo attacco contro un'ambasciata iraniana in Iraq dopo che il suo 
+ufficio nella città santa sciita di Karbala è stato attaccato il mese 
+scorso.","beginOffset":1299},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Trentuno 
+persone sono state uccise e oltre 1.000 ferite in tre giorni di 
+manifestazioni in Iraq dal 26 al 28 novembre, ha detto giovedì l'Alta 
+Commissione indipendente per i diritti 
+umani.","beginOffset":1463},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Giovedì 
+13 manifestanti sono stati uccisi nella città di Nassiriya con 75 feriti, 
+un funzionario della sicurezza e un medico hanno riferito alla CNN a 
+condizione di anonimato, poiché non sono autorizzati a parlare con i 
+media.","beginOffset":1654},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Le 
+autorità hanno imposto il coprifuoco a Nasiriya, che si trova a oltre 200 
+miglia a sud-est di 
+Baghdad.","beginOffset":1884},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"In 
+totale, più di 300 persone sono state uccise e 15.000 ferite in Iraq 
+dall'inizio delle 
+proteste.","beginOffset":1992},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"I 
+manifestanti hanno chiesto al governo di dimettersi e tenere elezioni 
+anticipate sotto la diretta supervisione delle Nazioni Unite, hanno detto 
+gli attivisti alla 
+CNN.","beginOffset":2093},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Molti 
+iracheni danno la colpa agli attuali partiti politici al potere per le loro 
+difficoltà 
+economiche.","beginOffset":2264},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"La 
+portata delle proteste, ritenute le più grandi dalla caduta dell'ex 
+presidente iracheno Saddam Hussein nel 2003, colse di sorpresa il 
+governo.","beginOffset":2370},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Abdul 
+Mahdi ha accettato di rassegnare le dimissioni il 31 
+ottobre.","beginOffset":2518},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Oltre 
+ad usare la forza letale, i funzionari hanno imposto coprifuoco e blackout 
+su Internet nel tentativo di reprimere le 
+proteste.","beginOffset":2586},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Il 
+governo ha detto che spara solo quando viene attaccato, ma i manifestanti 
+lo hanno 
+contestato.","beginOffset":2719},"sentiment":{"magnitude":0.3,"score":-0.3}}]},"ja":{"documentSentiment":{"magnitude":5.7,"score":-0.1},"language":"ja","sentences":[{"text":{"content":"致
+命的な抗議が激化する中、イラクの指導者が調査を命じる\n\nイラク首相のアディ
+ル・アブドゥル・マフディは、現在進行中の反政府抗議活動で少なくとも31人が死亡
+した暴力の調査を命じまし
+た。","beginOffset":0},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"首
+相官邸は木曜日の声明で、アブドゥル・マフディの軍事顧問が率いる献身的な委員会
+が設立されると述べ
+た。","beginOffset":267},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"イ
+ランは、水曜日に南の都市ナジャフでテヘランの領事館を攻撃した抗議者に「しっか
+りと効果的に」対応するようにイラク当局に求めた後に来ま
+す。","beginOffset":419},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"政
+府の腐敗疑惑と国情へのイランの関与の拒否に対する抗議は、10月1日から続いてい
+ま
+す。","beginOffset":625},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"イ
+ランの外務省のスポークスマンであるアッバス・ムサビは、領事館を襲撃し、拷問し
+た暴徒に対する「憎悪」を表明し
+た。","beginOffset":750},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"ム
+サビは、木曜日に発表されたイラン外務省の声明によると、イラク政府に「責任を持
+って、しっかりと効果的に攻撃の加害者」に対処するよう求め
+た。","beginOffset":918},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"イ
+ランの外交スタッフは攻撃の前に領事館を避難させた、と国営のイスラム共和国通信
+社（IRNA）は木曜日に述べ
+た。","beginOffset":1127},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"こ
+れは、先月、シーア派の聖都市カルバラにある事務所が攻撃された後、イラクのイラ
+ン大使館に対する2度目の攻撃で
+す。","beginOffset":1284},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"11月
+26日から11月28日までのイラク全土での3日間のデモで、31人が死亡し、1,000人以上
+が負傷しまし
+た。","beginOffset":1452},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"木
+曜日、ナシリヤ市で抗議者13人が死亡し、75人が負傷し
+た。","beginOffset":1590},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"セ
+キュリティ担当者と衛生兵は、メディアとの会話を許可されていないため、匿名を条
+件にCNNに伝え
+た。","beginOffset":1672},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"当
+局は、バグダッドの南東200マイル以上に位置するナシリヤに夜間外出禁止令を課し
+まし
+た。","beginOffset":1813},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"抗
+議が始まって以来、イラクでは合計300人以上が死亡し、15,000人が負傷しまし
+た。","beginOffset":1941},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"抗
+議者たちは政府に国連の直接監督の下で早期選挙を辞任し、開催するよう要求した、
+と活動家はCNNに語っ
+た。","beginOffset":2052},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"多
+くのイラク人は、現在の政党の経済的困難を非難してい
+る。","beginOffset":2204},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"2003年
+の元イラク大統領サダム・フセインの崩壊以来最大と思われる抗議の規模は、政府を
+驚かせ
+た。","beginOffset":2289},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"ア
+ブドゥル・マフディは、10月31日に辞任することに同意しまし
+た。","beginOffset":2427},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"政
+府は、攻撃された場合にのみ発砲すると述べたが、デモ参加者はそれについて異議を
+唱えてい
+る。","beginOffset":2518},"sentiment":{"magnitude":0.1,"score":0.1}}]},"ko":{"documentSentiment":{"magnitude":5.9,"score":0},"language":"ko","sentences":[{"text":{"content":"치명적인 
+항의로 분노한 이라크 지도자 
+수사","beginOffset":0},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"이라크 
+총리 아딜 압둘 마흐디 (Adil Abdul Mahdi)는 이번 주에 반정부 시위에서 
+진행중인 이번 주 31 명 이상의 사망을 초래 한 폭력에 대한 조사를 
+명령했습니다.","beginOffset":61},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"국무 
+총리는 목요일 성명에서 압둘 마흐디의 군 고문이 이끄는 전담위원회가 구성 될 
+것이라고 
+밝혔다.","beginOffset":271},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"이란은 
+수요일 이라크 남부 나자프에있는 테헤란 영사관을 공격 한 
+시위자들에게“확실하고 효과적으로”대응하기 위해 이라크 당국에 
+촉구했다.","beginOffset":410},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"정부 
+부패 혐의에 대한 항의와이란의 문제에 대한이란의 참여 거부는 10 월 1 일부터 
+계속되었습니다.","beginOffset":607},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"이란 
+외무부 대변인 압바스 무사 비 대변인은 영사관을 습격하고 성화시킨 폭도들에게 
+\"증오\"를 
+표명했습니다.","beginOffset":743},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"무사 
+비 대통령은 14 일 발표 된이란 외무부 성명에 따르면 이라크 정부에 
+\"공격적이며 확고하고 효과적인 공격의 가해자\"를 다루라고 이라크 정부에 
+요구했다.","beginOffset":891},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"이란 
+외교부 직원이 공격을 받기 전에 영사관을 철수했다고 국무부 이슬람 공화국 
+뉴스 에이전시 (IRNA)는 
+밝혔다.","beginOffset":1104},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"지난달 
+시아파 성 카라 발라에 취임 한 이라크 이라크 대사관에 대한 두 번째 
+공격이다.","beginOffset":1255},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"11 
+월 26 일부터 11 월 28 일까지 이라크 전역에서 31 명이 사망하고 3 일 간의 
+시위로 1,000 명이 넘는 부상을당한 것으로 
+나타났다.","beginOffset":1373},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"목요일, 
+13 명의 시위대가 나 시리 야에서 75 명이 부상을 입어 사망했으며 보안 당국과 
+의료진은 언론과 대화 할 권한이 없기 때문에 익명 상태에 대해 CNN에 
+말했다.","beginOffset":1543},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"당국은 
+바그다드에서 남동쪽으로 200 마일 이상 떨어진 나 시리 야에 통금 시간을 
+부과했습니다.","beginOffset":1761},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"이라크에서 
+시위가 시작된 이래 총 300 명이 넘는 사람들이 사망하고 15,000 명이 
+부상당했습니다.","beginOffset":1890},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"시위대는 
+유엔의 직접 감독하에 정부가 물러나 조기 선거를 요구할 것이라고 운동가들은 
+CNN에 
+말했다.","beginOffset":2018},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"많은 
+이라크 인들은 현재의 정당들이 경제적 어려움으로 인해 권력을 행사한다고 
+비난합니다.","beginOffset":2156},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"2003 
+년 사담 후세인 전 이라크 대통령의 몰락 이후 가장 큰 것으로 여겨지는 시위 
+규모는 정부를 
+놀라게했다.","beginOffset":2282},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"압둘 
+마흐디 (Abdul Mahdi)는 10 월 31 일 사임하기로 
+합의했다.","beginOffset":2428},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"치명적인 
+힘을 사용하는 것 외에도 공무원들은 시위를 진압하기 위해 통행 금지 및 인터넷 
+정전을 
+강요했다.","beginOffset":2506},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"정부는 
+공격을받을 때만 총을 쏘지 만 시위대는 이의를 제기했다고 
+밝혔다.","beginOffset":2651},"sentiment":{"magnitude":0.1,"score":0.1}}]},"pt":{"documentSentiment":{"magnitude":6.5,"score":0},"language":"pt","sentences":[{"text":{"content":"Líder 
+iraquiano ordena investigação com protestos 
+mortais","beginOffset":0},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"O 
+primeiro-ministro iraquiano Adil Abdul Mahdi ordenou uma investigação sobre 
+a violência que levou à morte de pelo menos 31 pessoas nesta semana em 
+protestos em andamento contra o 
+governo.","beginOffset":62},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"O 
+gabinete do primeiro-ministro disse em comunicado quinta-feira que um 
+comitê dedicado será formado, liderado pelo conselheiro militar de Abdul 
+Mahdi.","beginOffset":257},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Isso 
+ocorre depois que o Irã pediu às autoridades iraquianas que respondam \"com 
+firmeza e eficácia\" aos manifestantes que atacaram o consulado de Teerã na 
+cidade de Najaf, no sul, na 
+quarta-feira.","beginOffset":412},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Os 
+protestos contra a suposta corrupção do governo e a rejeição do 
+envolvimento do Irã nos assuntos do país continuam desde 1º de 
+outubro.","beginOffset":614},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"O 
+porta-voz do Ministério das Relações Exteriores do Irã, Abbas Mousavi, 
+expressou \"ódio\" pelos manifestantes que invadiram e incendiaram o 
+consulado.","beginOffset":761},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Mousavi 
+pediu ao governo iraquiano que lide com os \"autores do ataque de forma 
+responsável, firme e eficaz\", de acordo com uma declaração do Ministério 
+de Relações Exteriores do Irã divulgada na 
+quinta-feira.","beginOffset":917},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"A 
+equipe diplomática do Irã evacuou o consulado antes do ataque, informou 
+quinta-feira a Agência de Notícias da República Islâmica 
+(IRNA).","beginOffset":1134},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Este 
+é o segundo ataque a uma embaixada iraniana no Iraque depois que seu 
+escritório na cidade sagrada xiita de Karbala foi atacado no mês 
+passado.","beginOffset":1279},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Trinta 
+e uma pessoas foram mortas e mais de 1.000 ficaram feridas em três dias de 
+manifestações no Iraque, de 26 a 28 de novembro, informou quinta-feira o 
+Alto Comissariado Independente dos Direitos Humanos do 
+país.","beginOffset":1431},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Na 
+quinta-feira, 13 manifestantes foram mortos na cidade de Nasiriya com 75 
+pessoas feridas, disseram à CNN um oficial de segurança e um médico sob 
+condição de anonimato, pois não estão autorizados a falar com a 
+mídia.","beginOffset":1652},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"As 
+autoridades impuseram um toque de recolher a Nasiriya, que fica a mais de 
+320 quilômetros a sudeste de 
+Bagdá.","beginOffset":1879},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"No 
+total, mais de 300 pessoas foram mortas e 15.000 ficaram feridas no Iraque 
+desde o início dos 
+protestos.","beginOffset":1995},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Os 
+manifestantes exigiram que o governo renuncie e realize eleições 
+antecipadas sob supervisão direta das Nações Unidas, disseram ativistas à 
+CNN.","beginOffset":2104},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Muitos 
+iraquianos culpam os atuais partidos políticos no poder por suas 
+dificuldades 
+econômicas.","beginOffset":2258},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"A 
+escala dos protestos, considerada a maior desde a queda do ex-presidente 
+iraquiano Saddam Hussein em 2003, pegou o governo de 
+surpresa.","beginOffset":2357},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Abdul 
+Mahdi concordou em renunciar em 31 de 
+outubro.","beginOffset":2496},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Além 
+de usar força letal, as autoridades impuseram toque de recolher e blecautes 
+na Internet na tentativa de reprimir os 
+protestos.","beginOffset":2549},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"O 
+governo disse que só atira quando atacado, mas manifestantes contestam 
+isso.","beginOffset":2683},"sentiment":{"magnitude":0.2,"score":-0.2}}]},"es":{"documentSentiment":{"magnitude":8.9,"score":-0.3},"language":"es","sentences":[{"text":{"content":"Líder 
+iraquí ordena investigación mientras se desatan protestas 
+mortales","beginOffset":0},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"El 
+primer ministro iraquí, Adil Abdul Mahdi, ordenó una investigación sobre la 
+violencia que ha provocado la muerte de al menos 31 personas esta semana en 
+protestas contra el gobierno en 
+curso.","beginOffset":77},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"La 
+oficina del primer ministro dijo en un comunicado el jueves que se formará 
+un comité dedicado, dirigido por el asesor militar de Abdul 
+Mahdi.","beginOffset":275},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Se 
+produce después de que Irán pidió a las autoridades iraquíes que 
+respondieran \"firme y efectivamente\" a los manifestantes que atacaron el 
+consulado de Teherán en la ciudad sureña de Najaf el 
+miércoles.","beginOffset":423},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Las 
+protestas contra la presunta corrupción gubernamental y el rechazo de la 
+participación iraní en los asuntos del país han continuado desde el 1 de 
+octubre.","beginOffset":636},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"El 
+portavoz del Ministerio de Relaciones Exteriores de Irán, Abbas Mousavi, 
+expresó \"odio\" por los alborotadores que asaltaron y incendiaron el 
+consulado.","beginOffset":800},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Mousavi 
+pidió al gobierno iraquí que lidie con los \"autores del ataque de manera 
+responsable, firme y efectiva\", según una declaración del Ministerio de 
+Asuntos Exteriores iraní publicada el 
+jueves.","beginOffset":957},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"El 
+personal diplomático de Irán evacuó el consulado antes del ataque, dijo el 
+jueves la agencia estatal de noticias de la República Islámica 
+(IRNA).","beginOffset":1162},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Este 
+es el segundo ataque contra una embajada iraní en Irak luego de que su 
+oficina en la ciudad santa chiíta de Karbala fuera atacada el mes 
+pasado.","beginOffset":1316},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Treinta 
+y un personas murieron y más de 1,000 resultaron heridas durante tres días 
+de manifestaciones en Irak del 26 al 28 de noviembre, dijo el jueves la 
+Alta Comisión Independiente de Derechos Humanos del 
+país.","beginOffset":1469},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"El 
+jueves, 13 manifestantes fueron asesinados en la ciudad de Nasiriya con 75 
+heridos, un funcionario de seguridad y un médico dijeron a CNN bajo 
+condición de anonimato, ya que no están autorizados a hablar con los 
+medios.","beginOffset":1687},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"Las 
+autoridades impusieron un toque de queda en Nasiriya, que se encuentra a 
+más de 200 millas al sureste de 
+Bagdad.","beginOffset":1913},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"En 
+total, más de 300 personas murieron y 15,000 resultaron heridas en Irak 
+desde que comenzaron las 
+protestas.","beginOffset":2032},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Los 
+manifestantes han exigido al gobierno que renuncie y celebre elecciones 
+anticipadas bajo la supervisión directa de las Naciones Unidas, dijeron 
+activistas a 
+CNN.","beginOffset":2144},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Muchos 
+iraquíes culpan a los partidos políticos actuales en el poder por sus 
+dificultades 
+económicas.","beginOffset":2312},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"La 
+escala de las protestas, que se cree que es la mayor desde la caída del ex 
+presidente iraquí Saddam Hussein en 2003, tomó al gobierno por 
+sorpresa.","beginOffset":2417},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Abdul 
+Mahdi acordó renunciar el 31 de 
+octubre.","beginOffset":2572},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Además 
+de usar la fuerza letal, los funcionarios han impuesto toques de queda y 
+apagones de internet en un intento por sofocar las 
+protestas.","beginOffset":2620},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"El 
+gobierno dijo que solo dispara cuando es atacado, pero los manifestantes lo 
+han 
+disputado.","beginOffset":2763},"sentiment":{"magnitude":0.6,"score":-0.6}}]},"random_to_source":{"documentSentiment":{"magnitude":8.3,"score":-0.2},"language":"en","sentences":[{"text":{"content":"Iraqi 
+leader orders investigation due to deadly 
+protests","beginOffset":0},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Iraqi 
+Prime Minister Adil Abdul Mahdi has ordered an investigation into the 
+violence that has killed at least 31 people this week during ongoing 
+anti-government 
+protests.","beginOffset":58},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"The 
+Prime Minister's office said in a statement on Thursday that a special 
+committee would be set up to be led by military advisers to Abdul 
+Mahdi.","beginOffset":230},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Prior 
+to this, Iran called on Iraqi authorities to \"firmly and effectively\" 
+respond to demonstrators who attacked the Tehran consulate in the southern 
+city of Najaf on 
+Wednesday.","beginOffset":379},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Protests 
+against alleged government corruption and rejection of Iran's participation 
+in Iranian affairs have been held since October 
+1.","beginOffset":559},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Abbas 
+Mousavi, a spokesman for Iran's foreign ministry, expressed \"hatred\" 
+against the mob who stormed into and tortured the 
+consulate.","beginOffset":696},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"A 
+statement issued by Iran's foreign ministry on Thursday said Moussavi 
+called on the Iraqi government to deal with the perpetrators of the attack 
+in a responsible, firm and effective 
+manner.","beginOffset":832},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"The 
+state-run Islamic Republic News Agency (IRNA) said on Thursday that Iranian 
+diplomats had evacuated the consulate before the 
+attack.","beginOffset":1025},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"This 
+is the second attack since the Iranian embassy's office in the Shi’ite holy 
+city, Karbala, was attacked last 
+month.","beginOffset":1162},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"The 
+Iraqi Independent High Commission for Human Rights said on Thursday that 
+from November 26 to November 28, 31 people were killed and more than 1,000 
+injured in three days of demonstrations in various parts of 
+Iraq.","beginOffset":1286},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"A 
+security official and a medic told CNN anonymously that on Thursday, 13 
+protesters were killed in Nasiriyah, wounding 75 people because they were 
+not authorized to speak to the 
+media.","beginOffset":1505},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Authorities 
+imposed a curfew on Nasiriyah, more than 200 miles southeast of 
+Baghdad.","beginOffset":1691},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Since 
+the protests began, more than 300 people have been killed and 15,000 
+injured in 
+Iraq.","beginOffset":1777},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Activists 
+told CNN that protesters demanded the government step down and hold early 
+elections under the direct supervision of the United 
+Nations.","beginOffset":1869},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Many 
+Iraqis blamed the current economic woes on political parties in 
+power.","beginOffset":2016},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"The 
+scale of the protest is considered to be the largest since the fall of 
+former Iraqi President Saddam Hussein in 2003, which surprised the 
+government.","beginOffset":2092},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Abdul 
+Mahdi agreed to resign on October 
+31.","beginOffset":2247},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"In 
+addition to using deadly force, officials have imposed curfews and Internet 
+blackouts in an attempt to suppress the 
+protests.","beginOffset":2291},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"The 
+government said it would only fire when attacked, but demonstrators doubted 
+it.","beginOffset":2420},"sentiment":{"magnitude":0.3,"score":-0.3}}],"foreign_lang":"zh"}}

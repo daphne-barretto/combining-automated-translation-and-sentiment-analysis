@@ -1,0 +1,766 @@
+{"zh":{"documentSentiment":{"magnitude":12,"score":0.2},"language":"zh","sentences":[{"text":{"content":"残
+酷
+的风暴破坏了感恩节狂欢者的回家\n\n预报员警告称，积雪和冰冻的加剧可能使全国
+各地数以百万计的人希望在感恩节后回
+家。","beginOffset":0},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"暴
+风雨已经关闭了美国西部的高速公路，使加利福尼亚的司机滞留不前，并促使亚利桑那
+州的当局恳请旅行者等天气再尝试旅
+行。","beginOffset":172},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"预
+计该风暴将在整个周末向东方移动-星期五进入平原，到星期六进入中西部，并在星期
+天进入东北-使该国很大一部分遭受雪，冰或山洪袭
+击。","beginOffset":345},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"国
+家气象局警告说，在某些地方旅行可能变得不可
+能。","beginOffset":535},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"该
+机构上周五发布了风暴预警，警告该国从蒙大拿州延伸至内布拉斯加州再到威斯康星
+州，预计在犹他州，科罗拉多州，蒙大纳州和怀俄明州部分地区将出现大
+雪。","beginOffset":609},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"一
+位有希望的旅行者星期五在Twitter上询问气象服务，是否建议在周末开车到明尼苏达
+州的德卢
+斯。","beginOffset":827},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"该
+机构警告说：“如果您今晚在德卢斯（Duluth），由于大雪和暴风雪的影响，您很可能
+会被困在那里，直到至少周日下午。
+”","beginOffset":957},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"星
+期天，数百万度假旅行者回家后，天气可能会特别具有破坏
+性。","beginOffset":1124},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"航
+空业贸易组织“美国航空”预计，在有史以来美国航空旅行最繁忙的一天中，将有310万
+乘
+客。","beginOffset":1211},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"该
+组织估计在12天的假期中将有3160万人旅
+行。","beginOffset":1339},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"航
+空公司周五表示，他们到目前为止一直在照常运转，因为他们监视天
+气。","beginOffset":1399},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"美
+国航空周五仅针对以下机场发布了与天气相关的豁免：南达科他州拉皮德
+城。","beginOffset":1498},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"该
+州的部分地区受到暴风雪的警告，可以看到狂风和高达2英尺的积
+雪。","beginOffset":1605},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"南
+达科他州公路巡逻队在Facebook上发布了一张从Rapid City附近的90号州际公路转向的
+半卡车的照
+片。","beginOffset":1699},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"“如
+果不需要，不要旅
+行！”","beginOffset":1828},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"该
+机构写
+道。","beginOffset":1867},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"加
+利福尼亚州长滩市22岁的大学生Karlee Wilkinson完全由于去往目的地的积雪而错过了
+感恩节聚
+会。","beginOffset":1887},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"她
+和她的室友星期四傍晚离开，原本应该开车两个小
+时。","beginOffset":2015},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"但
+是大雪开始飘落，雪花成片比她想象的还要大，高速公路陷入僵局，汽车继续过
+热。","beginOffset":2090},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"起
+初，这看起来像是一次冒险：他们在高速公路中间位置堆雪
+人。","beginOffset":2206},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"但
+是当太阳下山时，温度下降了，他们决定转身回
+家。","beginOffset":2293},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"他
+们的感恩节晚餐是来自快餐店的鸡
+块。","beginOffset":2365},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"威
+尔金森说：“这不是应该发生的事情，也不是美国感恩节应该发生的事情。
+”","beginOffset":2421},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"“它
+只会变得比这更
+好。","beginOffset":2527},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"我
+永远不会有更糟糕的感恩节，敲木头。
+”","beginOffset":2560},"sentiment":{"magnitude":0.4,"score":-0.4}}]},"en":{"documentSentiment":{"magnitude":7.6,"score":0},"language":"en","sentences":[{"text":{"content":"Brutal 
+storm disrupts Thanksgiving revelers' return 
+home","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+powerful storm making its way east from California is threatening major 
+disruptions during the year’s busiest travel weekend, as forecasters warned 
+that intensifying snow and ice could thwart millions across the country 
+hoping to get home after 
+Thanksgiving.","beginOffset":58},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+storm has already shut down highways in the western U.S., stranding drivers 
+in California and prompting authorities in Arizona to plead with travelers 
+to wait out the weather before attempting to 
+travel.","beginOffset":322},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"The 
+storm is expected to track east through the weekend — into the Plains on 
+Friday, the Midwest by Saturday and the Northeast on Sunday — pummeling a 
+huge portion of the country with snow, ice or flash 
+flooding.","beginOffset":531},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"The 
+National Weather Service alerted that travel could become impossible in 
+some 
+places.","beginOffset":749},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"The 
+agency issued storm warnings Friday for a swath of the country stretching 
+from Montana to Nebraska to Wisconsin, with heavy snow anticipated in parts 
+of Utah, Colorado, Montana and 
+Wyoming.","beginOffset":839},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"One 
+hopeful traveler asked the weather service Friday on Twitter whether it 
+would be advisable to drive to Duluth, Minnesota, over the 
+weekend.","beginOffset":1034},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"The 
+agency warned: “If you are in Duluth by tonight, you will likely be stuck 
+there until at least Sunday afternoon due to heavy snow and blizzard 
+conditions.”","beginOffset":1178},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"The 
+weather threatened to be particularly disruptive on Sunday, when millions 
+of holiday travelers start 
+home.","beginOffset":1343},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Airlines 
+for America, the airline industry’s trade group, expects 3.1 million 
+passengers during what could be the busiest day ever recorded for American 
+air 
+travel.","beginOffset":1454},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"The 
+group estimated a record of 31.6 million people will travel over a 12-day 
+holiday 
+period.","beginOffset":1622},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Airlines 
+on Friday said they were so far operating as usual as they monitor the 
+weather.","beginOffset":1716},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"American 
+Airlines issued weather-related waivers Friday for just one airport: Rapid 
+City, South 
+Dakota.","beginOffset":1805},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Sections 
+of the state were under a blizzard warning and could see howling winds and 
+as much as 2 feet of 
+snow.","beginOffset":1910},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+South Dakota Highway Patrol posted a photo on Facebook of a semi-truck that 
+veered from Interstate 90 near Rapid 
+City.","beginOffset":2021},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"Do 
+not travel if you don't have 
+to!\"","beginOffset":2144},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"the 
+agency 
+wrote.","beginOffset":2182},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Karlee 
+Wilkinson, a 22-year-old college student in Long Beach, California, missed 
+a Thanksgiving gathering entirely because of snow on the way to her 
+destination.","beginOffset":2201},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"She 
+and her roommate left late Thursday morning for what was supposed to be a 
+two-hour 
+drive.","beginOffset":2365},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"But 
+the snow started falling in flakes bigger than she’d ever seen, the highway 
+became gridlocked, and their car kept 
+overheating.","beginOffset":2459},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"At 
+first it seemed like an adventure: They made snowmen in the highway 
+median.","beginOffset":2593},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"But 
+when the sun set, the temperature dropped, and they decided to turn around 
+and head 
+home.","beginOffset":2672},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Their 
+Thanksgiving dinner was chicken nuggets from a fast food 
+drive-through.","beginOffset":2766},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"“This 
+is not how this is supposed to go, this is not what an American 
+Thanksgiving is supposed to be,” Wilkinson 
+said.","beginOffset":2845},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"“It 
+can only get better than 
+this.","beginOffset":2968},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"I’ll 
+never have a worse Thanksgiving, knock on 
+wood.”","beginOffset":3005},"sentiment":{"magnitude":0.7,"score":-0.7}}]},"fr":{"documentSentiment":{"magnitude":8.7,"score":0},"language":"fr","sentences":[{"text":{"content":"Une 
+violente tempête perturbe le retour à la maison des fêtards de 
+Thanksgiving","beginOffset":0},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Une 
+puissante tempête se dirigeant de la Californie à l’est menace de causer 
+des perturbations majeures pendant le week-end de voyage le plus chargé de 
+l’année, les prévisionnistes ayant prévenu qu’une intensification de la 
+neige et de la glace pourrait contrarier des millions de personnes à 
+travers le pays dans l’espoir de rentrer chez elles après 
+Thanksgiving.","beginOffset":84},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"La 
+tempête a déjà fermé des routes dans l’ouest des États-Unis, bloquant les 
+conducteurs en Californie et incitant les autorités de l’Arizona à implorer 
+les voyageurs d’attendre le beau temps avant de partir en 
+voyage.","beginOffset":466},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"La 
+tempête devrait se diriger vers l'est pendant le week-end - dans les 
+plaines vendredi, dans le Midwest d'ici samedi et dans le nord-est dimanche 
+- frappant une énorme partie du pays de neige, de glace ou de crues 
+soudaines.","beginOffset":699},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Le 
+Service météorologique national a averti que les déplacements pourraient 
+devenir impossibles à certains 
+endroits.","beginOffset":929},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"L'agence 
+a émis des avertissements de tempête vendredi pour une bande du pays 
+s'étendant du Montana au Nebraska au Wisconsin, avec de fortes chutes de 
+neige prévues dans certaines régions de l'Utah, du Colorado, du Montana et 
+du 
+Wyoming.","beginOffset":1051},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Un 
+voyageur plein d'espoir a demandé vendredi au service météorologique sur 
+Twitter s'il était conseillé de se rendre à Duluth, dans le Minnesota, au 
+cours du 
+week-end.","beginOffset":1295},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"L'agence 
+a averti: \"Si vous êtes à Duluth ce soir, vous serez probablement bloqué 
+là-bas au moins dimanche après-midi en raison de la forte neige et du 
+blizzard.\"","beginOffset":1470},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Le 
+temps menaçait d’être particulièrement perturbateur dimanche, lorsque des 
+millions de vacanciers rentrent chez 
+eux.","beginOffset":1639},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Airlines 
+for America, le groupe professionnel de l’industrie du transport aérien, 
+attend 3,1 millions de passagers au cours de cette journée qui pourrait 
+être la plus occupée des voyages aériens aux 
+États-Unis.","beginOffset":1763},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Le 
+groupe estime à 31,6 millions le nombre record de personnes qui voyageront 
+au cours d’une période de vacances de 12 
+jours.","beginOffset":1983},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Les 
+compagnies aériennes ont déclaré vendredi qu'elles fonctionnaient jusqu'à 
+présent comme d'habitude tout en surveillant la 
+météo.","beginOffset":2113},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"American 
+Airlines a publié vendredi des dérogations liées aux conditions 
+météorologiques pour un seul aéroport: Rapid City (Dakota du 
+Sud).","beginOffset":2253},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Des 
+sections de l'état étaient sous un avertissement de blizzard et pouvaient 
+voir des vents hurlants et pas moins de 2 pieds de 
+neige.","beginOffset":2400},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"La 
+patrouille routière du Dakota du Sud a publié sur Facebook la photo d'un 
+semi-camion qui avait quitté l'Interstate 90 près de Rapid 
+City.","beginOffset":2538},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"Ne 
+voyage pas si tu n'es pas 
+obligé!\"","beginOffset":2683},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"l'agence 
+a 
+écrit.","beginOffset":2723},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Karlee 
+Wilkinson, une étudiante âgée de 22 ans à Long Beach, en Californie, a 
+complètement manqué une réunion de Thanksgiving à cause de la neige en 
+route vers sa 
+destination.","beginOffset":2743},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Elle 
+et son compagnon de chambre sont partis tard jeudi matin pour ce qui devait 
+être deux heures de 
+route.","beginOffset":2928},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Mais 
+la neige a commencé à tomber sous forme de flocons plus gros qu’elle ne 
+l’avait jamais vue auparavant, l’autoroute était bloquée et la voiture 
+surchauffait.","beginOffset":3037},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Au 
+début, cela ressemblait à une aventure: ils ont fait des bonhommes de neige 
+dans la médiane de 
+l’autoroute.","beginOffset":3210},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Mais 
+au coucher du soleil, la température a baissé et ils ont décidé de faire 
+demi-tour et de rentrer chez 
+eux.","beginOffset":3326},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Leur 
+dîner de Thanksgiving consistait en des pépites de poulet provenant d'une 
+restauration 
+rapide.","beginOffset":3442},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"\"Ce 
+n'est pas comme cela est censé aller, ce n'est pas ce qu'un Thanksgiving 
+américain est censé être\", a déclaré 
+Wilkinson.","beginOffset":3545},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"«Cela 
+ne peut que 
+s'améliorer.","beginOffset":3676},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Je 
+n’aurai jamais un pire Thanksgiving, cogner sur du 
+bois.","beginOffset":3709},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"","beginOffset":3771},"sentiment":{"magnitude":0,"score":0}}]},"de":{"documentSentiment":{"magnitude":9.4,"score":-0.1},"language":"de","sentences":[{"text":{"content":"Brutaler 
+Sturm unterbricht die Rückkehr der Thanksgiving-Feiernden nach 
+Hause","beginOffset":0},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Ein 
+starker Sturm, der sich von Kalifornien nach Osten bahnt, droht während des 
+geschäftigsten Reisewochenendes des Jahres mit größeren Störungen, da 
+Prognostiker davor gewarnt haben, dass die Verschärfung von Schnee und Eis 
+nach Thanksgiving Millionen im ganzen Land in die Quere kommen 
+könnten.","beginOffset":80},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Der 
+Sturm hat bereits Autobahnen in den westlichen USA stillgelegt, Fahrer in 
+Kalifornien gestrandet und die Behörden in Arizona aufgefordert, Reisende 
+zu bitten, das Wetter abzuwarten, bevor sie versuchen zu 
+reisen.","beginOffset":385},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Es 
+wird erwartet, dass der Sturm das ganze Wochenende über nach Osten zieht - 
+am Freitag in die Ebene, am Samstag in den Mittleren Westen und am Sonntag 
+in den Nordosten - und einen großen Teil des Landes mit Schnee, Eis oder 
+Sturzfluten 
+überschwemmt.","beginOffset":604},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Der 
+Nationale Wetterdienst warnte, dass Reisen an einigen Orten unmöglich 
+werden 
+könnten.","beginOffset":860},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Die 
+Agentur gab am Freitag Sturmwarnungen für einen Teil des Landes aus, der 
+sich von Montana über Nebraska bis nach Wisconsin 
+erstreckt.","beginOffset":953},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"In 
+Teilen von Utah, Colorado, Montana und Wyoming wird mit starken 
+Schneefällen 
+gerechnet.","beginOffset":1093},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ein 
+hoffnungsvoller Reisender fragte den Wetterdienst Freitag auf Twitter, ob 
+es ratsam sei, über das Wochenende nach Duluth, Minnesota, zu 
+fahren.","beginOffset":1186},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Die 
+Agentur warnte: \"Wenn Sie bis heute Abend in Duluth sind, werden Sie 
+wahrscheinlich bis mindestens Sonntag Nachmittag wegen starker Schnee- und 
+Schneesturmbedingungen dort 
+festsitzen.\"","beginOffset":1335},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Besonders 
+störend drohte das Wetter am Sonntag, wenn Millionen von Urlaubern nach 
+Hause 
+fahren.","beginOffset":1525},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Airlines 
+for America, die Handelsgruppe der Luftfahrtindustrie, erwartet 3,1 
+Millionen Passagiere an dem möglicherweise geschäftigsten Tag, der jemals 
+für amerikanische Flugreisen verzeichnet 
+wurde.","beginOffset":1622},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Die 
+Gruppe schätzt, dass 31,6 Millionen Menschen in einem 12-tägigen 
+Urlaubszeitraum reisen 
+werden.","beginOffset":1825},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Die 
+Fluggesellschaften sagten am Freitag, dass sie bisher wie gewohnt 
+operierten, während sie das Wetter 
+überwachten.","beginOffset":1927},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"American 
+Airlines hat am Freitag wetterbedingte Ausnahmeregelungen für nur einen 
+Flughafen erlassen: Rapid City, South 
+Dakota.","beginOffset":2047},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Teile 
+des Staates standen unter einer Schneesturmwarnung und konnten heulende 
+Winde und bis zu 2 Fuß Schnee 
+sehen.","beginOffset":2176},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Die 
+South Dakota Highway Patrol hat auf Facebook ein Foto eines 
+Sattelschleppers gepostet, der von der Interstate 90 in der Nähe von Rapid 
+City abgekommen 
+ist.","beginOffset":2292},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"\"Reisen 
+Sie nicht, wenn Sie nicht 
+müssen!\"","beginOffset":2453},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"die 
+agentur 
+schrieb.","beginOffset":2497},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Karlee 
+Wilkinson, eine 22-jährige Studentin in Long Beach, Kalifornien, verpasste 
+eine Erntedankveranstaltung wegen Schnee auf dem Weg zu ihrem 
+Ziel.","beginOffset":2519},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Sie 
+und ihre Mitbewohnerin reisten am späten Donnerstagmorgen zu einer 
+angeblich zweistündigen Autofahrt 
+ab.","beginOffset":2671},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Aber 
+der Schnee fing an, in größeren Flocken als jemals zuvor zu fallen, die 
+Autobahn war blockiert und ihr Auto überhitzte immer 
+wieder.","beginOffset":2782},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Anfangs 
+schien es ein Abenteuer zu sein: Sie machten Schneemänner im 
+Autobahnmittel.","beginOffset":2924},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Aber 
+als die Sonne unterging, sank die Temperatur und sie beschlossen, sich 
+umzudrehen und nach Hause zu 
+fahren.","beginOffset":3010},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ihr 
+Thanksgiving-Abendessen bestand aus Hühnernuggets von einer 
+Schnellimbiss-Durchfahrt.","beginOffset":3123},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Dies 
+ist nicht, wie das gehen soll, das ist nicht, was ein amerikanischer 
+Erntedank sein soll\", sagte 
+Wilkinson.","beginOffset":3215},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"„Es 
+kann nur besser 
+werden.","beginOffset":3329},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ich 
+werde nie ein schlimmeres Thanksgiving haben, klopf an 
+Holz.","beginOffset":3359},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"","beginOffset":3424},"sentiment":{"magnitude":0,"score":0}}]},"it":{"documentSentiment":{"magnitude":9.9,"score":0},"language":"it","sentences":[{"text":{"content":"La 
+tempesta brutale interrompe il ritorno a casa dei festaioli del 
+Ringraziamento","beginOffset":0},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"Una 
+forte tempesta che si fa strada ad est della California sta minacciando 
+gravi interruzioni durante il weekend di viaggio più affollato dell'anno, 
+mentre i meteorologi avvertivano che l'intensificazione della neve e del 
+ghiaccio avrebbe potuto contrastare milioni di persone in tutto il paese 
+nella speranza di tornare a casa dopo il 
+Ringraziamento.","beginOffset":83},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"La 
+tempesta ha già chiuso le autostrade negli Stati Uniti occidentali, 
+bloccando i conducenti in California e spingendo le autorità in Arizona a 
+chiedere ai viaggiatori di aspettare il tempo prima di tentare di 
+viaggiare.","beginOffset":438},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"Si 
+prevede che la tempesta seguirà verso est durante il fine settimana - nelle 
+pianure di venerdì, il Midwest di sabato e il nord-est di domenica - 
+colpendo una grande porzione del paese con neve, ghiaccio o inondazioni 
+improvvise.","beginOffset":663},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Il 
+National Weather Service ha avvertito che il viaggio potrebbe diventare 
+impossibile in alcuni 
+luoghi.","beginOffset":898},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"L'agenzia 
+ha emesso avvisi di tempesta venerdì per un'andana del paese che si estende 
+dal Montana al Nebraska al Wisconsin, con una forte nevicata anticipata in 
+alcune parti di Utah, Colorado, Montana e 
+Wyoming.","beginOffset":1004},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Un 
+viaggiatore fiducioso ha chiesto al servizio meteorologico venerdì su 
+Twitter se sarebbe consigliabile guidare fino a Duluth, Minnesota, nel fine 
+settimana.","beginOffset":1218},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"L'agenzia 
+ha avvertito: \"Se sei a Duluth entro stanotte, probabilmente rimarrai 
+bloccato lì almeno fino a domenica pomeriggio a causa di forti nevicate e 
+bufera di 
+neve\".","beginOffset":1379},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Il 
+tempo ha minacciato di essere particolarmente dirompente domenica, quando 
+milioni di viaggiatori in vacanza iniziano a 
+casa.","beginOffset":1552},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Airlines 
+for America, il gruppo commerciale del settore aereo, prevede 3,1 milioni 
+di passeggeri durante quella che potrebbe essere la giornata più trafficata 
+mai registrata per i viaggi aerei 
+americani.","beginOffset":1680},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Il 
+gruppo ha stimato che un record di 31,6 milioni di persone viaggerà durante 
+un periodo di ferie di 12 
+giorni.","beginOffset":1886},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Le 
+compagnie aeree di venerdì hanno dichiarato di aver operato finora come 
+sempre monitorando il 
+tempo.","beginOffset":2000},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"American 
+Airlines ha emesso esoneri meteorologici venerdì per un solo aeroporto: 
+Rapid City, South 
+Dakota.","beginOffset":2105},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Sezioni 
+dello stato erano sotto un avvertimento di tormenta e potevano vedere venti 
+ululanti e fino a 2 piedi di 
+neve.","beginOffset":2214},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"La 
+pattuglia della South Dakota Highway ha pubblicato una foto su Facebook di 
+un semi-camion che è arrivato dall'Interstate 90 vicino a Rapid 
+City.","beginOffset":2333},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"Non 
+viaggiare se non è 
+necessario!\"","beginOffset":2482},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"l'agenzia 
+ha 
+scritto.","beginOffset":2520},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Karlee 
+Wilkinson, una studentessa universitaria di 22 anni a Long Beach, in 
+California, ha perso un incontro del Ringraziamento a causa della neve 
+sulla strada per la sua 
+destinazione.","beginOffset":2543},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Lei 
+e la sua compagna di stanza sono partiti giovedì mattina tardi per quella 
+che doveva essere un viaggio di due 
+ore.","beginOffset":2729},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Ma 
+la neve iniziò a cadere in fiocchi più grandi di quanto avesse mai visto, 
+l'autostrada si bloccò e la loro auto continuò a 
+surriscaldarsi.","beginOffset":2849},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"All'inizio 
+sembrava un'avventura: hanno fatto i pupazzi di neve nella mediana 
+dell'autostrada.","beginOffset":2996},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ma 
+quando il sole tramontò, la temperatura calò e decisero di voltarsi e 
+tornare a 
+casa.","beginOffset":3091},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"La 
+loro cena del Ringraziamento erano crocchette di pollo da un fast food 
+drive-through.","beginOffset":3182},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"\"Non 
+è così che dovrebbe andare, non è quello che dovrebbe essere un 
+ringraziamento americano\", ha detto 
+Wilkinson.","beginOffset":3272},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"“Può 
+solo migliorare di 
+così.","beginOffset":3391},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Non 
+avrò mai un Giorno del Ringraziamento peggiore, bussa al legno 
+\".","beginOffset":3425},"sentiment":{"magnitude":0.9,"score":-0.9}}]},"ja":{"documentSentiment":{"magnitude":12.4,"score":0.1},"language":"ja","sentences":[{"text":{"content":"残
+忍な嵐が感謝祭の祝宴の帰国を混乱させる\n\nカリフォルニアから東に向かう強力な
+嵐は、今年の最も忙しい旅行の週末に大きな混乱を脅かしていま
+す。","beginOffset":0},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"予
+報家は、雪と氷の激化が感謝祭の後に家に帰ることを望んでいる全国の数百万人を妨
+げる可能性があると警告しまし
+た。","beginOffset":206},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"嵐
+はすでに米国西部の高速道路を閉鎖し、カリフォルニアのドライバーを立ち往生さ
+せ、アリゾナの当局に旅行を試みる前に天気を待つように旅行者に嘆願するよう促し
+ていま
+す。","beginOffset":373},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"嵐
+は週末にかけて東を追跡し、金曜日に平野、土曜日までに中西部、日曜日に北東に進
+み、国の大部分を雪、氷、または鉄砲水で襲うと予想されていま
+す。","beginOffset":618},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"国
+立気象局は、場所によっては旅行が不可能になる可能性があると警告し
+た。","beginOffset":830},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"エー
+ジェンシーは、金曜日にモンタナ州からネブラスカ州、ウィスコンシン州に至る国の
+範囲について暴風雨警報を発し、ユタ州、コロラド州、モンタナ州、ワイオミング州
+の一部で大雪が予想され
+た。","beginOffset":937},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"希
+望のある旅行者の1人が、金曜日に天気予報サービスをTwitterで尋ね、週末にミネソ
+タ州ダルースまでドライブすることをお勧めしま
+す。","beginOffset":1212},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"代
+理店は、「今夜までにダルースにいる場合は、大雪と吹雪の状況により、少なくとも
+日曜日の午後までそこにいる可能性が高い」と警告しまし
+た。","beginOffset":1397},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"何
+百万人もの休日の旅行者が家に帰る日曜日には、天気が特に混乱を招く恐れがありま
+し
+た。","beginOffset":1600},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"航
+空業界の業界団体であるアメリカ向け航空会社は、これまでに記録されたアメリカの
+空の旅で最も忙しい日には310万人の乗客を期待していま
+す。","beginOffset":1726},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"こ
+のグループは、12日間の休暇期間中に3160万人が旅行するという記録を残していま
+す。","beginOffset":1926},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"金
+曜日の航空会社は、彼らが天気を監視している間、彼らがいつものように運営してい
+ると言いまし
+た。","beginOffset":2043},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"ア
+メリカン航空は、金曜日にサウスダコタ州ラピッドシティの1つの空港に対して、気
+象関連の免除を発表しまし
+た。","beginOffset":2184},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"州
+の一部は吹雪の警告を受けており、ハウリング風と最大2フィートの雪を見ることが
+できまし
+た。","beginOffset":2343},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"サ
+ウスダコタハイウェイパトロールはFacebookに、ラピッドシティ近くの州間高速道路
+90から進んだ半トラックの写真を投稿しまし
+た。","beginOffset":2476},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"「
+必要がないなら旅行しないでくださ
+い！」","beginOffset":2655},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"代
+理店が書い
+た。","beginOffset":2715},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"カ
+リフォルニア州ロングビーチに住む22歳の大学生、カーリーウィルキンソンは、目的
+地に行く途中の雪のために感謝祭の集まりを逃しまし
+た。","beginOffset":2741},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"彼
+女と彼女のルームメイトは、木曜日の朝遅くに2時間のドライブを予定していまし
+た。","beginOffset":2937},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"し
+かし、雪は彼女が今まで見たよりも大きなフレーク状に落ち始め、高速道路は渋滞
+し、彼らの車は過熱し続けまし
+た。","beginOffset":3055},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"最
+初は冒険のようでし
+た。","beginOffset":3219},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"彼
+らは高速道路の中央に雪だるまを作りまし
+た。","beginOffset":3255},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"し
+かし、太陽が沈むと、気温は下がり、向きを変えて家に帰ることに決めまし
+た。","beginOffset":3321},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"彼
+らの感謝祭の夕食は、ファーストフードのドライブスルーからのチキンナゲットでし
+た。","beginOffset":3432},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"「
+これは、これがどのように進むべきかではなく、これはアメリカの感謝祭がそうであ
+るはずのものではない」とウィルキンソンは言っ
+た。","beginOffset":3557},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"「
+これよりも良くなるだけで
+す。","beginOffset":3747},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"感
+謝の気持ちが悪くなることはありませ
+ん。","beginOffset":3792},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"木
+をノックしてください。
+」","beginOffset":3852},"sentiment":{"magnitude":0.1,"score":0.1}}]},"ko":{"documentSentiment":{"magnitude":11.8,"score":0.1},"language":"ko","sentences":[{"text":{"content":"잔인한 
+폭풍으로 추수 감사절 환생의 귀국 
+방해","beginOffset":0},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"캘리포니아에서 
+동쪽으로 향하는 강력한 폭풍으로 인해 연중 가장 바쁜 여행 주말에 주요한 
+혼란이 일어나고 
+있습니다.","beginOffset":65},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"예측 
+자들은 눈과 얼음이 강화되어 추수 감사절 이후 집으로 돌아 오기를 희망하면서 
+전국의 수백만 명의 사람들을 방해 할 수 있다고 
+경고했습니다.","beginOffset":225},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"폭풍은 
+이미 미국 서부의 고속도로를 폐쇄 시켰으며, 캘리포니아에있는 운전자를 
+좌초시키고 애리조나 주 당국이 여행을 시도하기 전에 날씨를 기다리도록 
+여행자들에게 
+요청했습니다.","beginOffset":425},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"폭풍은 
+주말에 걸쳐 금요일, 평원, 토요일 중서부, 일요일 북동쪽으로 동쪽에서 추적 될 
+것으로 예상되며,이 지역의 많은 지역은 눈, 얼음 또는 섬광 홍수로 가득 차 
+있습니다.","beginOffset":673},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"기상청은 
+일부 지역에서는 여행이 불가능해질 수 있다고 
+경고했습니다.","beginOffset":906},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"이 
+기관은 금요일 유타, 콜로라도, 몬태나, 와이오밍에 폭설이 예상되는 몬태나에서 
+네브래스카, 위스콘신에 이르는 국가에 대해 폭풍 경보를 
+발령했다.","beginOffset":1003},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"희망이있는 
+한 여행자가 트위터에서 금요일 날씨 서비스에 주말 동안 미네소타 덜 루스로 
+운전하는 것이 좋은지 
+물었다.","beginOffset":1207},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"이 
+기관은“오늘 밤 덜 루스에 있다면 폭설과 눈보라로 인해 일요일 오후까지 갇히게 
+될 것”이라고 
+경고했다.","beginOffset":1368},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"일요일에는 
+수백만 명의 휴가 여행객이 집에 돌아올 때 날씨가 특히 파괴적이라고 
+위협했습니다.","beginOffset":1517},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"항공 
+산업의 무역 그룹 인 미국 항공 (American for Airlines)은 미국 항공 여행 
+기록상 가장 붐비는 날에는 330 만 명의 승객을 
+예상합니다.","beginOffset":1647},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"이 
+그룹은 12 일간의 휴가 기간 동안 3,160 만 명이 여행 할 것으로 
+추정했다.","beginOffset":1824},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"금요일에 
+항공사들은 날씨를 모니터링하면서 평소와 같이 운영하고 있다고 
+밝혔다.","beginOffset":1924},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"아메리칸 
+에어 라인은 금요일 사우스 다코타 주 래피드 시티에서 단 하나의 공항으로 기상 
+관련 면제를 
+발표했습니다.","beginOffset":2036},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"주의 
+구역은 눈보라 경고를 받고 울부 짖는 바람과 2 피트의 눈을 볼 
+수있었습니다.","beginOffset":2195},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"사우스 
+다코타 고속도로 순찰대는 페이스 북에 래피드 시티 근처의 주간 고속도로 
+90에서 나온 세미 트럭의 사진을 
+게시했습니다.","beginOffset":2306},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"\"필요하지 
+않으면 여행하지 
+마십시오!\"","beginOffset":2479},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"기관은 
+썼다.","beginOffset":2531},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"캘리포니아 
+롱 비치에 사는 22 세의 대학생 인 Karlee Wilkinson은 목적지로 향하는 길에 눈 
+때문에 추수 감사절을 
+놓쳤다.","beginOffset":2550},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"그녀와 
+그녀의 룸메이트는 목요일 아침 늦게 2 시간 운전해야했던 것으로 
+떠났다.","beginOffset":2707},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"그러나 
+눈은 그녀가 본 것보다 더 큰 조각으로 떨어지기 시작했고, 고속도로는 
+철로가되어 차가 계속 
+과열되었습니다.","beginOffset":2816},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"처음에는 
+모험처럼 
+보였습니다.","beginOffset":2975},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"고속도로 
+중간에 눈사람을 
+만들었습니다.","beginOffset":3018},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"그러나 
+해가지면 온도가 내려 가서 돌아 서서 집으로 
+향했습니다.","beginOffset":3074},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"추수 
+감사절 저녁 식사는 패스트 푸드 드라이브 스루에서 치킨 
+너겟이었습니다.","beginOffset":3162},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"윌킨슨은“이것은 
+어떻게해야할지가 아니라 미국 추수 감사절이되어야하는 것이 아니다”라고 
+말했다.","beginOffset":3270},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"“이보다 
+더 나아질 수 
+있습니다.","beginOffset":3409},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"추수 
+감사절이 더 나 빠지지 않을 
+것입니다.”","beginOffset":3454},"sentiment":{"magnitude":0.3,"score":0.3}}]},"pt":{"documentSentiment":{"magnitude":8,"score":0},"language":"pt","sentences":[{"text":{"content":"Tempestade 
+brutal atrapalha foliões do Dia de Ação de 
+Graças","beginOffset":0},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Uma 
+forte tempestade que segue para o leste da Califórnia está ameaçando 
+grandes interrupções durante o fim de semana mais movimentado do ano, 
+quando os meteorologistas alertaram que a intensificação da neve e do gelo 
+poderia frustrar milhões em todo o país na esperança de chegar em casa após 
+o Dia de Ação de 
+Graças.","beginOffset":66},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"A 
+tempestade já fechou as rodovias no oeste dos EUA, impedindo motoristas na 
+Califórnia e levando as autoridades do Arizona a pedir aos viajantes que 
+esperassem o tempo antes de tentar 
+viajar.","beginOffset":400},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+tempestade deve seguir para leste até o fim de semana - nas planícies na 
+sexta-feira, no meio-oeste no sábado e no nordeste no domingo - atingindo 
+grande parte do país com neve, gelo ou 
+enchentes.","beginOffset":596},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"O 
+Serviço Nacional de Meteorologia alertou que as viagens podem se tornar 
+impossíveis em alguns 
+lugares.","beginOffset":800},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+agência emitiu alertas de tempestade na sexta-feira para uma faixa do país 
+que se estende de Montana a Nebraska e Wisconsin, com neve pesada prevista 
+em partes de Utah, Colorado, Montana e 
+Wyoming.","beginOffset":908},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Um 
+viajante esperançoso perguntou ao serviço meteorológico na sexta-feira no 
+Twitter se seria aconselhável ir a Duluth, Minnesota, no fim de 
+semana.","beginOffset":1111},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"A 
+agência alertou: \"Se você estiver em Duluth hoje à noite, provavelmente 
+ficará preso até pelo menos domingo à tarde devido às fortes nevascas e 
+condições de 
+nevasca\".","beginOffset":1264},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"O 
+clima ameaçou ser particularmente perturbador no domingo, quando milhões de 
+viajantes começam a voltar para 
+casa.","beginOffset":1443},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"A 
+Airlines for America, grupo comercial do setor de aviação, espera 3,1 
+milhões de passageiros durante o que pode ser o dia mais movimentado já 
+registrado para viagens aéreas 
+americanas.","beginOffset":1562},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"O 
+grupo estimou que um recorde de 31,6 milhões de pessoas viajará durante um 
+período de férias de 12 
+dias.","beginOffset":1755},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"As 
+companhias aéreas disseram na sexta-feira que estavam operando até o 
+momento como de costume, enquanto monitoram o 
+clima.","beginOffset":1866},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"A 
+American Airlines emitiu isenções relacionadas ao clima na sexta-feira para 
+apenas um aeroporto: Rapid City, Dakota do 
+Sul.","beginOffset":1993},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Seções 
+do estado estavam sob um alerta de nevasca e podiam ver ventos uivantes e 
+até 2 pés de 
+neve.","beginOffset":2122},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"A 
+Patrulha Rodoviária de Dakota do Sul postou uma foto no Facebook de um 
+semi-caminhão que saiu da Interstate 90 perto de Rapid 
+City.","beginOffset":2226},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"Não 
+viaje se não 
+precisar!\"","beginOffset":2362},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"a 
+agência 
+escreveu.","beginOffset":2393},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Karlee 
+Wilkinson, uma estudante universitária de 22 anos em Long Beach, 
+Califórnia, perdeu uma reunião de Ação de Graças inteiramente por causa da 
+neve a caminho de seu 
+destino.","beginOffset":2415},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Ela 
+e sua colega de quarto foram embora na noite de quinta-feira para o que 
+deveria ser uma viagem de duas 
+horas.","beginOffset":2600},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Mas 
+a neve começou a cair em flocos maiores do que ela já havia visto, a 
+estrada ficou bloqueada e o carro ficou 
+superaquecido.","beginOffset":2714},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+princípio, parecia uma aventura: eles fizeram bonecos de neve na estrada 
+mediana.","beginOffset":2845},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Mas 
+quando o sol se pôs, a temperatura caiu e eles decidiram se virar e voltar 
+para 
+casa.","beginOffset":2930},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"O 
+jantar de Ação de Graças foi de nuggets de frango de uma lanchonete de 
+fast-food.","beginOffset":3021},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"Não 
+é assim que as coisas devem acontecer, não é o que um Dia de Ação de Graças 
+americano deveria ser\", disse 
+Wilkinson.","beginOffset":3109},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"“Só 
+pode ficar melhor que 
+isso.","beginOffset":3238},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Nunca 
+terei um Dia de Ação de Graças pior, bata na 
+madeira.","beginOffset":3273},"sentiment":{"magnitude":0.8,"score":-0.8}}]},"es":{"documentSentiment":{"magnitude":11.6,"score":0},"language":"es","sentences":[{"text":{"content":"Una 
+tormenta brutal interrumpe el regreso de los juerguistas de Acción de 
+Gracias a 
+casa","beginOffset":0},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Una 
+tormenta poderosa que se dirige hacia el este desde California está 
+amenazando con grandes interrupciones durante el fin de semana de mayor 
+actividad del año, ya que los meteorólogos advirtieron que la 
+intensificación de la nieve y el hielo podría frustrar a millones de 
+personas en todo el país con la esperanza de llegar a casa después del Día 
+de Acción de 
+Gracias.","beginOffset":91},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"La 
+tormenta ya ha cerrado las carreteras en el oeste de los EE. UU., Ha dejado 
+a los conductores en California y ha llevado a las autoridades de Arizona a 
+suplicar a los viajeros que esperen el clima antes de intentar 
+viajar.","beginOffset":473},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Se 
+espera que la tormenta siga hacia el este durante el fin de semana, hasta 
+las llanuras el viernes, el medio oeste el sábado y el noreste el domingo, 
+azotando una gran parte del país con nieve, hielo o inundaciones 
+repentinas.","beginOffset":700},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"El 
+Servicio Meteorológico Nacional alertó que viajar en algunos lugares podría 
+ser 
+imposible.","beginOffset":932},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"La 
+agencia emitió advertencias de tormenta el viernes para una franja del país 
+que se extiende desde Montana hasta Nebraska y Wisconsin, con fuertes 
+nevadas anticipadas en partes de Utah, Colorado, Montana y 
+Wyoming.","beginOffset":1030},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Un 
+viajero esperanzado le preguntó al servicio meteorológico el viernes en 
+Twitter si sería aconsejable conducir a Duluth, Minnesota, durante el fin 
+de 
+semana.","beginOffset":1250},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"La 
+agencia advirtió: \"Si estás en Duluth esta noche, es probable que estés 
+atrapado allí hasta al menos el domingo por la tarde debido a las fuertes 
+nevadas y las condiciones de tormenta de 
+nieve\".","beginOffset":1413},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"El 
+clima amenazaba con ser particularmente perjudicial el domingo, cuando 
+millones de viajeros de vacaciones comienzan a 
+casa.","beginOffset":1616},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Airlines 
+for America, el grupo comercial de la industria de las aerolíneas, espera 
+3,1 millones de pasajeros durante lo que podría ser el día más ocupado 
+jamás registrado para los viajes aéreos 
+estadounidenses.","beginOffset":1743},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"El 
+grupo estimó que un récord de 31,6 millones de personas viajará durante un 
+período de vacaciones de 12 
+días.","beginOffset":1961},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Las 
+aerolíneas dijeron el viernes que hasta ahora estaban operando como 
+siempre, ya que monitorean el 
+clima.","beginOffset":2078},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"American 
+Airlines emitió exenciones relacionadas con el clima el viernes para un 
+solo aeropuerto: Rapid City, Dakota del 
+Sur.","beginOffset":2188},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Las 
+secciones del estado estaban bajo una advertencia de tormenta de nieve y 
+podían ver vientos aulladores y hasta 2 pies de 
+nieve.","beginOffset":2316},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"La 
+Patrulla de Carreteras de Dakota del Sur publicó una foto en Facebook de un 
+camión que se desvió de la Interestatal 90 cerca de Rapid 
+City.","beginOffset":2449},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"¡No 
+viaje si no tiene que 
+hacerlo!\"","beginOffset":2595},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"la 
+agencia 
+escribió.","beginOffset":2633},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Karlee 
+Wilkinson, una estudiante universitaria de 22 años en Long Beach, 
+California, se perdió una reunión de Acción de Gracias por completo debido 
+a la nieve en el camino a su 
+destino.","beginOffset":2656},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Ella 
+y su compañera de cuarto se fueron tarde el jueves por la mañana para lo 
+que se suponía que era un viaje de dos 
+horas.","beginOffset":2847},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"Pero 
+la nieve comenzó a caer en copos más grandes de lo que jamás había visto, 
+la carretera se atascó y su auto se 
+sobrecalentó.","beginOffset":2974},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Al 
+principio parecía una aventura: hicieron muñecos de nieve en la mediana de 
+la 
+carretera.","beginOffset":3110},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Pero 
+cuando se puso el sol, la temperatura bajó y decidieron darse la vuelta y 
+regresar a 
+casa.","beginOffset":3204},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Su 
+cena de Acción de Gracias consistió en nuggets de pollo de un restaurante 
+de comida 
+rápida.","beginOffset":3301},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"\"No 
+es así como se supone que debe ser, esto no es lo que se supone que es un 
+Día de Acción de Gracias estadounidense\", dijo 
+Wilkinson.","beginOffset":3400},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"“Solo 
+puede ser mejor que 
+esto.","beginOffset":3539},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Nunca 
+tendré un peor Día de Acción de Gracias, toco madera 
+\".","beginOffset":3573},"sentiment":{"magnitude":0.8,"score":-0.8}}]},"random_to_source":{"documentSentiment":{"magnitude":7.8,"score":0},"language":"en","sentences":[{"text":{"content":"A 
+brutal storm disrupts the return of a Thanksgiving 
+feast","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+powerful storm heading east from California is threatening great chaos on 
+the busiest travel weekend of the 
+year.","beginOffset":60},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Forecasters 
+warned that the intensification of snow and ice could interfere with 
+millions of people nationwide who want to go home after 
+Thanksgiving.","beginOffset":176},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"The 
+storm has already closed the highway in the western United States, stuck 
+California drivers and urged travelers to wait for the weather before 
+attempting to travel to Arizona 
+authorities.","beginOffset":328},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+storm is expected to follow the east over the weekend, travel plain on 
+Friday, midwest by Saturday, and northeast on Sunday, hitting most of the 
+country with snow, ice, or flash 
+floods.","beginOffset":521},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"The 
+National Weather Service warned that travel could be impossible in some 
+places.","beginOffset":712},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+agency issued a storm warning on a range of countries from Montana to 
+Nebraska and Wisconsin on Friday, and heavy snow was expected in parts of 
+Utah, Colorado, Montana and 
+Wyoming.","beginOffset":797},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"It 
+is recommended that one prospective traveler ask for the weather service on 
+Twitter on Friday and drive to Duluth, MN on the 
+weekend.","beginOffset":983},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"The 
+agency warned, \"If you're in Duluth by tonight, you're likely to be there 
+at least until Sunday afternoon due to heavy snow and snowstorm 
+conditions.\"","beginOffset":1120},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"On 
+Sunday when millions of holiday travelers came home, the weather could be 
+particularly 
+confusing.","beginOffset":1276},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+airline industry association, the US airline, expects 3.1 million 
+passengers on the busiest day of recorded air travel in the United 
+States.","beginOffset":1377},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"The 
+group has a record of 31.6 million people traveling during a 12-day 
+vacation.","beginOffset":1523},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Friday's 
+airline said they were operating as usual while they were monitoring the 
+weather.","beginOffset":1605},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"American 
+Airlines announced a weather-related exemption for a single airport in 
+Rapid City, South Dakota on 
+Friday.","beginOffset":1696},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Some 
+parts of the state were alerted to snowstorms, and howling winds and up to 
+2 feet of snow were 
+visible.","beginOffset":1813},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"South 
+Dakota Highway Patrol posted a photo of a semi-truck on Facebook from the 
+Interstate 90 near Rapid 
+City.","beginOffset":1922},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"\"Don't 
+travel if you don't need 
+it!\"","beginOffset":2033},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"The 
+agency 
+wrote.","beginOffset":2070},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Carly 
+Wilkinson, a 22-year-old college student living in Long Beach, California, 
+missed a Thanksgiving gathering because of snow on his way to his 
+destination.","beginOffset":2089},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"She 
+and her roommate were planning a two-hour drive late Thursday 
+morning.","beginOffset":2250},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"However, 
+the snow began to fall into larger flakes than she had ever seen, the 
+highway was congested, and their cars continued to 
+overheat.","beginOffset":2325},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"At 
+first it seemed like an 
+adventure.","beginOffset":2466},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"They 
+made a snowman in the middle of the 
+highway.","beginOffset":2504},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"However, 
+when the sun went down, the temperature dropped and I decided to turn 
+around and go 
+home.","beginOffset":2554},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Their 
+Thanksgiving dinner was a chicken nugget from a fast food 
+drive-through.","beginOffset":2653},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"“This 
+is not how this should go, and this is not what American Thanksgiving 
+should be,” Wilkinson 
+said.","beginOffset":2733},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"“It 
+’s just better than 
+this.","beginOffset":2841},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Thanks 
+wo n’t go 
+wrong.","beginOffset":2875},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Knock 
+the 
+tree.”","beginOffset":2901},"sentiment":{"magnitude":0.1,"score":0.1}}],"foreign_lang":"ja"}}

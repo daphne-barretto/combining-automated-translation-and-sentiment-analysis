@@ -1,0 +1,646 @@
+{"zh":{"documentSentiment":{"magnitude":11.1,"score":0.5},"language":"zh","sentences":[{"text":{"content":"黑
+色
+星期五以$ 4.2B感恩节在线购物盛宴拉开帷幕\n\n对在线交易怀有浓厚兴趣的美国人
+撤出了智能手机，并首次在感恩节上投入了超过40亿美元，以拉开假日购物季的序
+幕。","beginOffset":0},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"根
+据Adobe Analytics的数据，感恩节这一天的在线销售额达到了创纪录的42亿美元，其
+中大约一半发生在南瓜派还没到餐桌上之前，就为忙碌的黑色星期五和零售商的又一个
+重磅假期奠定了基
+础。","beginOffset":225},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Adobe商
+务产品和平台副总裁Jason Woosley在接受CNN Business采访时说：“我们的假期销售季
+节缩短了。
+”","beginOffset":478},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"“这
+正在产生压缩效果。
+”","beginOffset":608},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"Woosley说，由
+于感恩节比去年晚了六天，零售商加强了广告宣传，并为家电，体育用品，电视，消费
+者和玩具等商品提供了很大的折
+扣。","beginOffset":646},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"消
+费者吃了这些交
+易。","beginOffset":826},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"根
+据Adobe数据，截至周五东部时间上午10点，在线支出总计7.67亿美元，使黑色星期五
+的销售额达到74亿美元，比去年增长
+19.2％。","beginOffset":858},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"伍
+斯利说：“由于感恩节的在线人数众多，黑色星期五没有出现放缓的迹象。
+”","beginOffset":1027},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Woosley估
+计，在周四至周一之间，消费者将在网上花费290亿美
+元。","beginOffset":1134},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"为
+期五天的“网络周”期间应占Adobe预测的本假日季节在线销售额1437亿美元的
+20％。","beginOffset":1219},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"Woosley说，在
+线交易也有望转化为实体店的销售，并指出“ BOPIS”（在线购买，店内取货）活动的增
+加。","beginOffset":1331},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"他
+说，约有82％的人前往商店进行网上购物后，将继续亲自购
+物。","beginOffset":1467},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"IBM表
+示，由于天气有利以及“年终可支配收入激增”，预计实体店的零售额将在11月和12月分
+别增长2％和
+6％。","beginOffset":1555},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"人
+口普查和零售数
+据。","beginOffset":1699},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"IBM研
+究员兼首席科学家迈克尔·海多克（Michael Haydock）说：“他们被雇用了，储蓄率很
+高，而且他们的钱包里有很多东西。
+”","beginOffset":1731},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"IBM全
+球消费者天气总监保罗·沃尔什（Paul Walsh）表示，本周初席卷美国大部分地区的寒
+冷天气应该比2018年12月的天气更干
+燥。","beginOffset":1897},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"沃
+尔什对CNN Business说：“我认为当我们进入黑色星期五周末时，天气将几乎没有那么
+混乱。
+”","beginOffset":2064},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"总
+体而言，IBM预计假日销售将增长
+4％。","beginOffset":2189},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"这
+与美国全国零售联合会（National Retail Federation）的预测一致，即2019年假日销
+售将达到7279亿美元至7307亿美元之间，比去年增长3.8％至
+4.2％。","beginOffset":2241},"sentiment":{"magnitude":0.8,"score":0.8}}]},"en":{"documentSentiment":{"magnitude":5.1,"score":0.1},"language":"en","sentences":[{"text":{"content":"Black 
+Friday kicks off with $4.2B Thanksgiving online shopping 
+feast","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Americans 
+with a hearty appetite for online deals pulled out their smartphones and, 
+for the first time, shelled out more than $4 billion on Thanksgiving to 
+kick off the holiday shopping 
+season.","beginOffset":70},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Thanksgiving 
+Day's record online sales of $4.2 billion — about half of which occurred 
+before the pumpkin pies even hit the table — set the stage for a busy Black 
+Friday and potentially another blockbuster holiday season for retailers, 
+according to Adobe Analytics 
+data.","beginOffset":265},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"We've 
+got a shorter holiday selling season,\" Jason Woosley, Adobe's vice 
+president of commerce product and platform, said in an interview with CNN 
+Business.","beginOffset":540},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"That's 
+creating a compression 
+effect.\"","beginOffset":698},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"With 
+Thanksgiving landing six days later than last year, retailers amped up 
+their advertising and served up deep discounts on items such as appliances, 
+sporting goods, televisions, consumers and toys, Woosley 
+said.","beginOffset":739},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"And 
+consumers ate up those 
+deals.","beginOffset":955},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"As 
+of 10 
+a.m.","beginOffset":990},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Eastern 
+on Friday, online spending totaled $767 million, putting Black Friday sales 
+on pace to top $7.4 billion, an increase of 19.2% from last year, according 
+to Adobe 
+data.","beginOffset":1004},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"We're 
+not seeing any slowdown in Black Friday\" as a result of the big 
+Thanksgiving turnout online, Woosley 
+said.","beginOffset":1180},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Woosley 
+estimates that consumers will spend $29 billion online between Thursday and 
+Monday.","beginOffset":1295},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"That 
+five-day \"Cyber Week\" period should account for a 20% chunk of the $143.7 
+billion in online sales Adobe predicted for this holiday 
+season.","beginOffset":1387},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"The 
+online deals also are expected to translate into sales at brick-and-mortar 
+stores, Woosley said, noting an increase in \"BOPIS\" — buy online, pickup 
+in store — 
+activity.","beginOffset":1532},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"About 
+82% of people who head to the store to pick up on online purchase will then 
+continue their shopping in person, he 
+said.","beginOffset":1709},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Retail 
+sales at brick-and-mortar stores are expected to grow 2% in November and 6% 
+in December, thanks to favorable weather and a \"year-end surge in 
+disposable income,\" according to IBM, which utilizes artificial 
+intelligence to analyze US Census and retail 
+data.","beginOffset":1836},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"\"They're 
+employed, [have a] good savings rate, and they've got a lot in their 
+pocketbooks,\" said Michael Haydock, IBM fellow and chief 
+scientist.","beginOffset":2101},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"The 
+wintry weather that walloped much of the country in the early part of this 
+week should give way to drier weather than what occurred in December 2018, 
+said Paul Walsh, IBM's global director of consumer 
+weather.","beginOffset":2248},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"I 
+think by the time we get into the Black Friday weekend, the weather will 
+not be nearly as disruptive,\" Walsh told CNN 
+Business.","beginOffset":2463},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Overall, 
+IBM projects holiday sales should grow by 
+4%.","beginOffset":2595},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"That's 
+in line with the National Retail Federation's projections of 2019 holiday 
+sales to hit between $727.9 billion and $730.7 billion — an increase of 
+3.8% to 4.2% from last 
+year.","beginOffset":2650},"sentiment":{"magnitude":0.1,"score":-0.1}}]},"fr":{"documentSentiment":{"magnitude":6.6,"score":0.1},"language":"fr","sentences":[{"text":{"content":"Black 
+Friday démarre avec un festin d'achats en ligne de 4,2 milliards de 
+dollars","beginOffset":0},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Les 
+Américains avec un appétit généreux pour les transactions en ligne ont 
+sorti leurs smartphones et, pour la première fois, ont déboursé plus de 4 
+milliards de dollars à Thanksgiving pour lancer la saison des achats de 
+Noël.","beginOffset":84},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Les 
+ventes record en ligne du jour de Thanksgiving, de 4,2 milliards de dollars 
+- dont environ la moitié ont eu lieu avant même que les tartes à la 
+citrouille ne soient mises à la table - ont ouvert la voie à un vendredi 
+noir chargé et à une nouvelle saison de fêtes sans précédent pour les 
+détaillants, selon Adobe 
+Analytics.","beginOffset":321},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Nous 
+avons une saison de vente des fêtes plus courte\", a déclaré Jason Woosley, 
+vice-président des produits et de la plateforme de commerce d'Adobe, dans 
+une interview avec CNN 
+Business.","beginOffset":660},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"\"Cela 
+crée un effet de 
+compression.\"","beginOffset":852},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Après 
+l’atterrissage de Thanksgiving six jours plus tard que l’année dernière, 
+les détaillants ont renforcé leur publicité et offert de fortes remises sur 
+des articles tels que des appareils ménagers, des articles de sport, des 
+téléviseurs, des consommateurs et des jouets, a déclaré 
+Woosley.","beginOffset":891},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Et 
+les consommateurs ont mangé ces 
+offres.","beginOffset":1200},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Vendredi, 
+à 10 heures, heure de l'Est, les dépenses en ligne se sont élevées à 767 
+millions de 
+dollars.","beginOffset":1245},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Les 
+ventes du Black Friday ont dépassé les 7,4 milliards de dollars, soit une 
+hausse de 19,2% par rapport à l'an dernier, selon les données 
+d'Adobe.","beginOffset":1354},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"Nous 
+ne constatons aucun ralentissement au Black Friday\" en raison de la forte 
+participation en ligne à l'Action de grâce, a déclaré 
+Woosley.","beginOffset":1508},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"Woosley 
+estime que les consommateurs dépenseront 29 milliards de dollars en ligne 
+entre jeudi et 
+lundi.","beginOffset":1656},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Cette 
+période de \"Cyber ​​Week\" de cinq jours devrait représenter 20% des 14,7 
+milliards de dollars de ventes en ligne annoncés par Adobe pour cette 
+saison de 
+vacances.","beginOffset":1761},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Les 
+transactions en ligne devraient également se traduire par des ventes dans 
+les magasins physiques, a déclaré Woosley, notant une augmentation du 
+nombre de \"BOPIS\" - achat en ligne, collecte en magasin - 
+activité.","beginOffset":1938},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Environ 
+82% des personnes qui se rendent au magasin pour acheter en ligne 
+continueront à faire leurs achats en personne, a-t-il 
+déclaré.","beginOffset":2158},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Les 
+ventes au détail dans les magasins physiques devraient augmenter de 2% en 
+novembre et de 6% en décembre, grâce à une météo favorable et à une 
+\"hausse du revenu disponible en fin d'année\", selon IBM, qui utilise 
+l'intelligence artificielle pour analyser les statistiques 
+américaines.","beginOffset":2299},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"Données 
+de recensement et de vente au 
+détail.","beginOffset":2595},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Ils 
+ont un emploi, ont un bon taux d'épargne et ils en ont beaucoup dans leur 
+portefeuille\", a déclaré Michael Haydock, collègue IBM et scientifique en 
+chef.","beginOffset":2644},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Les 
+conditions météorologiques hivernales qui ont déferlé sur une grande partie 
+du pays au début de cette semaine devraient laisser place à un climat plus 
+sec que celui de décembre 2018, a déclaré Paul Walsh, directeur mondial de 
+la météo pour le consommateur chez 
+IBM.","beginOffset":2808},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"Je 
+pense que d'ici le week-end du vendredi noir, le temps ne sera pas aussi 
+perturbant\", a déclaré Walsh à CNN 
+Business.","beginOffset":3090},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Dans 
+l’ensemble, les ventes de vacances des projets IBM devraient augmenter de 
+4%.","beginOffset":3216},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"Cela 
+correspond aux prévisions de la National Retail Federation concernant les 
+ventes de vacances pour 2019 entre 727,9 et 730,7 milliards de dollars, 
+soit une augmentation de 3,8% à 4,2% par rapport à l'année 
+dernière.","beginOffset":3301},"sentiment":{"magnitude":0.6,"score":0.6}}]},"de":{"documentSentiment":{"magnitude":9.6,"score":-0.3},"language":"de","sentences":[{"text":{"content":"Der 
+schwarze Freitag beginnt mit einem Online-Shopping-Festmahl zum 
+Erntedankfest im Wert von 4,2 Mrd. 
+USD","beginOffset":0},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Amerikaner 
+mit einem ausgeprägten Appetit auf Online-Angebote zogen ihre Smartphones 
+heraus und spendeten Thanksgiving zum ersten Mal mehr als 4 Milliarden 
+US-Dollar, um die Weihnachtseinkaufssaison zu 
+starten.","beginOffset":108},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Der 
+Online-Rekordumsatz am Thanksgiving Day von 4,2 Milliarden US-Dollar - etwa 
+die Hälfte davon, bevor die Kürbiskuchen überhaupt auf den Tisch kamen - 
+bereitete den Einzelhändlern nach Angaben von Adobe Analytics die 
+Voraussetzungen für einen geschäftigen schwarzen Freitag und möglicherweise 
+eine weitere 
+Blockbuster-Weihnachtszeit.","beginOffset":321},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"Wir 
+haben eine kürzere Weihnachtsverkaufssaison\", sagte Jason Woosley, Vice 
+President für Commerce-Produkte und -Plattformen bei Adobe, in einem 
+Interview mit CNN 
+Business.","beginOffset":665},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Das 
+erzeugt einen 
+Kompressionseffekt.\"","beginOffset":841},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Da 
+Thanksgiving sechs Tage später als letztes Jahr landete, verstärkten 
+Einzelhändler ihre Werbung und gewährten tiefe Rabatte auf Artikel wie 
+Haushaltsgeräte, Sportartikel, Fernseher, Verbraucher und Spielzeug, sagte 
+Woosley.","beginOffset":882},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Und 
+die Verbraucher haben diese Deals 
+aufgefressen.","beginOffset":1115},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Nach 
+Angaben von Adobe beliefen sich die Online-Ausgaben am Freitag um 10.00 Uhr 
+nachts auf insgesamt 767 Millionen 
+US-Dollar.","beginOffset":1168},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Damit 
+stieg der Umsatz am Schwarzen Freitag gegenüber dem Vorjahr um 19,2 Prozent 
+auf 7,4 Milliarden 
+US-Dollar.","beginOffset":1295},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"Wir 
+sehen in Black Friday keine Verlangsamung\" als Ergebnis der großen 
+Thanksgiving-Beteiligung im Internet, sagte 
+Woosley.","beginOffset":1409},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Nach 
+Schätzungen von Woosley werden die Verbraucher zwischen Donnerstag und 
+Montag 29 Milliarden US-Dollar online 
+ausgeben.","beginOffset":1536},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Diese 
+fünftägige \"Cyber ​​Week\" -Periode dürfte einen Anteil von 20% der 
+Online-Umsätze von 143,7 Milliarden US-Dollar ausmachen, die Adobe für 
+diese Weihnachtszeit prognostiziert 
+hat.","beginOffset":1661},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Die 
+Online-Deals dürften sich auch in Verkäufen in stationären Geschäften 
+niederschlagen, sagte Woosley und stellte fest, dass die Aktivität 
+\"BOPIS\" - Online-Kauf, Abholung im Geschäft - 
+zunimmt.","beginOffset":1856},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ungefähr 
+82% der Leute, die zum Online-Kauf in den Laden gehen, werden dann ihre 
+Einkäufe persönlich fortsetzen, sagte 
+er.","beginOffset":2058},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Laut 
+IBM, die künstliche Intelligenz zur Analyse der USA einsetzt, werden die 
+Einzelhandelsumsätze in stationären Geschäften im November um 2% und im 
+Dezember um 6% 
+zulegen.","beginOffset":2185},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Dies 
+ist auf das günstige Wetter und den Anstieg des verfügbaren Einkommens zum 
+Jahresende zurückzuführen Volkszählungs- und 
+Einzelhandelsdaten.","beginOffset":2363},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"\"Sie 
+sind angestellt, haben eine gute Sparquote und haben viel in ihren 
+Taschenbüchern\", sagte Michael Haydock, IBM-Kollege und 
+Chefwissenschaftler.","beginOffset":2514},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Das 
+winterliche Wetter, das zu Beginn dieser Woche einen Großteil des Landes 
+bedeckte, dürfte trockeneren Wetterbedingungen weichen als im Dezember 
+2018, sagte Paul Walsh, IBMs globaler Director of Consumer 
+Weather.","beginOffset":2665},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"\"Ich 
+denke, bis zum Black Friday-Wochenende wird das Wetter bei weitem nicht 
+mehr so ​​störend sein\", sagte Walsh gegenüber CNN 
+Business.","beginOffset":2884},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Insgesamt 
+sollen die IBM-Projektferienumsätze um 4% 
+zulegen.","beginOffset":3029},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Dies 
+steht im Einklang mit den Prognosen der National Retail Federation von 
+2019, wonach die Weihnachtsumsätze zwischen 727,9 und 730,7 Milliarden 
+US-Dollar liegen werden - ein Anstieg von 3,8% auf 4,2% gegenüber dem 
+Vorjahr.","beginOffset":3091},"sentiment":{"magnitude":0.1,"score":-0.1}}]},"it":{"documentSentiment":{"magnitude":6.6,"score":0},"language":"it","sentences":[{"text":{"content":"Il 
+Black Friday prende il via con $ 4,2 miliardi di festa dello shopping 
+online del 
+Ringraziamento","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Gli 
+americani con un forte appetito per le offerte online hanno estratto i loro 
+smartphone e, per la prima volta, hanno sborsato più di $ 4 miliardi nel 
+Giorno del Ringraziamento per dare il via alla stagione dello shopping 
+natalizio.","beginOffset":100},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Le 
+vendite online record del Giorno del Ringraziamento di $ 4,2 miliardi - 
+circa la metà delle quali si sono verificate prima che le torte di zucca 
+arrivassero sul tavolo - hanno preparato il palcoscenico per un impegnato 
+Black Friday e potenzialmente un'altra stagione festiva di successo per i 
+rivenditori, secondo i dati di Adobe 
+Analytics.","beginOffset":337},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"\"Abbiamo 
+una stagione di vendita delle vacanze più breve\", ha dichiarato Jason 
+Woosley, vicepresidente del prodotto e della piattaforma di commercio di 
+Adobe, in un'intervista a CNN 
+Business.","beginOffset":683},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Sta 
+creando un effetto di 
+compressione.\"","beginOffset":876},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Con 
+l'atterraggio del Ringraziamento sei giorni dopo l'anno scorso, i 
+rivenditori hanno ampliato la loro pubblicità e offerto profondi sconti su 
+articoli come elettrodomestici, articoli sportivi, televisori, consumatori 
+e giocattoli, ha detto 
+Woosley.","beginOffset":919},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"E 
+i consumatori hanno mangiato quelle 
+offerte.","beginOffset":1173},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"A 
+partire dalle 10 di venerdì orientale, la spesa online ha raggiunto i 767 
+milioni di dollari, portando le vendite del Black Friday a raggiungere i 
+7,4 miliardi di dollari, con un aumento del 19,2% rispetto allo scorso 
+anno, secondo i dati di 
+Adobe.","beginOffset":1221},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Non 
+stiamo assistendo a nessun rallentamento nel Black Friday\" a seguito della 
+grande affluenza al Ringraziamento online, Woosley ha 
+detto.","beginOffset":1474},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Woosley 
+stima che i consumatori spenderanno $ 29 miliardi online tra giovedì e 
+lunedì.","beginOffset":1616},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Quel 
+periodo di cinque giorni della \"Cyber ​​Week\" dovrebbe rappresentare una 
+fetta del 20% dei $ 143,7 miliardi di vendite online previste da Adobe per 
+le festività 
+natalizie.","beginOffset":1705},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Le 
+offerte online dovrebbero inoltre tradursi in vendite nei negozi fisici, ha 
+detto Woosley, rilevando un aumento delle attività \"BOPIS\" - acquisto 
+online, ritiro in negozio 
+-.","beginOffset":1888},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Circa 
+l'82% delle persone che si recano al negozio per fare acquisti online 
+continueranno a fare acquisti di persona, ha 
+affermato.","beginOffset":2067},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Le 
+vendite al dettaglio nei negozi fisici dovrebbero crescere del 2% a 
+novembre e del 6% a dicembre, grazie alle condizioni meteorologiche 
+favorevoli e a una \"ondata di fine anno del reddito disponibile\", secondo 
+IBM, che utilizza l'intelligenza artificiale per analizzare gli Stati Uniti 
+Censimento e dati al 
+dettaglio.","beginOffset":2200},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"Sono 
+impiegati, [hanno] un buon tasso di risparmio e ne hanno molti nei loro 
+portafogli\", ha dichiarato Michael Haydock, collega e capo scienziato 
+IBM.","beginOffset":2522},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Il 
+clima invernale che ha investito gran parte del paese nella prima parte di 
+questa settimana dovrebbe lasciare il posto a un clima più secco rispetto a 
+quanto accaduto a dicembre 2018, ha affermato Paul Walsh, direttore globale 
+di IBM del clima dei 
+consumatori.","beginOffset":2676},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"\"Penso 
+che quando entreremo nel weekend del Black Friday, il tempo non sarà così 
+dirompente\", ha detto Walsh a CNN 
+Business.","beginOffset":2942},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Complessivamente, 
+le vendite dei progetti IBM dovrebbero aumentare del 
+4%.","beginOffset":3070},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"Ciò 
+è in linea con le proiezioni della National Retail Federation sulle vendite 
+delle festività del 2019 che raggiungeranno tra 727,9 e 730,7 miliardi di 
+dollari, con un aumento del 3,8% al 4,2% rispetto allo scorso 
+anno.","beginOffset":3145},"sentiment":{"magnitude":0.3,"score":0.3}}]},"ja":{"documentSentiment":{"magnitude":5.3,"score":0},"language":"ja","sentences":[{"text":{"content":"ブ
+ラックフライデーは42億ドルの感謝祭オンラインショッピングのごちそうで始まりま
+す\n\nオンライン取引に意欲的なアメリカ人はスマートフォンを引き出し、初めて、
+ホリデーショッピングシーズンを開始するために感謝祭で40億ドル以上を払いまし
+た。","beginOffset":0},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"Adobe 
+Analyticsのデータによると、感謝祭の記録的なオンライン売上高は42億ドルで、そ
+の約半分はカボチャのパイがテーブルに届く前に発生しまし
+た。","beginOffset":344},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"ア
+ドビのコマース製品およびプラットフォーム担当副社長であるジェイソン・ウーズ
+リーは、CNN Businessのインタビューで「ホリデーセールのシーズンが短くなってい
+ます」と述べまし
+た。","beginOffset":546},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"「
+それが圧縮効果を生み出しています。
+」","beginOffset":799},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"昨
+年より6日遅れて感謝祭が上陸したため、小売業者は広告を充実させ、家電製品、ス
+ポーツ用品、テレビ、消費者、玩具などの商品の大幅な割引を提供しまし
+た。","beginOffset":858},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"そ
+して、消費者はそれらの取引を使い果たしまし
+た。","beginOffset":1080},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"ア
+ドビのデータによると、金曜日の午前10時の時点で、オンラインでの支出は合計で
+7億6,700万ドルで、ブラックフライデーの売上は前年比19.2％増の74億ドルに達して
+いま
+す。","beginOffset":1154},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Woosley氏
+によると、オンラインでの大規模な感謝祭の結果として、「ブラックフライデーに減
+速は見られません」とのことで
+す。","beginOffset":1389},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"ウー
+ズリーは、消費者が木曜日から月曜日までにオンラインで290億ドルを使うと予測し
+ていま
+す。","beginOffset":1563},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"こ
+の5日間の「サイバーウィーク」期間は、アドビシステムズ社がこのホリデーシーズ
+ンに予測したオンライン売上高1,437億ドルのうち20％を占めるはずで
+す。","beginOffset":1695},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Woosley氏
+によると、オンライン取引は実店舗での販売にもつながると予想されており、「
+BOPIS」（オンラインでの購入、店舗での集荷）アクティビティの増加に注目してい
+ま
+す。","beginOffset":1909},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"オ
+ンラインで買い物をするために店に向かう人々の約82％は、その後、直接買い物を続
+けると彼は言っ
+た。","beginOffset":2146},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"実
+店舗での小売売上高は、米国の分析に人工知能を利用するIBMによると、好天と「可
+処分所得の年末の急増」のおかげで、11月に2％、12月に6％成長する見込みで
+す。","beginOffset":2291},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"国
+勢調査および小売デー
+タ。","beginOffset":2513},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"IBMの
+フェロー兼チーフサイエンティストであるMichael Haydockは、次のように述べてい
+ま
+す。","beginOffset":2554},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"IBMの
+消費者天気のグローバルディレクターであるポール・ウォルシュは、今週の初めに国
+の大部分を襲った冬の天気は、2018年12月に起こったよりも乾燥した天気に取って代
+わるべきだと述べ
+た。","beginOffset":2676},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"「
+ブラックフライデーの週末になるまでに、天候はそれほど混乱しないだろう」とウォ
+ルシュはCNNビジネスに語っ
+た。","beginOffset":2939},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"全
+体として、IBMプロジェクトの休日の売上は4％増加するはずで
+す。","beginOffset":3100},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"こ
+れは、全国小売連盟の2019年のホリデーセールの予測と一致しており、昨年と比較し
+て3.8％から4.2％増加し、7,279億ドルから7,307億ドルに達しま
+す。","beginOffset":3191},"sentiment":{"magnitude":0.3,"score":-0.3}}]},"ko":{"documentSentiment":{"magnitude":7.2,"score":0.2},"language":"ko","sentences":[{"text":{"content":"블랙 
+프라이데이는 $ 4.2B 추수 감사절 온라인 쇼핑 잔치로 
+시작됩니다","beginOffset":0},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"온라인 
+거래에 대한 성실한 식욕을 가진 미국인들은 스마트 폰을 꺼내고 처음으로 추수 
+감사절에 40 억 달러 이상을 벌어 휴가 쇼핑 시즌을 
+시작했습니다.","beginOffset":94},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"어도비 
+애널리틱스 데이터에 따르면 추수 감사절의 온라인 판매량은 42 억 달러 (호박 
+파이가 식탁에 닿기 전에 약 절반)가 
+발생했다.","beginOffset":300},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"CNN 
+비즈니스와의 인터뷰에서 어도비의 커머셜 제품 및 플랫폼 담당 부사장 Jason 
+Woosley는 \"휴일 판매 기간이 짧아졌다\"고 
+말했다.","beginOffset":478},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"압축 
+효과를 만들고 
+있습니다.\"","beginOffset":648},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Woosley는 
+추수 감사절이 작년보다 6 일 늦게 도착하면서 소매점은 광고를 늘리고 가전 
+제품, 스포츠 용품, 텔레비전, 소비자 및 장난감과 같은 품목에 대한 할인을 
+제공했다고 Woosley는 
+말했다.","beginOffset":692},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"그리고 
+소비자는 그 거래를 
+먹었습니다.","beginOffset":945},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"어도비 
+데이터에 따르면 금요일 동부 표준시 기준 오전 10시 기준으로 온라인 지출은 총 
+7 억 7,800 만 달러로 블랙 프라이데이 매출이 전년 대비 19.2 % 증가한 74 억 
+달러를 
+기록했다.","beginOffset":1000},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Woosley는 
+추수 감사절이 온라인으로 크게 성장한 결과 \"검은 금요일에는 경기 둔화가 
+나타나지 않을 것\"이라고 
+말했다.","beginOffset":1239},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Woosley는 
+소비자들이 목요일과 월요일 사이에 온라인으로 290 억 달러를 소비 할 것으로 
+추정합니다.","beginOffset":1397},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"이 
+5 일간의 \"사이버 위크 (Cyber ​​Week)\"기간은이 휴가 시즌에 Adobe가 예측 한 
+온라인 판매 1 억 4,710 억 달러 중 20 % 청크를 
+차지해야합니다.","beginOffset":1529},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Woosley는 
+온라인 거래도 오프라인 상점에서의 판매로 이어질 것으로 예상된다고 
+온라인으로 구매하고 픽업하는 활동 인 \"BOPIS\"의 증가를 
+지적했다.","beginOffset":1715},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"그는 
+온라인 구매를 위해 매장으로 향하는 사람들의 약 82 %가 직접 쇼핑을 계속할 
+것이라고 
+말했다.","beginOffset":1909},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"인공 
+지능을 사용하여 미국을 분석하는 IBM에 따르면, 유리한 날씨와 \"일회용 수입의 
+연말 급증\"으로 인해 11 월에는 2 %, 12 월에는 6 %의 소매 판매가 
+예상된다.","beginOffset":2043},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"인구 
+조사 및 소매 
+데이터.","beginOffset":2252},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"IBM의 
+동료이자 수석 과학자 인 Michael Haydock은“이들은 고용률이 높고 저축률이 
+높으며 수첩에 많은 것을 가지고 
+있습니다.","beginOffset":2289},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"IBM의 
+글로벌 소비자 날씨 책임자 인 폴 월쉬 (Paul Walsh)는 이번 주 초에이 나라의 
+많은 지역을 휩쓸었던 겨울 날씨는 2018 년 12 월보다 더 건조한 날씨를 가져다 
+줄 것이라고 
+말했다.","beginOffset":2453},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"월시는 
+CNN 비즈니스에 \"우리는 금요일 금요일 주말에 날씨가 거의 파괴되지 않을 
+것이라고 
+생각한다.","beginOffset":2691},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"전체적으로 
+IBM 프로젝트 휴가 매출은 4 % 증가 할 
+것입니다.","beginOffset":2827},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"이는 
+전국 소매 연맹의 2019 년 연말 매출이 727.9 억 달러에서 773 억 달러 사이로 
+예상되는 것과 일치하며 이는 작년보다 3.8 %에서 4.2 %로 증가한 
+것입니다.","beginOffset":2906},"sentiment":{"magnitude":0.2,"score":0.2}}]},"pt":{"documentSentiment":{"magnitude":5.4,"score":-0.1},"language":"pt","sentences":[{"text":{"content":"Black 
+Friday começa com festa de compras on-line de US $ 4,2 
+bilhões","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Os 
+americanos com um forte apetite por acordos on-line sacaram seus 
+smartphones e, pela primeira vez, desembolsaram mais de US $ 4 bilhões no 
+Dia de Ação de Graças para iniciar a temporada de compras 
+natalinas.","beginOffset":72},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"As 
+vendas online recorde de US $ 4,2 bilhões do Dia de Ação de Graças - cerca 
+da metade das quais ocorreram antes das tortas de abóbora chegarem à mesa - 
+prepararam o cenário para uma sexta-feira movimentada e potencialmente mais 
+uma temporada de férias de grande sucesso para os varejistas, de acordo com 
+dados do Adobe 
+Analytics.","beginOffset":288},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"\"Temos 
+uma temporada mais curta de vendas de festas\", disse Jason Woosley, 
+vice-presidente de produtos e plataformas da Adobe, em entrevista à CNN 
+Business.","beginOffset":629},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"Isso 
+está criando um efeito de 
+compressão.\"","beginOffset":787},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Com 
+o desembarque do Dia de Ação de Graças seis dias depois do ano passado, os 
+varejistas aumentaram sua publicidade e conseguiram descontos profundos em 
+itens como eletrodomésticos, artigos esportivos, televisões, consumidores e 
+brinquedos, disse 
+Woosley.","beginOffset":835},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"E 
+os consumidores aceitaram esses 
+acordos.","beginOffset":1098},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Às 
+10 horas da manhã, no leste da sexta-feira, no leste da sexta-feira, os 
+gastos on-line totalizavam US $ 767 milhões, colocando as vendas da Black 
+Friday no ritmo de US $ 7,4 bilhões, um aumento de 19,2% em relação ao ano 
+passado, segundo dados da 
+Adobe.","beginOffset":1142},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"\"Não 
+estamos vendo desaceleração na sexta-feira negra\" como resultado do grande 
+comparecimento ao Dia de Ação de Graças on-line, disse 
+Woosley.","beginOffset":1406},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Woosley 
+estima que os consumidores gastarão US $ 29 bilhões on-line entre quinta e 
+segunda-feira.","beginOffset":1557},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"O 
+período de cinco dias da \"Cyber ​​Week\" deve representar 20% dos US $ 
+143,7 bilhões em vendas on-line previstos pela Adobe para esta temporada de 
+festas.","beginOffset":1657},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Os 
+negócios online também devem se traduzir em vendas em lojas físicas, disse 
+Woosley, observando um aumento na atividade do \"BOPIS\" - compra on-line, 
+coleta na 
+loja.","beginOffset":1820},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Cerca 
+de 82% das pessoas que vão à loja para comprar online continuam suas 
+compras pessoalmente, disse 
+ele.","beginOffset":1990},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"As 
+vendas no varejo em lojas físicas devem crescer 2% em novembro e 6% em 
+dezembro, graças ao clima favorável e a um \"aumento de renda disponível no 
+final do ano\", segundo a IBM, que utiliza inteligência artificial para 
+analisar os 
+EUA.","beginOffset":2101},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Dados 
+de censo e 
+varejo.","beginOffset":2343},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Eles 
+estão empregados, têm uma boa taxa de poupança e têm muito em seus 
+bolsos\", disse Michael Haydock, cientista e chefe da 
+IBM.","beginOffset":2369},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"O 
+clima de inverno que atingiu grande parte do país no início desta semana 
+deve dar lugar a um clima mais seco do que o ocorrido em dezembro de 2018, 
+disse Paul Walsh, diretor global de clima de consumidor da 
+IBM.","beginOffset":2505},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"\"Acho 
+que quando chegarmos ao fim de semana da Black Friday, o clima não será tão 
+perturbador\", disse Walsh à CNN 
+Business.","beginOffset":2722},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"No 
+geral, a IBM projeta vendas de férias devem crescer 
+4%.","beginOffset":2851},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Isso 
+está de acordo com as projeções da Federação Nacional de Varejo de vendas 
+de férias em 2019 para US $ 727,9 bilhões e US $ 730,7 bilhões - um aumento 
+de 3,8% para 4,2% em relação ao ano 
+passado.","beginOffset":2911},"sentiment":{"magnitude":0.3,"score":-0.3}}]},"es":{"documentSentiment":{"magnitude":7.7,"score":0.1},"language":"es","sentences":[{"text":{"content":"Black 
+Friday comienza con una fiesta de compras en línea de acción de gracias de 
+$ 
+4.2B","beginOffset":0},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Los 
+estadounidenses con un gran apetito por las ofertas en línea sacaron sus 
+teléfonos inteligentes y, por primera vez, desembolsaron más de $ 4 mil 
+millones en Acción de Gracias para comenzar la temporada de compras 
+navideñas.","beginOffset":91},"sentiment":{"magnitude":0.9,"score":0.9}},{"text":{"content":"Las 
+ventas en línea récord del Día de Acción de Gracias de $ 4,2 mil millones, 
+aproximadamente la mitad de las cuales ocurrieron antes de que los pasteles 
+de calabaza llegaran a la mesa, prepararon el escenario para un concurrido 
+Viernes Negro y potencialmente otra temporada de vacaciones de gran éxito 
+para los minoristas, según datos de Adobe 
+Analytics.","beginOffset":325},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"\"Tenemos 
+una temporada de ventas navideñas más corta\", dijo Jason Woosley, 
+vicepresidente de productos y plataforma de comercio de Adobe, en una 
+entrevista con CNN 
+Business.","beginOffset":689},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"Eso 
+está creando un efecto de 
+compresión\".","beginOffset":865},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Con 
+el aterrizaje del Día de Acción de Gracias seis días después del año 
+pasado, los minoristas aumentaron su publicidad y ofrecieron grandes 
+descuentos en artículos como electrodomésticos, artículos deportivos, 
+televisores, consumidores y juguetes, dijo 
+Woosley.","beginOffset":912},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Y 
+los consumidores se comieron esas 
+ofertas.","beginOffset":1185},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"A 
+partir de las 10 a.m., hora del este del viernes, el gasto en línea 
+ascendió a $ 767 millones, lo que aceleró las ventas del Black Friday a $ 
+7,4 mil millones, un aumento del 19,2% respecto al año pasado, según datos 
+de 
+Adobe.","beginOffset":1231},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"\"No 
+estamos viendo ninguna desaceleración en el Black Friday\" como resultado 
+de la gran participación en línea del Día de Acción de Gracias, dijo 
+Woosley.","beginOffset":1466},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Woosley 
+estima que los consumidores gastarán $ 29 mil millones en línea entre el 
+jueves y el 
+lunes.","beginOffset":1627},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Ese 
+período de cinco días de la \"Semana Cibernética\" debería representar un 
+20% de los $ 143.7 mil millones en ventas en línea que Adobe pronosticó 
+para esta temporada 
+navideña.","beginOffset":1729},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Se 
+espera que las ofertas en línea también se traduzcan en ventas en tiendas 
+físicas, dijo Woosley, señalando un aumento en la actividad de \"BOPIS\" 
+(comprar en línea, recoger en la 
+tienda).","beginOffset":1915},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Alrededor 
+del 82% de las personas que se dirigen a la tienda para comprar en línea 
+continuarán comprando en persona, 
+dijo.","beginOffset":2110},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Se 
+espera que las ventas minoristas en las tiendas físicas crezcan un 2% en 
+noviembre y un 6% en diciembre, gracias al clima favorable y un \"aumento 
+repentino de los ingresos disponibles\", según IBM, que utiliza 
+inteligencia artificial para analizar los 
+EE.UU.","beginOffset":2236},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Censo 
+y datos 
+minoristas.","beginOffset":2499},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"Están 
+empleados, tienen una buena tasa de ahorro y tienen mucho en sus 
+bolsillos\", dijo Michael Haydock, investigador y científico jefe de 
+IBM.","beginOffset":2526},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"El 
+clima invernal que azotó gran parte del país a principios de esta semana 
+debería dar paso a un clima más seco que el que ocurrió en diciembre de 
+2018, dijo Paul Walsh, director global de clima para consumidores de 
+IBM.","beginOffset":2674},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Creo 
+que para cuando lleguemos al fin de semana del Black Friday, el clima no 
+será tan perturbador\", dijo Walsh a CNN 
+Business.","beginOffset":2902},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"En 
+general, las ventas de vacaciones de proyectos de IBM deberían crecer un 
+4%.","beginOffset":3033},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Eso 
+está en línea con las proyecciones de la Federación Nacional de Minoristas 
+de ventas de vacaciones de 2019 para alcanzar entre $ 727.9 mil millones y 
+$ 730.7 mil millones, un aumento de 3.8% a 4.2% respecto al año 
+pasado.","beginOffset":3114},"sentiment":{"magnitude":0.5,"score":-0.5}}]},"random_to_source":{"documentSentiment":{"magnitude":4.6,"score":0.1},"language":"en","sentences":[{"text":{"content":"Black 
+Friday Begins with $ 4.2 Billion Online Shopping 
+Party","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Americans 
+with a strong appetite for online deals have pulled out their smartphones 
+and for the first time shelled out more than $ 4 billion on Thanksgiving to 
+kick off the holiday shopping 
+season.","beginOffset":62},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Record 
+$ 4.2 billion online Thanksgiving sales - about half of which occurred 
+before pumpkin pies hit the table - set the stage for a busy Friday and 
+potentially another holiday 
+season.","beginOffset":261},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"big 
+success for retailers, according to data from Adobe 
+Analytics.","beginOffset":447},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"\"We 
+have a shorter holiday sales season,\" Jason Woosley, vice president of 
+products and platforms at Adobe, said in an interview with CNN 
+Business.","beginOffset":515},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"This 
+is creating a compression 
+effect.\"","beginOffset":663},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Thanksgiving 
+landed six days after last year, retailers increased their advertising and 
+got deep discounts on items such as appliances, sporting goods, 
+televisions, consumers and toys, Woosley 
+said.","beginOffset":705},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"And 
+consumers have accepted these 
+deals.","beginOffset":905},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"At 
+10 am Eastern Friday, online spending totaled $ 767 million, putting Black 
+Friday sales at $ 7.4 billion, an increase of 19.2% over last year, 
+according to Adobe 
+data.","beginOffset":947},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"We 
+are not seeing a slowdown on Black Friday\" as a result of the large 
+attendance of Thanksgiving online, said 
+Woosley.","beginOffset":1119},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Woosley 
+estimates that consumers will spend $ 29 billion online between Thursday 
+and 
+Monday.","beginOffset":1241},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Cyber 
+​​Week's five-day period is expected to represent 20% of Adobe's $ 143.7 
+billion in online sales forecast for this holiday 
+season.","beginOffset":1334},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Online 
+businesses should also translate into physical store sales, Woosley said, 
+noting an increase in \"BOPIS\" activity - online shopping, in-store 
+collection.","beginOffset":1476},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"About 
+82% of people who go to the store to shop online continue shopping in 
+person, he 
+said.","beginOffset":1636},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Retail 
+sales in physical stores are expected to grow 2% in November and 6% in 
+December, thanks to favorable weather and an \"increase in disposable 
+income at the end of the year,\" according to IBM, which uses artificial 
+intelligence to analyze the 
+US.","beginOffset":1730},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Census 
+and retail 
+data.","beginOffset":1981},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"They 
+are employed, have a good savings rate and have a lot in their pockets,\" 
+said Michael Haydock, scientist and head of 
+IBM.","beginOffset":2006},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"The 
+winter weather that hit much of the country earlier this week is likely to 
+give way to drier weather than December 2018, said Paul Walsh, IBM's global 
+director of consumer 
+climate.","beginOffset":2135},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"I 
+think when we get to Black Friday weekend, the weather won't be so 
+disturbing,\" Walsh told CNN 
+Business.","beginOffset":2321},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Overall, 
+IBM projects holiday sales are expected to grow by 
+4%.","beginOffset":2430},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"This 
+is in line with the National Retail Federation's holiday sales projections 
+for 2019 to $ 727.9 billion and $ 730.7 billion - an increase from 3.8% to 
+4.2% over last 
+year. .","beginOffset":2494},"sentiment":{"magnitude":0.2,"score":-0.2}}],"foreign_lang":"pt"}}

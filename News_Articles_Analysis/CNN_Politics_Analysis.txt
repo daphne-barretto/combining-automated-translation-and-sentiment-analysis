@@ -1,0 +1,774 @@
+{"zh":{"documentSentiment":{"magnitude":9.4,"score":0.2},"language":"zh","sentences":[{"text":{"content":"民
+主
+党设定12月6日为白宫的最后期限，说白宫是否将参加弹each程序\n\n众议院司法委
+员会将唐纳德·特朗普总统设定为12月6日的最后期限，以决定他的律师是否将参加委员
+会针对他的弹each程
+序。","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"纽
+约民主党众议院司法委员会主席纳里（Jerry Nadler）星期五给特朗普写了一封信，信
+中有新的日期，询问总统的律师是否计划请证人或作
+证。","beginOffset":254},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"该
+截止日期晚于白宫先前被告知的星期天，即白宫是否将参加周三委员会的第一次弹
+hearing听证
+会。","beginOffset":442},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"给
+总统的信和给佐治亚州共和党人道格·科林斯排名的司法委员会的另一封信在很大程度
+上是技术性的，指的是众议院上个月的弹each决议制定的规
+则。","beginOffset":574},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"但
+是这封信开始为白宫决定是否参加白宫的弹each程序-特朗普和国会共和党人声称这是
+不公平的-还是等到参议院可能进行的审判直接向国会提起诉
+讼。","beginOffset":772},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"两
+位官员称，虽然尚未做出最终决定，但白宫内部最新的想法是，下周可能不会派律师出
+庭进行首次司法听证
+会。","beginOffset":972},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"白
+宫还仍在考虑建议应召集证人的证
+人。","beginOffset":1122},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"一
+位知情人士表示，特朗普及其团队正在内部就如何回应这一请求进行辩论，包括是否
+“值得”参
+加。","beginOffset":1178},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"在
+经过为期两个月的公开听证会的为期两个月的调查之后，众议院情报委员会正在准备向
+司法委员会提交一份报告，该报告将详细说明指控总统施压，要求乌克兰在不举行白宫
+会议和400美元的情况下调查乌克兰的政治对
+手。","beginOffset":1315},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"百
+万美元的安全援
+助。","beginOffset":1609},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"该
+报告将作为司法委员会弹each程序的基础，预计将以乌克兰为重
+点。","beginOffset":1641},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"但
+是司法委员会的信中也提到了专家小组对前特别律师罗伯特·穆勒（Robert 
+Mueller）指控司法不公的调查，一些民主党人希望将其包括在针对总统的弹each案
+中。","beginOffset":1732},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"司
+法委员会周三的首次听证会是“总统弹each的宪法依据”，预计将在众议院展开疯狂的一
+个月活
+动。","beginOffset":1943},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"预
+计司法部门小组将举行多次公开听证会，然后考虑弹articles条款，它将批准在圣诞节
+之前设立众议院可能的一次现场投票，这可能使特朗普成为美国历史上第三位被弹
+president的总
+统。","beginOffset":2076},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"根
+据众议院通过的规则，总统的律师可以参加司法委员会的弹each听证会，与本月初众议
+院情报委员会的公开听证会不
+同。","beginOffset":2320},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"该
+规则规定，主席及其律师应邀出席委员会的陈述，并提出问题，提出异议，要求证人或
+其他证据并作总结发
+言。","beginOffset":2482},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"但
+是，参与活动取决于纳德勒的酌处权，民主党人加入了一条条款，规定如果白宫阻碍调
+查（例如不提供证人），那么纳德勒就可以阻止其召集自己的证
+人。","beginOffset":2634},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"纳
+德勒给科林斯的信使他能够要求证人传票，尽管纳德勒可以拒绝这些请
+求。","beginOffset":2843},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"在
+众议院情报委员会中，民主党人封锁了许多要求的传票，包括与副总统乔·拜登的儿子
+亨特和举报人有关的传票，这些举报引发了民主党对特朗普和乌克兰的弹each调
+查。","beginOffset":2947},"sentiment":{"magnitude":0.9,"score":-0.9}}]},"en":{"documentSentiment":{"magnitude":2.4,"score":0},"language":"en","sentences":[{"text":{"content":"Democrats 
+set December 6 deadline for White House to say if it will participate in 
+impeachment 
+proceedings","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+House Judiciary Committee is setting a deadline of December 6 for President 
+Donald Trump to decide whether his attorneys will participate in the 
+committee's impeachment proceedings against 
+him.","beginOffset":108},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"House 
+Judiciary Chairman Jerry Nadler, a New York Democrat, sent Trump a letter 
+Friday with the new date asking if the President's counsel plans to request 
+witnesses or make a presentation as part of the 
+proceedings.","beginOffset":307},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"That 
+deadline is later than the Sunday one the White House was previously given 
+to say whether it will participate in the committee's first impeachment 
+hearing on 
+Wednesday.","beginOffset":525},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+letter to the President and a separate letter sent to Judiciary Committee 
+ranking Republican Doug Collins of Georgia were largely technical, 
+referring to the rules established by the House's impeachment resolution 
+last 
+month.","beginOffset":700},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"But 
+the letter starts the clock for the White House to decide if it will take 
+part in the House's impeachment proceedings -- which Trump and 
+congressional Republicans have claimed are unfair -- or wait until a 
+potential Senate trial to make its case directly to 
+Congress.","beginOffset":930},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"While 
+a final decision hasn't been made, the latest thinking inside the White 
+House is that it likely won't send an attorney to the first judiciary 
+hearing next week, according to two 
+officials.","beginOffset":1203},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"The 
+White House is also still considering suggesting witnesses who should be 
+called for the 
+hearing.","beginOffset":1398},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Trump 
+and his team are debating the merits internally of how to respond to the 
+request — including whether it would be \"worth it\" to participate, one 
+person close to the process 
+said.","beginOffset":1500},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"After 
+a two-month investigation capped by two weeks of public hearings, the House 
+Intelligence Committee is preparing a report to submit to the Judiciary 
+Committee that will detail allegations that the President pressured Ukraine 
+to investigate his political rivals while withholding a White House meeting 
+and $400 million in security 
+aid.","beginOffset":1687},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+report will serve as the basis for the Judiciary Committee's impeachment 
+proceedings, which are expected to focus heavily on 
+Ukraine.","beginOffset":2028},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"But 
+the Judiciary Committee's letter also noted the panel's own investigation 
+related to allegations of obstruction of justice from former special 
+counsel Robert Mueller, which some Democrats want to be included in 
+potential articles of impeachment against the 
+President.","beginOffset":2166},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"The 
+Judiciary Committee's first hearing on Wednesday — on \"Constitutional 
+Grounds for Presidential Impeachment\" — is expected to kick off a frantic 
+month of activity in the 
+House.","beginOffset":2439},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+Judiciary panel is expected to hold multiple public hearings and then 
+consider articles of impeachment, which it would approve to set up a 
+possible House floor vote before Christmas that could make Trump just the 
+third president in US history to be 
+impeached.","beginOffset":2623},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Under 
+the House-passed rules, the President's counsel can participate in the 
+impeachment hearings in the Judiciary Committee, unlike the public hearings 
+earlier this month in the House Intelligence 
+Committee.","beginOffset":2888},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+rules state that the President and his counsel are invited to attend 
+committee presentations of their evidence, as well as ask questions, raise 
+objections, request witnesses or other evidence and make a concluding 
+presentation.","beginOffset":3098},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"The 
+participation, however, is subject to Nadler's discretion, and Democrats 
+included a clause stating that if the White House obstructs the 
+investigation -- such as by not making witnesses available -- then Nadler 
+could block it from calling its own 
+witnesses.","beginOffset":3331},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Nadler's 
+letter to Collins offered him the ability to request subpoenas for 
+witnesses, though Nadler can deny those 
+requests.","beginOffset":3594},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"In 
+the House Intelligence Committee, Democrats blocked a number of requested 
+subpoenas, including those related to Vice President Joe Biden's son Hunter 
+and the whistleblower whose complaint sparked the Democratic impeachment 
+inquiry into Trump and 
+Ukraine.","beginOffset":3721},"sentiment":{"magnitude":0.2,"score":-0.2}}]},"fr":{"documentSentiment":{"magnitude":7.8,"score":-0.1},"language":"fr","sentences":[{"text":{"content":"Les 
+démocrates ont fixé au 6 décembre la date limite à la Maison Blanche pour 
+savoir si elle participerait à la procédure de 
+destitution","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Le 
+Comité judiciaire de la Chambre fixe au 6 décembre la date butoir du 
+président Donald Trump pour décider si ses avocats participeront ou non à 
+la procédure de destitution du 
+comité.","beginOffset":144},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Le 
+président du pouvoir judiciaire de la Chambre, Jerry Nadler, démocrate à 
+New York, a envoyé une lettre à Trump vendredi avec la nouvelle date pour 
+demander si le conseil du président envisage de demander des témoins ou de 
+faire une présentation dans le cadre de la 
+procédure.","beginOffset":337},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Cette 
+date limite est postérieure à celle de dimanche, celle dont disposait la 
+Maison-Blanche pour indiquer si elle participerait à la première audience 
+de mise en accusation du comité 
+mercredi.","beginOffset":626},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"La 
+lettre au président et une lettre séparée adressée au Comité judiciaire, 
+qui classe le républicain Doug Collins, républicain de Géorgie, étaient en 
+grande partie techniques, faisant référence aux règles établies par la 
+résolution de la Chambre sur la destitution du mois 
+dernier.","beginOffset":827},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Mais 
+la lettre marque le début du délai imparti à la Maison-Blanche pour décider 
+si elle participera à la procédure de destitution - ce que Trump et les 
+républicains du Congrès ont déclaré injuste - ou attendra l'éventualité 
+d'un procès devant le Sénat pour plaider sa cause directement devant le 
+Congrès.","beginOffset":1124},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Bien 
+que la décision finale n’ait pas encore été prise, la dernière réflexion à 
+la Maison-Blanche est de ne pas envoyer d’avocat à la première audience 
+judiciaire la semaine prochaine, selon deux 
+responsables.","beginOffset":1446},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"La 
+Maison Blanche envisage également de suggérer des témoins qui devraient 
+être convoqués à 
+l'audience.","beginOffset":1668},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Trump 
+et son équipe discutent des avantages internes de la manière de répondre à 
+la demande - y compris s’il serait \"rentable\" de participer, a déclaré 
+une personne proche du 
+processus.","beginOffset":1779},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Après 
+une enquête de deux mois se terminant par deux semaines d'audiences 
+publiques, le comité du renseignement de la Chambre prépare actuellement un 
+rapport à soumettre au comité du pouvoir judiciaire, qui détaillera les 
+allégations selon lesquelles le président aurait fait pression sur 
+l'Ukraine pour qu'elle enquête sur ses rivaux politiques tout en empêchant 
+la tenue d'une réunion de la Maison-Blanche millions d’aide de 
+sécurité.","beginOffset":1974},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Le 
+rapport servira de base à la procédure de mise en accusation du comité 
+judiciaire, qui devrait être fortement axée sur 
+l'Ukraine.","beginOffset":2428},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Mais 
+la lettre du Comité judiciaire mentionnait également la propre enquête du 
+comité concernant des allégations d'obstruction à la justice émanant de 
+l'ancien avocat spécial, Robert Mueller, que certains démocrates souhaitent 
+voir incluses dans des articles potentiels de destitution contre le 
+président.","beginOffset":2566},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"La 
+première audience de la commission judiciaire mercredi - sur les \"motifs 
+constitutionnels pour la destitution du président\" - devrait lancer un 
+mois d'activité frénétique à la 
+Chambre.","beginOffset":2883},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"La 
+commission judiciaire devrait tenir plusieurs audiences publiques, puis 
+examiner des actes de destitution, dont elle approuverait la possibilité 
+d'organiser un vote à la Chambre avant Noël, qui pourrait faire de Trump le 
+troisième président de l'histoire des 
+États-Unis.","beginOffset":3077},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Selon 
+les règles adoptées par la Chambre, le conseil du président peut participer 
+aux audiences de destitution du Comité de la magistrature, contrairement 
+aux audiences publiques tenues plus tôt ce mois-ci au sein du Comité du 
+renseignement de la 
+Chambre.","beginOffset":3358},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Les 
+règles stipulent que le président et son conseil sont invités à assister 
+aux exposés des comités présentés par le comité, à poser des questions, à 
+soulever des objections, à demander des témoins ou d'autres éléments de 
+preuve et à faire une présentation 
+finale.","beginOffset":3621},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"La 
+participation, cependant, est soumise à la discrétion de Nadler, et les 
+démocrates ont inclus une clause stipulant que si la Maison Blanche entrave 
+l’enquête - par exemple en ne mettant pas de témoins à la disposition du 
+président - alors Nadler pourrait l’empêcher de convoquer ses propres 
+témoins.","beginOffset":3905},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"La 
+lettre de Nadler à Collins lui offrait la possibilité de demander des 
+assignations à comparaître de témoins, bien que Nadler puisse refuser ces 
+demandes.","beginOffset":4222},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Au 
+sein du comité du renseignement de la Chambre, les démocrates ont bloqué un 
+certain nombre d'assignations à comparaître, notamment celles liées au fils 
+du vice-président Joe Biden, Hunter, et au lanceur d'alerte dont la plainte 
+avait déclenché l'enquête d'imputation démocratique sur Trump et 
+l'Ukraine.","beginOffset":4385},"sentiment":{"magnitude":0.8,"score":-0.8}}]},"de":{"documentSentiment":{"magnitude":7.6,"score":-0.2},"language":"de","sentences":[{"text":{"content":"Die 
+Demokraten setzten dem Weißen Haus den 6. Dezember als Frist, um zu sagen, 
+ob es an einem Amtsenthebungsverfahren teilnehmen 
+wird","beginOffset":0},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Der 
+Justizausschuss des Repräsentantenhauses setzt Präsident Donald Trump eine 
+Frist bis zum 6. Dezember, um zu entscheiden, ob seine Anwälte am 
+Amtsenthebungsverfahren des Ausschusses gegen ihn teilnehmen 
+werden.","beginOffset":136},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Der 
+Vorsitzende der Justiz des Repräsentantenhauses, Jerry Nadler, ein New 
+Yorker Demokrat, sandte Trump am Freitag einen Brief mit dem neuen Datum 
+und der Frage, ob der Anwalt des Präsidenten vorhat, Zeugen zu erbitten 
+oder im Rahmen des Verfahrens eine Präsentation 
+abzuhalten.","beginOffset":354},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Diese 
+Frist ist später als der Sonntag, an dem dem Weißen Haus zuvor mitgeteilt 
+wurde, ob es an der ersten Anhörung des Ausschusses zur Amtsenthebung am 
+Mittwoch teilnehmen 
+wird.","beginOffset":638},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Das 
+Schreiben an den Präsidenten und ein gesondertes Schreiben an den 
+Republikaner Doug Collins aus Georgia, der im Rang eines Justizausschusses 
+vertreten ist, waren größtenteils technisch und bezogen sich auf die 
+Bestimmungen, die in der Amtsenthebungsentschließung des Parlaments im 
+vergangenen Monat festgelegt 
+wurden.","beginOffset":821},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Aber 
+der Brief beginnt damit, dass das Weiße Haus entscheidet, ob es an den 
+Amtsenthebungsverfahren des Hauses teilnehmen wird - die Trump und die 
+Kongressrepublikaner für unfair erklärt haben - oder bis ein möglicher 
+Senatsprozess ansteht, um seine Sache direkt vor dem Kongress zu 
+verhandeln.","beginOffset":1147},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Obwohl 
+noch keine endgültige Entscheidung getroffen wurde, wird das Weiße Haus 
+nach Ansicht zweier Beamter wahrscheinlich keinen Anwalt zur ersten 
+Gerichtsverhandlung nächste Woche 
+entsenden.","beginOffset":1447},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Das 
+Weiße Haus erwägt weiterhin, Zeugen vorzuschlagen, die zur Anhörung geladen 
+werden 
+sollen.","beginOffset":1642},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Trump 
+und sein Team debattieren intern darüber, wie sie auf die Anfrage reagieren 
+sollen - einschließlich der Frage, ob es sich \"lohnt\", daran 
+teilzunehmen, sagte eine Person, die dem Prozess nahe 
+steht.","beginOffset":1741},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Nach 
+einer zweimonatigen Untersuchung, die durch zweiwöchige öffentliche 
+Anhörungen abgeschlossen wurde, bereitet der Geheimdienstausschuss des 
+Repräsentantenhauses einen Bericht vor, der dem Justizausschuss vorgelegt 
+werden soll und der die Behauptungen aufzeigt, der Präsident habe die 
+Ukraine unter Druck gesetzt, seine politischen Rivalen zu untersuchen, 
+während er eine Sitzung im Weißen Haus und 400 USD zurückhielt Millionen in 
+Sicherheitshilfe.","beginOffset":1948},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Der 
+Bericht wird als Grundlage für das Amtsenthebungsverfahren des 
+Justizausschusses dienen, das sich voraussichtlich stark auf die Ukraine 
+konzentrieren 
+wird.","beginOffset":2410},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"In 
+dem Schreiben des Justizausschusses wurde jedoch auch auf die eigene 
+Untersuchung des Gremiums im Zusammenhang mit Behauptungen der Behinderung 
+der Justiz durch den ehemaligen Sonderberater Robert Müller hingewiesen, 
+die einige Demokraten in potenzielle Amtsenthebungsverfahren gegen den 
+Präsidenten aufnehmen 
+möchten.","beginOffset":2571},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Es 
+wird erwartet, dass die erste Anhörung des Justizausschusses am Mittwoch 
+zum Thema \"Gründe für die Amtsenthebung des Präsidenten\" einen hektischen 
+Monat der Aktivität im Parlament einläuten 
+wird.","beginOffset":2897},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Es 
+wird erwartet, dass das Justizgremium mehrere öffentliche Anhörungen abhält 
+und dann Amtsenthebungsverfahren 
+prüft.","beginOffset":3102},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Es 
+wird dann gebilligt, vor Weihnachten ein mögliches Parlamentsvotum 
+einzurichten, das Trump zum dritten Präsidenten in der Geschichte der USA 
+machen 
+könnte.","beginOffset":3225},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Nach 
+den vom Repräsentantenhaus verabschiedeten Regeln kann der Anwalt des 
+Präsidenten an den Anhörungen zum Amtsenthebungsverfahren im 
+Justizausschuss teilnehmen, im Gegensatz zu den öffentlichen Anhörungen zu 
+Beginn dieses Monats im House Intelligence 
+Committee.","beginOffset":3388},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Die 
+Geschäftsordnung sieht vor, dass der Präsident und sein Anwalt eingeladen 
+werden, an den Präsentationen ihrer Beweise im Ausschuss teilzunehmen, 
+Fragen zu stellen, Einwände zu erheben, Zeugen oder andere Beweise 
+anzufordern und eine abschließende Präsentation 
+abzugeben.","beginOffset":3659},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Die 
+Teilnahme unterliegt jedoch Nadlers Ermessen, und die Demokraten enthielten 
+eine Klausel, die besagte, dass Nadler, wenn das Weiße Haus die 
+Ermittlungen behindere - etwa indem er keine Zeugen zur Verfügung stelle -, 
+die Einberufung seiner eigenen Zeugen blockieren 
+könne.","beginOffset":3941},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Nadlers 
+Brief an Collins bot ihm die Möglichkeit, Zeugenvorladungen zu beantragen, 
+obwohl Nadler diese Anträge ablehnen 
+kann.","beginOffset":4221},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Im 
+House Intelligence Committee blockierten die Demokraten eine Reihe 
+beantragter Vorladungen, einschließlich derjenigen, die mit dem Sohn Hunter 
+von Vizepräsident Joe Biden und dem Whistleblower in Verbindung standen, 
+deren Beschwerde die Untersuchung der Demokraten gegen Trump und die 
+Ukraine 
+auslöste.","beginOffset":4350},"sentiment":{"magnitude":0.6,"score":-0.6}}]},"it":{"documentSentiment":{"magnitude":7.6,"score":0},"language":"it","sentences":[{"text":{"content":"I 
+democratici fissano la scadenza del 6 dicembre per la Casa Bianca per dire 
+se parteciperà alle procedure di 
+impeachment","beginOffset":0},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Il 
+comitato giudiziario della Camera fissa una scadenza del 6 dicembre per il 
+presidente Donald Trump per decidere se i suoi avvocati parteciperanno alle 
+procedure di impeachment del comitato contro di 
+lui.","beginOffset":124},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Il 
+presidente della magistratura della Camera Jerry Nadler, un democratico di 
+New York, ha inviato a Trump una lettera venerdì con la nuova data 
+chiedendo se i consigli del presidente intendono richiedere testimoni o 
+fare una presentazione come parte del 
+procedimento.","beginOffset":332},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Tale 
+termine è più tardi di quello di domenica precedente alla Casa Bianca per 
+dire se parteciperà alla prima udienza di impeachment della commissione 
+mercoledì.","beginOffset":603},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"La 
+lettera al presidente e una lettera separata inviata al comitato 
+giudiziario del repubblicano Doug Collins della Georgia erano in gran parte 
+tecniche, facendo riferimento alle regole stabilite dalla risoluzione 
+dell'impeachment della Camera il mese 
+scorso.","beginOffset":770},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Ma 
+la lettera avvia l'orologio per la Casa Bianca per decidere se prenderà 
+parte ai procedimenti di impeachment della Camera - che Trump e i 
+repubblicani del Congresso hanno dichiarato ingiusti - o aspettano fino a 
+un potenziale processo al Senato per portare la sua causa direttamente al 
+Congresso.","beginOffset":1030},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Sebbene 
+non sia stata presa una decisione definitiva, l'ultimo pensiero all'interno 
+della Casa Bianca è che probabilmente non invierà un avvocato alla prima 
+udienza giudiziaria della prossima settimana, secondo due 
+funzionari.","beginOffset":1332},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"La 
+Casa Bianca sta ancora prendendo in considerazione l'idea di suggerire 
+testimoni che dovrebbero essere chiamati per 
+l'udienza.","beginOffset":1561},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Trump 
+e il suo team stanno discutendo internamente dei meriti su come rispondere 
+alla richiesta - incluso se valga la pena \"partecipare\", ha detto una 
+persona vicina al 
+processo.","beginOffset":1692},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Dopo 
+un'indagine di due mesi, chiusa da due settimane di audizioni pubbliche, il 
+Comitato di intelligence della Casa sta preparando un rapporto da 
+presentare al Comitato giudiziario che descriverà in dettaglio le accuse 
+secondo cui il Presidente ha fatto pressioni sull'Ucraina per indagare sui 
+suoi rivali politici mentre stava trattenendo una riunione della Casa 
+Bianca e $ 400 milioni di aiuti alla 
+sicurezza.","beginOffset":1872},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"La 
+relazione servirà come base per le procedure di impeachment del comitato 
+giudiziario, che dovrebbero essere fortemente incentrate 
+sull'Ucraina.","beginOffset":2287},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Ma 
+la lettera del comitato giudiziario ha anche preso atto dell'indagine del 
+panel relativa alle accuse di ostruzione alla giustizia dell'ex consigliere 
+speciale Robert Mueller, che alcuni democratici vogliono essere inclusi in 
+potenziali articoli di impeachment contro il 
+presidente.","beginOffset":2435},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"La 
+prima udienza della commissione giudiziaria mercoledì - sui \"motivi 
+costituzionali per l'impeachment presidenziale\" - dovrebbe iniziare un 
+frenetico mese di attività alla 
+Camera.","beginOffset":2721},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"La 
+giuria dovrebbe tenere numerose udienze pubbliche e quindi prendere in 
+considerazione articoli di impeachment, che approverebbe per istituire un 
+possibile voto alla Camera prima di Natale che potrebbe far sì che Trump 
+sia solo il terzo presidente della storia degli Stati Uniti ad essere 
+accusato.","beginOffset":2905},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Secondo 
+le regole approvate dalla Camera, il consigliere del Presidente può 
+partecipare alle udienze di impeachment nel comitato giudiziario, a 
+differenza delle audizioni pubbliche all'inizio di questo mese nel comitato 
+di intelligence della 
+Camera.","beginOffset":3208},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Le 
+regole stabiliscono che il Presidente e il suo avvocato sono invitati a 
+partecipare alle presentazioni in commissione delle loro prove, nonché a 
+porre domande, sollevare obiezioni, richiedere testimoni o altre prove e 
+fare una presentazione 
+conclusiva.","beginOffset":3460},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"La 
+partecipazione, tuttavia, è soggetta alla discrezione di Nadler e i 
+democratici includevano una clausola che affermava che se la Casa Bianca 
+ostacolasse l'indagine, come ad esempio non rendendo disponibili i 
+testimoni, Nadler potrebbe impedirle di chiamare i propri 
+testimoni.","beginOffset":3718},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"La 
+lettera di Nadler a Collins gli offriva la possibilità di richiedere 
+citazioni in giudizio per i testimoni, sebbene Nadler potesse negare quelle 
+richieste.","beginOffset":4000},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"In 
+seno al comitato di intelligence della Camera, i democratici hanno bloccato 
+una serie di citazioni richieste, tra cui quelle relative al figlio del 
+vicepresidente Joe Biden, Hunter e all'informatore, la cui denuncia ha 
+scatenato l'inchiesta di impeachment democratica su Trump e 
+l'Ucraina.","beginOffset":4161},"sentiment":{"magnitude":0.5,"score":-0.5}}]},"ja":{"documentSentiment":{"magnitude":7,"score":0.1},"language":"ja","sentences":[{"text":{"content":"民
+主党は、ホワイトハウスが弾imp訴訟に参加するかどうかを言うために12月6日に期限
+を設定しました\n\n下院司法委員会は、ドナルド・トランプ大統領が彼の弁護士が彼
+に対する委員会の弾each訴訟に参加するかどうかを決定するための12月6日の期限を
+設定していま
+す。","beginOffset":0},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"ニ
+ューヨーク民主党のジェリー・ナドラー下院議長は、大統領の弁護士が証人を要求す
+るか、訴訟の一部としてプレゼンテーションを行うかを尋ねる新しい日付の金曜日に
+トランプに手紙を送っ
+た。","beginOffset":359},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"そ
+の締め切りは、ホワイトハウスが水曜日の委員会の最初の弾hearing聴聞会に参加す
+るかどうかを言うために以前に与えられた日曜日のものより遅れていま
+す。","beginOffset":628},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"大
+統領への手紙とジョージア州共和党のダグ・コリンズをランク付けする司法委員会に
+送られた別の手紙は、先月下院の弾each決議によって確立された規則を参照して、主
+に技術的でし
+た。","beginOffset":844},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"し
+かし、この手紙は、ホワイトハウスが下院の弾each訴訟に参加するかどうかを決定す
+る時計を開始します-それはトランプと議会の共和党員が不公平であると主張してい
+ます-または潜在的な上院裁判が議会に直接そのケースを作るまで待つ
+か。","beginOffset":1097},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"最
+終決定は下されていませんが、ホワイトハウス内部の最新の考えは、2人の関係者に
+よると、来週の最初の司法審問に弁護士を派遣しない可能性が高いということで
+す。","beginOffset":1426},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"ホ
+ワイトハウスは、聴聞会に呼ばれるべき証人を提案することも検討していま
+す。","beginOffset":1655},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"ト
+ランプ氏と彼のチームは、参加することが「価値がある」かどうかなど、リクエスト
+への対応方法について内部的に議論していま
+す。","beginOffset":1768},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"2週
+間にわたる公聴会で2か月の調査を行った後、下院情報委員会は司法委員会に提出す
+る報告書を作成し、ホワイトハウス会議と400ドルを差し控えながら大統領がウクラ
+イナに政治的ライバルを調査するよう圧力をかけた疑惑を詳述します百万のセキュリ
+ティ援
+助。","beginOffset":1953},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"こ
+の報告書は、司法委員会の弾Ukraine訴訟の基礎となり、ウクライナに大きく焦点を
+当てることが期待されていま
+す。","beginOffset":2311},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"し
+かし、司法委員会の手紙は、元特別顧問のロバート・ミューラーによる司法妨害の申
+し立てに関連するパネル自身の調査にも言及しており、一部の民主党員は大統領に対
+する弾impの可能性のある記事に含まれたいと考えてい
+る。","beginOffset":2468},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"水
+曜日の司法委員会の最初の公聴会-「大統領弾Imの憲法上の根拠」-下院での半年に及
+ぶ活動のキックオフが期待されていま
+す。","beginOffset":2779},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"司
+法委員会は、複数の公聴会を開催し、弾thenの記事を検討することが期待されていま
+す。","beginOffset":2951},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"こ
+れは、クリスマス前にトランプを弾USする米国の歴史の第3代大統領にすることがで
+きる可能性のある下院投票を設定することを承認しま
+す。","beginOffset":3072},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"下
+院通過規則の下では、大統領顧問は、今月下院Intelligence報委員会での公聴会とは
+異なり、司法委員会での弾each聴聞会に参加することができま
+す。","beginOffset":3266},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"規
+則では、大統領と彼の弁護士は、委員会の証拠の提示に出席し、質問をし、異議を唱
+え、証人または他の証拠を要求し、最終的なプレゼンテーションを行うように求めら
+れていま
+す。","beginOffset":3467},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"た
+だし、参加はナドラーの裁量の対象であり、民主党は、ホワイトハウスが調査を妨害
+した場合（証人を利用できないようにするなど）、ナドラーが自身の証人を呼ぶこと
+をブロックできると述べた条項を含めまし
+た。","beginOffset":3718},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"ナ
+ドラーのコリンズへの手紙は、証人の召喚状を要求する能力を彼に提供しましたが、
+ナドラーはそれらの要求を拒否することができま
+す。","beginOffset":4014},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"下
+院Intelligence報委員会で、民主党は、ジョー・バイデン副大統領の息子ハンターお
+よびトランプとウクライナに対する民主的な弾eachの調査を引き起こした内部告発者
+に関連するものを含む、要求された多数の召喚状をブロックしまし
+た。","beginOffset":4205},"sentiment":{"magnitude":0.2,"score":0.2}}]},"ko":{"documentSentiment":{"magnitude":8.1,"score":0.2},"language":"ko","sentences":[{"text":{"content":"민주당, 
+12 월 6 일 백악관이 탄핵 소송에 참여할 것인지에 대한 
+기한","beginOffset":0},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"하원 
+사법위원회는 도널드 트럼프 대통령이 그의 변호사들이 그를 상대로 탄핵 소송에 
+참여할 것인지 결정하기 위해 12 월 6 일 마감일을 정하고 
+있습니다.","beginOffset":92},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"뉴욕 
+민주당 의원 제리 나 들러 (Jerry Nadler) 하원 의원은 금요일 대통령의 
+변호인이 증인을 요청하거나 절차의 일부로 발표 할 계획인지 묻는 새로운 
+날짜와 함께 편지를 
+보냈다.","beginOffset":299},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"그 
+기한은 백악관이 수요일에 수요일에 탄핵 청문회에 참석할 것인지를 밝히기 위해 
+주어지는 일요일보다 
+늦습니다.","beginOffset":535},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"대통령에 
+대한 서한과 조지아의 더그 콜린스 공화당 사법위원회에 발송 된 별도의 서한은 
+지난달 하원의 탄핵 결의안에 의해 제정 된 규칙을 참조하면서 대부분 
+기술적이었다.","beginOffset":692},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"그러나이 
+서한은 백악관이 트럼프와 의회 공화당이 불공평하다고 주장한 하원의 탄핵 
+소송에 참여할 것인지, 상원 재판이 의회에 직접 소송을 제기 할 때까지 기다릴 
+것인지를 결정하기 위해 시계를 
+시작합니다.","beginOffset":926},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"최종 
+결정은 내려지지 않았지만 백악관 내부의 최근 생각은 다음 주 첫 번째 사법 
+심리에 변호사를 보내지 않을 것이라고 두 관리는 
+밝혔다.","beginOffset":1208},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"백악관은 
+여전히 ​​청문회에 참석해야 할 증인의 제안을 고려하고 
+있습니다.","beginOffset":1395},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"트럼프와 
+그의 팀은 요청에 응답하는 방법에 대해 내부적으로 장점에 대해 
+토론하고있다.","beginOffset":1502},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"2 
+주간의 공청회에 의해 2 개월간의 조사가 끝난 후 하원 정보위원회는 
+사법위원회에 제출할 보고서를 준비 중이며, 대통령은 백악관 회의와 400 달러를 
+보류 한 채 정치적 라이벌을 조사하기 위해 우크라이나에 압력을 가했다는 
+혐의를 자세히 설명 할 
+것입니다.","beginOffset":1623},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"수백만의 
+보안 
+지원.","beginOffset":1969},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"이 
+보고서는 사법위원회의 탄핵 절차의 기초가 될 것이며, 이는 우크라이나에 크게 
+집중할 것으로 
+예상됩니다.","beginOffset":1998},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"그러나 
+사법위원회의 서한은 전직 특별 변호인 로버트 뮬러 (Robert Mueller)의 정의에 
+대한 혐의와 관련된 패널 자체의 조사에 대해서도 
+언급했다.","beginOffset":2146},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"일부 
+민주당은 대통령에 대한 탄핵에 포함되기를 
+희망하고있다.","beginOffset":2337},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"수요일 
+\"사법 탄핵에 대한 헌법 근거\"에 관한 사법위원회의 첫 청문회는 집안에서 
+열렬한 활동을 시작할 것으로 
+예상된다.","beginOffset":2424},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"사법부 
+패널은 다수의 공청회를 개최 한 후 탄핵 기사를 검토 할 예정이며, 이는 미국 
+역사상 세 번째 대통령 만 탄핵 할 수있는 성탄절 이전에 가능한 하우스 플로어 
+투표를 승인하는 
+것입니다.","beginOffset":2587},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"하원 
+통과 규칙에 따라 대통령의 조언은 이번 달 초 하원 정보위원회의 공청회와 달리 
+사법위원회의 탄핵 청문회에 참여할 수 
+있습니다.","beginOffset":2845},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"이 
+규칙은 회장과 그의 변호사가 자신의 증거에 대한위원회 프레젠테이션에 
+참석하고, 질문을하고, 이의를 제기하며, 증인 또는 기타 증거를 요청하고, 
+결론을 제시하도록 초대 받았다고 명시하고 
+있습니다.","beginOffset":3028},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"그러나 
+참여는 Nadler의 재량에 달려 있으며 민주당은 백악관이 증인을 구할 수없는 등 
+조사를 방해하는 경우 Nadler가 자신의 증인을 부르는 것을 차단할 수 있다는 
+내용의 조항을 
+포함시켰다.","beginOffset":3304},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Nadler가 
+Collins에게 보낸 서한은 그에게 소환장을 요청할 수있는 능력을 제공했지만 
+Nadler는 그러한 요청을 거부 할 
+수있었습니다.","beginOffset":3557},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"하원 
+정보위원회에서 민주당은 조 바이든 부통령의 아들 헌터 및 트럼프와 
+우크라이나에 대한 민주당 탄핵 조사에 대한 불만이 제기 된 내부 고발자와 
+관련된 소송을 포함하여 다수의 소환장을 
+차단했습니다.","beginOffset":3729},"sentiment":{"magnitude":0.3,"score":0.3}}]},"pt":{"documentSentiment":{"magnitude":5.7,"score":0},"language":"pt","sentences":[{"text":{"content":"Democratas 
+estabelecem prazo para 6 de dezembro para a Casa Branca dizer se vai 
+participar de processos de 
+impeachment","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"O 
+Comitê Judiciário da Câmara está definindo um prazo de 6 de dezembro para o 
+presidente Donald Trump decidir se seus advogados participarão dos 
+processos de impeachment do comitê contra 
+ele.","beginOffset":120},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"O 
+presidente do Judiciário da Câmara, Jerry Nadler, democrata de Nova York, 
+enviou a Trump uma carta na sexta-feira com a nova data perguntando se o 
+conselho do presidente planeja solicitar testemunhas ou fazer uma 
+apresentação como parte do 
+processo.","beginOffset":319},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Esse 
+prazo é posterior ao domingo que a Casa Branca recebeu anteriormente para 
+dizer se participará da primeira audiência de impeachment do comitê na 
+quarta-feira.","beginOffset":576},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"A 
+carta ao Presidente e uma carta separada enviada ao Comitê Judiciário, 
+classificando o republicano Doug Collins, da Geórgia, foram amplamente 
+técnicas, referindo-se às regras estabelecidas pela resolução de 
+impeachment da Câmara no mês 
+passado.","beginOffset":745},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Mas 
+a carta inicia o relógio para a Casa Branca decidir se participará dos 
+processos de impeachment da Casa - que Trump e republicanos do Congresso 
+alegaram serem injustos - ou espere até um possível julgamento no Senado 
+para apresentar seu caso diretamente ao 
+Congresso.","beginOffset":1001},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Embora 
+uma decisão final não tenha sido tomada, o pensamento mais recente dentro 
+da Casa Branca é que provavelmente não enviará um advogado para a primeira 
+audiência judicial na próxima semana, segundo duas 
+autoridades.","beginOffset":1278},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"A 
+Casa Branca também ainda está considerando sugerir testemunhas que devem 
+ser convocadas para a 
+audiência.","beginOffset":1505},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Trump 
+e sua equipe estão debatendo internamente o mérito de como responder à 
+solicitação - incluindo se valeria a pena participar, disse uma pessoa 
+próxima ao 
+processo.","beginOffset":1617},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Após 
+uma investigação de dois meses, marcada por duas semanas de audiências 
+públicas, o Comitê de Inteligência da Câmara está preparando um relatório a 
+ser submetido ao Comitê Judiciário que detalhará as alegações de que o 
+Presidente pressionou a Ucrânia a investigar seus rivais políticos enquanto 
+retinha uma reunião da Casa Branca e US $ 400 milhões em ajuda à 
+segurança.","beginOffset":1793},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"O 
+relatório servirá de base para os processos de impeachment do Comitê 
+Judiciário, que devem se concentrar fortemente na 
+Ucrânia.","beginOffset":2190},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Mas 
+a carta do Comitê Judiciário também observou a investigação do próprio 
+painel relacionada a alegações de obstrução da justiça do ex-advogado 
+especial Robert Mueller, que alguns democratas querem incluir em possíveis 
+artigos de impeachment contra o 
+presidente.","beginOffset":2325},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"A 
+primeira audiência do Comitê Judiciário na quarta-feira - sobre 
+\"Fundamentos Constitucionais para o Impeachment Presidencial\" - deve 
+começar um mês frenético de atividade na 
+Câmara.","beginOffset":2602},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Espera-se 
+que o painel do Judiciário realize várias audiências públicas e, em 
+seguida, considere os artigos de impeachment, que aprovaria estabelecer uma 
+possível votação no plenário da Câmara antes do Natal que poderia fazer de 
+Trump apenas o terceiro presidente da história dos EUA a ser 
+impugnado.","beginOffset":2793},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Sob 
+as regras aprovadas pela Câmara, o conselho do Presidente pode participar 
+das audiências de impeachment no Comitê Judiciário, ao contrário das 
+audiências públicas no início deste mês no Comitê de Inteligência da 
+Câmara.","beginOffset":3105},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"As 
+regras estipulam que o Presidente e seu advogado são convidados a 
+participar das apresentações de suas evidências pelo comitê, além de fazer 
+perguntas, levantar objeções, solicitar testemunhas ou outras evidências e 
+fazer uma apresentação 
+final.","beginOffset":3342},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"A 
+participação, no entanto, está sujeita ao critério de Nadler, e os 
+democratas incluíram uma cláusula afirmando que, se a Casa Branca obstruir 
+a investigação - como não disponibilizar testemunhas -, Nadler poderá 
+impedi-lo de chamar suas próprias 
+testemunhas.","beginOffset":3603},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"A 
+carta de Nadler para Collins ofereceu a ele a capacidade de solicitar 
+intimações para testemunhas, embora Nadler possa negar esses 
+pedidos.","beginOffset":3876},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"No 
+Comitê de Inteligência da Câmara, os democratas bloquearam várias 
+intimações solicitadas, incluindo aquelas relacionadas ao filho do 
+vice-presidente Joe Biden, Hunter, e o denunciante cuja denúncia provocou o 
+inquérito de impeachment democrata em Trump e na 
+Ucrânia.","beginOffset":4021},"sentiment":{"magnitude":0,"score":0}}]},"es":{"documentSentiment":{"magnitude":7.4,"score":-0.1},"language":"es","sentences":[{"text":{"content":"Los 
+demócratas fijaron el 6 de diciembre como fecha límite para que la Casa 
+Blanca diga si participará en los procedimientos de juicio 
+político.","beginOffset":0},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"El 
+Comité Judicial de la Cámara de Representantes está fijando una fecha 
+límite del 6 de diciembre para que el presidente Donald Trump decida si sus 
+abogados participarán en los procedimientos de juicio político del comité 
+contra 
+él.","beginOffset":150},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"El 
+presidente del Poder Judicial de la Cámara de Representantes, Jerry Nadler, 
+un demócrata de Nueva York, le envió a Trump una carta el viernes con la 
+nueva fecha preguntando si el abogado del presidente planea solicitar 
+testigos o hacer una presentación como parte de los 
+procedimientos.","beginOffset":393},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Esa 
+fecha límite es posterior al domingo que se le dio previamente a la Casa 
+Blanca para decir si participará en la primera audiencia de juicio político 
+del comité el 
+miércoles.","beginOffset":688},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"La 
+carta al Presidente y una carta separada enviada al Comité Judicial que 
+clasificó al republicano Doug Collins de Georgia fueron en gran parte 
+técnicas, en referencia a las reglas establecidas por la resolución de 
+juicio político de la Cámara el mes 
+pasado.","beginOffset":872},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"Pero 
+la carta inicia el reloj para que la Casa Blanca decida si participará en 
+los procedimientos de juicio político de la Cámara, que Trump y los 
+republicanos del Congreso han afirmado que son injustos, o esperar hasta un 
+posible juicio en el Senado para presentar su caso directamente al 
+Congreso.","beginOffset":1138},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Si 
+bien no se ha tomado una decisión final, el último pensamiento dentro de la 
+Casa Blanca es que es probable que no envíe un abogado a la primera 
+audiencia judicial la próxima semana, según dos 
+funcionarios.","beginOffset":1442},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"La 
+Casa Blanca también está considerando sugerir testigos a los que se debe 
+convocar para la 
+audiencia.","beginOffset":1656},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Trump 
+y su equipo están debatiendo internamente los méritos de cómo responder a 
+la solicitud, incluido si valdría la pena participar, dijo una persona 
+cercana al 
+proceso.","beginOffset":1763},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Después 
+de una investigación de dos meses limitada por dos semanas de audiencias 
+públicas, el Comité de Inteligencia de la Cámara de Representantes está 
+preparando un informe para presentar al Comité Judicial que detallará las 
+acusaciones de que el Presidente presionó a Ucrania para investigar a sus 
+rivales políticos mientras retenía una reunión de la Casa Blanca y $ 400 
+millones en ayuda de 
+seguridad.","beginOffset":1939},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"El 
+informe servirá de base para los procedimientos de juicio político del 
+Comité Judicial, que se espera que se centren principalmente en 
+Ucrania.","beginOffset":2358},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"Pero 
+la carta del Comité Judicial también señalaba la propia investigación del 
+panel relacionada con las acusaciones de obstrucción de la justicia por 
+parte del ex asesor especial Robert Mueller, que algunos demócratas quieren 
+incluir en posibles artículos de juicio político contra el 
+Presidente.","beginOffset":2508},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Se 
+espera que la primera audiencia del Comité Judicial el miércoles, sobre 
+\"Motivos constitucionales para la destitución presidencial\", inicie un 
+mes frenético de actividad en la 
+Cámara.","beginOffset":2815},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Se 
+espera que el panel judicial celebre múltiples audiencias públicas y luego 
+considere artículos de juicio político, que aprobaría para establecer una 
+posible votación en la Cámara antes de Navidad que podría convertir a Trump 
+en el tercer presidente de la historia de Estados Unidos en ser 
+destituido.","beginOffset":3007},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Según 
+las reglas aprobadas por la Cámara, el abogado del Presidente puede 
+participar en las audiencias de juicio político en el Comité Judicial, a 
+diferencia de las audiencias públicas a principios de este mes en el Comité 
+de Inteligencia de la 
+Cámara.","beginOffset":3320},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Las 
+reglas establecen que el Presidente y su abogado están invitados a asistir 
+a las presentaciones del comité de sus pruebas, así como a hacer preguntas, 
+formular objeciones, solicitar testigos u otras pruebas y hacer una 
+presentación 
+final.","beginOffset":3581},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"La 
+participación, sin embargo, está sujeta a la discreción de Nadler, y los 
+demócratas incluyeron una cláusula que establece que si la Casa Blanca 
+obstruye la investigación, por ejemplo, al no poner a disposición testigos, 
+Nadler podría impedir que llame a sus propios 
+testigos.","beginOffset":3829},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"La 
+carta de Nadler a Collins le ofreció la posibilidad de solicitar citaciones 
+para testigos, aunque Nadler puede negar esas 
+solicitudes.","beginOffset":4117},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"En 
+el Comité de Inteligencia de la Cámara, los demócratas bloquearon una serie 
+de citaciones solicitadas, incluidas las relacionadas con el hijo del 
+vicepresidente Joe Biden, Hunter, y el denunciante cuya denuncia provocó la 
+investigación de la acusación demócrata sobre Trump y 
+Ucrania.","beginOffset":4257},"sentiment":{"magnitude":0.5,"score":-0.5}}]},"random_to_source":{"documentSentiment":{"magnitude":2.3,"score":0},"language":"en","sentences":[{"text":{"content":"Democrats 
+set December 6 deadline for White House to consider whether to participate 
+in 
+impeachment","beginOffset":0},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"The 
+Judiciary Committee of the House sets December 6 as the deadline for 
+President Donald Trump to decide whether his lawyers will participate in 
+the impeachment process of the 
+committee.","beginOffset":101},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+Speaker of the Judiciary, Jerry Nadler, Democrat in New York, sent a letter 
+to Trump on Friday with the new date asking if the President's Council is 
+considering asking for witnesses or making a presentation as part of the 
+procedure.","beginOffset":290},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"This 
+deadline is later than Sunday, which was available to the White House to 
+indicate whether it would participate in the first hearing of the committee 
+on 
+Wednesday.","beginOffset":529},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+letter to the president and a separate letter to the Judiciary Committee, 
+which classifies Georgia Republican Republican Doug Collins, were largely 
+technical, referring to the rules set by the House resolution on the 
+impeachment of last 
+month.","beginOffset":698},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"But 
+the letter marks the beginning of the White House's deadline for deciding 
+whether to take part in the impeachment process - which Trump and the 
+congressional Republicans have declared unfair - or will wait for a trial 
+in the Senate to to plead his case directly before the 
+Congress.","beginOffset":946},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Although 
+the final decision has not yet been made, the latest thought at the White 
+House is not to send a lawyer to the first court hearing next week, 
+according to two 
+officials.","beginOffset":1234},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+White House is also considering suggesting witnesses who should be called 
+to the 
+hearing.","beginOffset":1413},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Trump 
+and his team are discussing the internal benefits of responding to demand - 
+including whether it would be \"profitable\" to participate, said a person 
+close to the 
+process.","beginOffset":1508},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"After 
+a two-month investigation ending two weeks of public hearings, the House's 
+Intelligence Committee is preparing a report to be submitted to the 
+Judiciary Committee, which will detail allegations that the President has 
+lobbied 
+Ukraine.","beginOffset":1686},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"to 
+investigate its political rivals while preventing a meeting of the White 
+House million security 
+help.","beginOffset":1926},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+report will serve as a basis for the impeachment process of the Judiciary 
+Committee, which should be heavily focused on 
+Ukraine.","beginOffset":2032},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"But 
+the Judicial Committee's letter also mentioned the committee's own 
+investigation into allegations of obstruction of justice by former special 
+advocate Robert Mueller, whom some Democrats want included in potential 
+articles of impeachment against the 
+president.","beginOffset":2165},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"The 
+first hearing of the Judiciary Committee on Wednesday - on \"constitutional 
+grounds for the dismissal of the president\" - is expected to launch a 
+month of frenetic activity in the 
+House.","beginOffset":2431},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+Judiciary Committee is expected to hold several public hearings, then 
+consider impeachment, which it would approve of having a vote in the House 
+before Christmas, which could make Trump the third president in US 
+history.","beginOffset":2621},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"According 
+to the rules adopted by the House, the President's Council can participate 
+in impeachment hearings of the Judiciary Committee, as opposed to the 
+public hearings held earlier this month in the House Intelligence 
+Committee.","beginOffset":2847},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+rules state that the chair and his or her board are invited to attend panel 
+presentations by the committee, to ask questions, to raise objections, to 
+ask for witnesses or other evidence, and to make a final 
+presentation.","beginOffset":3080},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Participation, 
+however, is subject to Nadler's discretion, and the Democrats have included 
+a clause stating that if the White House obstructs the investigation - for 
+example by not putting witnesses at the disposal of the president - then 
+Nadler could prevent him from summoning his own 
+witnesses.","beginOffset":3306},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Nadler's 
+letter to Collins offered him the opportunity to request subpoenas from 
+witnesses, although Nadler could refuse such 
+requests.","beginOffset":3605},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"In 
+the House's intelligence committee, the Democrats blocked a number of 
+subpoenas, including those related to the son of Vice President Joe Biden, 
+Hunter, and the whistleblower whose complaint sparked the Democratic 
+imputation investigation on Trump and 
+Ukraine.","beginOffset":3742},"sentiment":{"magnitude":0,"score":0}}],"foreign_lang":"fr"}}

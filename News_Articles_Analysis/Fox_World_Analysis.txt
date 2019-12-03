@@ -1,0 +1,830 @@
+{"zh":{"documentSentiment":{"magnitude":11.7,"score":0},"language":"zh","sentences":[{"text":{"content":"总
+理
+鲍里斯·约翰逊说，释放伦敦桥恐怖嫌疑犯是“错误的
+”","beginOffset":0},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"周
+五英国伦敦首相鲍里斯·约翰逊（Boris Johnson）争辩说，伦敦桥上刺伤袭击造成两人
+死亡，三人受伤，事后称将这名嫌犯提前释放是“错误”，这名前罪犯被枪杀并被杀
+害。","beginOffset":82},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"被
+警察\n\n约翰逊说，他“一直在争辩”反对允许“严重暴力的罪犯提早出狱。
+”","beginOffset":310},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"约
+翰逊说：“重要的是我们要养成习惯，对危险的罪犯，特别是对恐怖分子实施适当的刑
+罚，我认为这是公众希望看到的。
+”","beginOffset":416},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"袭
+击发生后，伦敦警方将嫌疑人确定为28岁的乌斯曼·汗（Usman Khan），他生活在斯塔
+福德郡地区，并于2012年因“恐怖主义罪行”被定
+罪。","beginOffset":583},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"当
+局表示，汗已于2018年12月``经许可''获释，这意味着他必须满足某些条件，否则将被
+送回监
+狱。","beginOffset":765},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"警
+方将刺伤视为恐怖袭
+击。","beginOffset":894},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"这
+位负责人说：“ [调查]的关键是确定他是如何进行这次袭击的。
+”","beginOffset":932},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"他
+补充说，警方正在斯塔福德郡的一个地址进行搜
+查。","beginOffset":1022},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"据
+巴苏说，这名嫌疑人在袭击发生时穿着假的爆炸性背心，在被“专家武装人员”枪击之
+前，遭到了公众的追捕，他当场死
+亡。","beginOffset":1096},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"巴
+苏说：“虽然我们仍处于调查的初期阶段，但目前我们并未积极寻求与这次袭击有关的
+任何其他人。
+”","beginOffset":1266},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"他
+指出，恐怖主义调查仍在继续，警方正在确保“没有其他人在与恐怖袭击有关
+”。","beginOffset":1404},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"参
+与了这次袭击，对公众没有威胁。
+”","beginOffset":1515},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"袭
+击者说，袭击中有一男一女被杀，两女一男受伤并留在医
+院。","beginOffset":1568},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"下
+午2点前，警察被召唤到伦敦桥
+区。","beginOffset":1654},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"当
+地时间星期
+五。","beginOffset":1703},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"巴
+苏说：“据我们目前所知，情况是袭击者于周五下午早些时候在鱼贩子大厅参加了一次
+名为“一起学习”的活动。
+”","beginOffset":1729},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"“我
+们认为袭击始于他离开建筑物并进入伦敦桥之前在内部开始，他在那里被拘留，随后遭
+到武装人员的袭击并开枪。
+”","beginOffset":1886},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"公
+共安全是重中之重，随着警察继续加强在城市和整个伦敦的巡逻，Basu要求公众继续避
+开该地
+区。","beginOffset":2047},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"英
+国广播公司（BBC）和天空新闻（Sky News）等英国媒体报道说，袭击者是一名前囚
+犯，与伊斯兰极端主义组织有联系，但官员们等待确认犯罪嫌疑人的身
+份。","beginOffset":2179},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"伦
+敦市长萨迪克·汗（Sadiq Khan）周五早些时候表示，“恐怖”恐怖袭击的两名受害者“不
+幸死亡
+”。","beginOffset":2387},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"他
+在一份声明中说：“我向他们，他们的亲人和所有受影响的人表示敬意。
+”","beginOffset":2521},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"“伦
+敦永远不会被恐怖主义吓
+倒。","beginOffset":2624},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"恐
+怖主义永远不会胜利。
+”","beginOffset":2669},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"他
+补充说：“我想向伦敦人和游客保证，本周末伦敦街头将加强警察巡逻，包括枪支队
+伍。
+”","beginOffset":2707},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"“今
+晚我将参加政府的紧急眼镜蛇会议。
+”","beginOffset":2831},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"巴
+苏呼吁公众访问英国警察图像上诉网站，以分享事件的任何信息，图像或镜头，或致电
+警察以提供有助于调查的任何信
+息。","beginOffset":2890},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"巴
+苏补充说：“公众应继续保持警惕，并向警察报告他们的任何担忧。
+”","beginOffset":3057},"sentiment":{"magnitude":0.6,"score":0.6}}]},"en":{"documentSentiment":{"magnitude":8.4,"score":-0.1},"language":"en","sentences":[{"text":{"content":"Release 
+of London Bridge terror suspect was 'mistake,' PM Boris Johnson 
+says","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Friday's 
+stabbing attack on the London Bridge that left two people dead and three 
+others wounded had British Prime Minister Boris Johnson arguing afterward 
+that it had been a \"mistake\" to grant an early release to the suspect, an 
+ex-convict who was shot and killed by 
+police.","beginOffset":78},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Johnson 
+said he had \"long argued\" against allowing \"serious and violent 
+criminals to come out of prison 
+early.”","beginOffset":355},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"It 
+is very important that we get out of that habit and that we enforce the 
+appropriate sentences for dangerous criminals, especially for terrorists, 
+that I think the public will want to see,” Johnson 
+said.","beginOffset":470},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Following 
+the attack, London police identified the suspect as 28-year-old Usman Khan, 
+who lived in the Staffordshire area and was convicted in 2012 for 
+\"terrorism 
+offenses.\"","beginOffset":680},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Authorities 
+said Khan had been released in December 2018 \"on license,\" meaning he had 
+to meet certain conditions or face being sent back to prison, according to 
+Metropolitan Police Counterterrorism Chief Neil 
+Basu.","beginOffset":855},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Police 
+were treating the stabbings as a terrorist 
+attack.","beginOffset":1071},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"A 
+key line of [inquiry] now is to establish how he came to carry out this 
+attack,\" the chief said, adding that police are conducting searches at a 
+Staffordshire 
+address.","beginOffset":1130},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"The 
+suspect, who wore a fake explosive vest as the attack unfolded, was tackled 
+by members of the public before being shot by \"specialist armed 
+officers,\" and he died at the scene, according to 
+Basu.","beginOffset":1302},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"Whilst 
+we are still in the early stages of the investigation, at this time we are 
+not actively seeking anyone else in relation to the attack,\" Basu said, 
+noting that the terrorism investigation continues and police are making 
+sure \"that no other people were involved in this attack and that there is 
+no outstanding threat to the 
+public.\"","beginOffset":1503},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"A 
+man and a woman were killed during the attack, and two women and a man were 
+injured and remain in the hospital, according to the 
+chief.","beginOffset":1843},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Police 
+were called to the London Bridge area just before 2 p.m. local time on 
+Friday.","beginOffset":1982},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"The 
+circumstances, as we currently understand them, are that the attacker 
+attended an event earlier on Friday afternoon at Fishmonger’s Hall called 
+‘Learning Together,’\" Basu 
+said.","beginOffset":2069},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"\"We 
+believe that the attack began inside before he left the building and 
+proceeded onto London Bridge, where he was detained and subsequently 
+confronted and shot by armed 
+officers.\"","beginOffset":2257},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Public 
+safety is the top priority, and Basu asked the public to continue to avoid 
+the area as police continue to enhance patrols in the city and across 
+London.","beginOffset":2440},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"British 
+media outlets including the BBC and Sky News had reported that the attacker 
+was an ex-prisoner with links to Islamic extremist groups, but officials 
+waited to confirm the suspect's 
+identity.","beginOffset":2601},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"London 
+Mayor Sadiq Khan said earlier Friday that two victims of the \"appalling\" 
+terrorist attack had \"tragically 
+died.\"","beginOffset":2801},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"My 
+heart goes out to them, their loved ones and to everybody affected,\" he 
+said in a 
+statement.","beginOffset":2922},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"\"London 
+will never be cowed by 
+terrorism.","beginOffset":3019},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Terrorism 
+will never 
+win.\"","beginOffset":3061},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"I 
+want to reassure Londoners and visitors that there will be enhanced police 
+patrols, including firearms teams, on the streets of London this weekend,\" 
+he 
+added.","beginOffset":3089},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"\"I 
+will be attending the government's emergency COBRA meeting 
+tonight.\"","beginOffset":3252},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Basu 
+pleaded with the public to share any information, images or footage of the 
+incident by visiting the 
+U.K.","beginOffset":3325},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Police 
+Image Appeal site, or to call police with any information that could help 
+the 
+investigation.","beginOffset":3435},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"The 
+public should continue to remain vigilant and report any concerns they have 
+to police,\" Basu 
+added.","beginOffset":3536},"sentiment":{"magnitude":0,"score":0}}]},"fr":{"documentSentiment":{"magnitude":8.2,"score":-0.1},"language":"fr","sentences":[{"text":{"content":"La 
+libération du suspect terroriste au London Bridge était une \"erreur\", 
+déclare le Premier ministre Boris 
+Johnson","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"L'attaque 
+à l'arme blanche de vendredi sur le pont de Londres, qui a coûté la vie à 
+deux personnes et à trois autres blessés, a été contaminée par le Premier 
+ministre britannique Boris Johnson, affirmant qu'il avait été une 
+\"erreur\" d'accorder une libération anticipée au suspect, un ancien 
+condamné tué par 
+balle.","beginOffset":119},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"par 
+la 
+police.","beginOffset":449},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Johnson 
+a déclaré qu'il avait \"longtemps discuté\" contre le fait de permettre à 
+\"des criminels graves et violents de sortir de prison plus 
+tôt\".","beginOffset":465},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Il 
+est très important que nous sortions de cette habitude et que nous 
+imposions les peines appropriées aux criminels dangereux, en particulier 
+aux terroristes, que le public voudra voir\", a déclaré 
+Johnson.","beginOffset":616},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"À 
+la suite de l'attaque, la police de Londres a identifié le suspect comme 
+étant Usman Khan, âgé de 28 ans et résidait dans la région de 
+Staffordshire.","beginOffset":829},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Il 
+a été condamné en 2012 pour «infractions de 
+terrorisme».","beginOffset":988},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Selon 
+les autorités, Khan aurait été libéré en décembre 2018 \"sous licence\", ce 
+qui signifie qu'il devait remplir certaines conditions ou risquer d'être 
+renvoyé en prison, selon le chef de la lutte contre le terrorisme de la 
+police métropolitaine, Neil 
+Basu.","beginOffset":1054},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"La 
+police traitait les coups de couteau comme une attaque 
+terroriste.","beginOffset":1323},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"Un 
+élément clé de [l'enquête] consiste à établir comment il est parvenu à 
+mener cette attaque\", a déclaré le chef de police, ajoutant que la police 
+procédait à des perquisitions à une adresse du 
+Staffordshire.","beginOffset":1394},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Le 
+suspect, qui portait une fausse veste explosive au fur et à mesure du 
+déroulement de l'attaque, a été attaqué par des membres du public avant 
+d'être abattu par des \"agents armés spécialisés\", et il est décédé sur 
+les lieux, selon 
+Basu.","beginOffset":1618},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"\"Bien 
+que nous en soyons au début de l'enquête, nous ne recherchons pour le 
+moment personne d'autre en relation avec l'attaque\", a déclaré Basu, 
+soulignant que l'enquête sur le terrorisme se poursuivait et que la police 
+veillait à ce qu'aucun autre impliqué dans cette attaque et qu'il n'y a 
+aucune menace en suspens pour le public 
+\".","beginOffset":1870},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Un 
+homme et une femme ont été tués lors de l'attaque et deux femmes et un 
+homme ont été blessés et restent à l'hôpital, selon le 
+chef.","beginOffset":2213},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"La 
+police a été appelée dans la région de London Bridge juste avant 14 
+heures.","beginOffset":2357},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"heure 
+locale le 
+vendredi.","beginOffset":2440},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Selon 
+les informations dont nous disposons actuellement, l'attaquant a assisté à 
+un événement plus tôt vendredi après-midi au\" Fishmonger Hall \"appelé\" 
+Learning Together \", a déclaré 
+Basu.","beginOffset":2467},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"Nous 
+pensons que l'attaque a commencé à l'intérieur avant qu'il ne quitte le 
+bâtiment et se dirige vers le pont de Londres, où il a été arrêté puis 
+confronté et abattu par des agents 
+armés.\"","beginOffset":2666},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"La 
+sécurité publique est la priorité absolue et Basu a demandé au public de 
+continuer à éviter la zone alors que la police continuait à renforcer les 
+patrouilles dans la ville et à travers 
+Londres.","beginOffset":2870},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Les 
+médias britanniques, dont la BBC et Sky News, avaient déclaré que 
+l'agresseur était un ancien prisonnier lié à des groupes extrémistes 
+islamistes, mais les autorités ont attendu de confirmer l'identité du 
+suspect.","beginOffset":3077},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"Le 
+maire de Londres, Sadiq Khan, a déclaré vendredi que deux victimes de 
+\"l'épouvantable\" attentat terroriste étaient \"tragiquement 
+mortes\".","beginOffset":3305},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"Mes 
+pensées vont à eux, à leurs proches et à toutes les personnes concernées\", 
+a-t-il déclaré dans un 
+communiqué.","beginOffset":3451},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"Londres 
+ne sera jamais intimidé par le 
+terrorisme.","beginOffset":3574},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Le 
+terrorisme ne gagnera 
+jamais.\"","beginOffset":3627},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"\"Je 
+tiens à rassurer les Londoniens et les visiteurs sur le fait qu'il y aura 
+de meilleures patrouilles de police, y compris des équipes d'armes à feu, 
+dans les rues de Londres ce week-end\", a-t-il 
+ajouté.","beginOffset":3662},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"\"Je 
+participerai à la réunion d'urgence du gouvernement sur la COBRA ce 
+soir.\"","beginOffset":3872},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Basu 
+a exhorté le public à partager toute information, image ou séquence de 
+l'incident en visitant le site de l'appel à la police britannique, ou à 
+appeler la police pour lui fournir des informations susceptibles d'aider 
+l'enquête.","beginOffset":3954},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Le 
+public doit rester vigilant et signaler ses problèmes à la police\", a 
+ajouté M. 
+Basu.","beginOffset":4193},"sentiment":{"magnitude":0.2,"score":-0.2}}]},"de":{"documentSentiment":{"magnitude":10.4,"score":-0.3},"language":"de","sentences":[{"text":{"content":"Die 
+Freilassung des Terrorverdächtigen der London Bridge sei ein \"Fehler\" 
+gewesen, sagt Premierminister Boris 
+Johnson","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Bei 
+dem Stichangriff auf die London Bridge am Freitag, bei dem zwei Menschen 
+starben und drei weitere verletzt wurden, argumentierte der britische 
+Premierminister Boris Johnson, es sei ein \"Fehler\" gewesen, dem 
+Verdächtigen, einem Ex-Sträfling, der erschossen und getötet wurde, eine 
+vorzeitige Freilassung zu gewähren von der 
+Polizei.","beginOffset":120},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Johnson 
+sagte, er habe \"lange dagegen gestanden\", \"schwerwiegende und 
+gewalttätige Verbrecher vorzeitig aus dem Gefängnis zu 
+entlassen\".","beginOffset":461},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"\"Es 
+ist sehr wichtig, dass wir uns von dieser Gewohnheit verabschieden und die 
+angemessenen Strafen für gefährliche Kriminelle, insbesondere für 
+Terroristen, durchsetzen, die die Öffentlichkeit meines Erachtens sehen 
+möchte\", sagte 
+Johnson.","beginOffset":601},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Nach 
+dem Anschlag identifizierte die Londoner Polizei den Verdächtigen als den 
+28-jährigen Usman Khan, der in der Gegend von Staffordshire lebte und 2012 
+wegen \"Terrorismus\" verurteilt 
+wurde.","beginOffset":848},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Die 
+Behörden gaben an, Khan sei im Dezember 2018 \"auf Erlaubnis\" freigelassen 
+worden, was bedeutet, dass er bestimmte Bedingungen erfüllen musste oder 
+ins Gefängnis zurückgeschickt werden musste, so Neil Basu, Chef der 
+Terrorismusbekämpfung der 
+Stadtpolizei.","beginOffset":1043},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Die 
+Polizei behandelte die Messerstiche als 
+Terroranschlag.","beginOffset":1308},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Eine 
+wichtige Frage ist jetzt, wie er zu diesem Angriff gekommen ist\", sagte 
+der Chef und fügte hinzu, dass die Polizei eine Suche an einer Adresse in 
+Staffordshire 
+durchführt.","beginOffset":1369},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Der 
+Verdächtige, der während des Angriffs eine gefälschte Sprengweste trug, 
+wurde von Angehörigen der Öffentlichkeit angegriffen, bevor er von 
+\"spezialisierten bewaffneten Offizieren\" erschossen wurde, und er starb 
+laut Basu am 
+Tatort.","beginOffset":1550},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"\"Während 
+wir uns noch in der Anfangsphase der Ermittlungen befinden, suchen wir 
+derzeit niemanden in Bezug auf den Angriff\", sagte Basu und merkte an, 
+dass die Terrorismusermittlung fortgesetzt wird und die Polizei 
+sicherstellt, dass keine anderen Personen anwesend sind beteiligt an diesem 
+Angriff und dass es keine herausragende Bedrohung für die Öffentlichkeit 
+gibt.","beginOffset":1792},"sentiment":{"magnitude":0.9,"score":-0.9}},{"text":{"content":"\"","beginOffset":2165},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ein 
+Mann und eine Frau wurden bei dem Angriff getötet, zwei Frauen und ein Mann 
+wurden verletzt und bleiben laut dem Chef im 
+Krankenhaus.","beginOffset":2168},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Die 
+Polizei wurde kurz vor 14:00 Uhr in die Gegend der London Bridge 
+gerufen.","beginOffset":2308},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Ortszeit 
+am 
+Freitag.","beginOffset":2386},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Die 
+Umstände, so wie wir sie derzeit verstehen, sind, dass der Angreifer am 
+Freitagnachmittag eine Veranstaltung in der Fishmonger-Halle namens\" 
+Gemeinsam lernen \"besucht hat\", sagte 
+Basu.","beginOffset":2408},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"Wir 
+glauben, dass der Angriff innen begann, bevor er das Gebäude verließ und 
+auf die London Bridge fuhr, wo er festgenommen und anschließend von 
+bewaffneten Offizieren konfrontiert und erschossen 
+wurde.\"","beginOffset":2599},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Die 
+öffentliche Sicherheit hat oberste Priorität, und Basu forderte die 
+Öffentlichkeit auf, das Gebiet weiterhin zu meiden, da die Polizei die 
+Patrouillen in der Stadt und in ganz London weiter 
+verstärkt.","beginOffset":2808},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"Britische 
+Medien wie BBC und Sky News hatten berichtet, der Angreifer sei ein 
+ehemaliger Gefangener mit Verbindungen zu islamistischen 
+Extremistengruppen, doch die Beamten warteten darauf, die Identität des 
+Verdächtigen zu 
+bestätigen.","beginOffset":3018},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Der 
+Londoner Bürgermeister Sadiq Khan sagte am Freitag zuvor, dass zwei Opfer 
+des \"entsetzlichen\" Terroranschlags \"auf tragische Weise gestorben\" 
+seien.","beginOffset":3257},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"\"Ihnen, 
+ihren Angehörigen und allen Betroffenen gilt mein Herz\", sagte er in einer 
+Erklärung.","beginOffset":3412},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"London 
+wird niemals vom Terrorismus heimgesucht 
+werden.","beginOffset":3508},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Der 
+Terrorismus wird niemals 
+gewinnen.\"","beginOffset":3565},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"Ich 
+möchte Londonern und Besuchern versichern, dass es an diesem Wochenende 
+verstärkte Polizeipatrouillen auf den Straßen von London geben wird, 
+einschließlich Schusswaffenteams\", fügte er 
+hinzu.","beginOffset":3606},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Ich 
+werde heute Abend an der COBRA-Notsitzung der Regierung 
+teilnehmen.\"","beginOffset":3808},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Basu 
+forderte die Öffentlichkeit auf, Informationen, Bilder oder Filmmaterial 
+des Vorfalls durch einen Besuch auf der Website von Police Image Appeal in 
+Großbritannien weiterzugeben oder die Polizei mit Informationen zu 
+beauftragen, die bei den Ermittlungen hilfreich sein 
+könnten.","beginOffset":3883},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"\"Die 
+Öffentlichkeit sollte weiterhin wachsam bleiben und alle Bedenken der 
+Polizei melden\", fügte Basu 
+hinzu.","beginOffset":4169},"sentiment":{"magnitude":0,"score":0}}]},"it":{"documentSentiment":{"magnitude":9.2,"score":-0.1},"language":"it","sentences":[{"text":{"content":"Il 
+rilascio del sospetto terrorista del London Bridge è stato \"un errore\", 
+afferma il Primo Ministro Boris 
+Johnson","beginOffset":0},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"L'attacco 
+lancinante di venerdì sul ponte di Londra che ha lasciato due persone morte 
+e altre tre ferite ha avuto il primo ministro britannico Boris Johnson a 
+discutere in seguito che era stato un \"errore\" concedere una liberazione 
+anticipata al sospettato, un ex detenuto che è stato ucciso e ucciso dalla 
+polizia.","beginOffset":117},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Johnson 
+ha affermato di aver \"discusso a lungo\" di non consentire a \"criminali 
+gravi e violenti di uscire presto di 
+prigione\".","beginOffset":436},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"È 
+molto importante uscire da questa abitudine e applicare le frasi 
+appropriate per i criminali pericolosi, in particolare per i terroristi, 
+che penso che il pubblico vorrà vedere\", ha detto 
+Johnson.","beginOffset":564},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"A 
+seguito dell'attacco, la polizia di Londra ha identificato il sospetto come 
+il 28enne Usman Khan, che viveva nella zona di Staffordshire ed è stato 
+condannato nel 2012 per \"reati di 
+terrorismo\".","beginOffset":767},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Le 
+autorità hanno affermato che Khan era stato rilasciato nel dicembre 2018 
+\"su licenza\", il che significa che doveva soddisfare determinate 
+condizioni o affrontare il fatto di essere rimandato in prigione, secondo 
+il capo dell'antiterrorismo della polizia metropolitana Neil 
+Basu.","beginOffset":966},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"La 
+polizia trattava le pugnalate come un attacco 
+terroristico.","beginOffset":1250},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"Una 
+linea chiave di [inchiesta] ora è stabilire come è arrivato a eseguire 
+questo attacco\", ha detto il capo, aggiungendo che la polizia sta 
+conducendo ricerche in un indirizzo dello 
+Staffordshire.","beginOffset":1314},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"Il 
+sospettato, che indossava un finto giubbotto esplosivo mentre si svolgeva 
+l'attacco, è stato affrontato da membri del pubblico prima di essere 
+fucilato da \"ufficiali armati specializzati\", ed è morto sulla scena, 
+secondo 
+Basu.","beginOffset":1516},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"\"Mentre 
+siamo ancora nelle prime fasi dell'indagine, in questo momento non stiamo 
+cercando attivamente nessun altro in relazione all'attacco\", ha detto 
+Basu, osservando che le indagini sul terrorismo continuano e che la polizia 
+si sta assicurando \"che nessun altro fosse coinvolto in questo attacco e 
+che non esiste una minaccia eccezionale per il pubblico 
+\".","beginOffset":1749},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Un 
+uomo e una donna sono stati uccisi durante l'attacco, e due donne e un uomo 
+sono rimasti feriti e rimangono in ospedale, secondo il 
+capo.","beginOffset":2110},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"La 
+polizia è stata chiamata nell'area di London Bridge poco prima delle 
+14:00.","beginOffset":2252},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"ora 
+locale il 
+venerdì.","beginOffset":2332},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"Le 
+circostanze, per come le comprendiamo attualmente, sono che l'attaccante ha 
+partecipato a un evento venerdì pomeriggio nella Sala di Fishmonger 
+chiamato\" Imparare insieme \", ha detto 
+Basu.","beginOffset":2357},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Riteniamo 
+che l'attacco sia iniziato all'interno prima che lasciasse l'edificio e 
+procedesse sul London Bridge, dove fu detenuto e successivamente affrontato 
+e colpito da ufficiali 
+armati\".","beginOffset":2551},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"La 
+sicurezza pubblica è la massima priorità e Basu ha chiesto al pubblico di 
+continuare a evitare l'area mentre la polizia continua a rafforzare le 
+pattuglie in città e in tutta 
+Londra.","beginOffset":2743},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"I 
+media britannici tra cui la BBC e Sky News avevano riferito che 
+l'attaccante era un ex prigioniero con legami con gruppi estremisti 
+islamici, ma i funzionari hanno atteso per confermare l'identità del 
+sospettato.","beginOffset":2933},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"Il 
+sindaco di Londra Sadiq Khan ha dichiarato venerdì scorso che due vittime 
+dell'attacco terroristico \"spaventoso\" erano \"tragicamente 
+morte\".","beginOffset":3150},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"\"Il 
+mio cuore va a loro, ai loro cari e a tutti i colpiti\", ha detto in una 
+nota.","beginOffset":3296},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"\"Londra 
+non sarà mai intimorita dal 
+terrorismo.","beginOffset":3378},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Il 
+terrorismo non vincerà 
+mai.\"","beginOffset":3427},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"Voglio 
+rassicurare i londinesi e i visitatori che ci saranno pattuglie di polizia 
+potenziate, comprese le squadre di armi da fuoco, per le strade di Londra 
+questo fine settimana\", ha 
+aggiunto.","beginOffset":3461},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"\"Stasera 
+parteciperò alla riunione di emergenza del governo 
+COBRA\".","beginOffset":3655},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"Basu 
+ha chiesto al pubblico di condividere qualsiasi informazione, immagine o 
+filmato dell'incidente visitando il sito di appello della polizia 
+britannica o di chiamare la polizia con qualsiasi informazione che potesse 
+aiutare 
+l'indagine.","beginOffset":3725},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"\"Il 
+pubblico dovrebbe continuare a rimanere vigile e denunciare eventuali 
+preoccupazioni alla polizia\", ​​ha aggiunto 
+Basu.","beginOffset":3965},"sentiment":{"magnitude":0.9,"score":-0.9}}]},"ja":{"documentSentiment":{"magnitude":8.4,"score":0},"language":"ja","sentences":[{"text":{"content":"ロ
+ンドン・ブリッジのテロ容疑者の釈放は「間違い」だった、ボリス・ジョンソン首相
+は言う\n\n英国のボリス・ジョンソン首相は、ロンドン橋に対する金曜日の刺し攻撃
+で、2人が死亡し、他の3人が負傷し
+た。","beginOffset":0},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"警
+察によっ
+て。","beginOffset":280},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"ジ
+ョンソンは、「深刻で暴力的な犯罪者が刑務所から早期に出国することを許可するこ
+とに対して「長い間議論していた」と述べ
+た。","beginOffset":303},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"「
+私たちがその習慣から抜け出すこと、そして特にテロリストにとって危険な犯罪者に
+適切な刑を執行することが非常に重要で
+す。","beginOffset":485},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"私
+は一般大衆が見たいと思うでしょう」とジョンソンは言っ
+た。","beginOffset":662},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"攻
+撃後、ロンドン警察は容疑者を28歳のウスマン・カーンと特定し
+た。","beginOffset":751},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"彼
+はスタフォードシャー地域に住んでおり、2012年に「テロ行為」で有罪判決を受け
+た。","beginOffset":846},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"当
+局は、カーンが2018年12月に「免許で」釈放されたと述べ
+た。","beginOffset":966},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"警
+視庁の反テロ責任者ニール・バスによると、彼は特定の条件を満たすか、刑務所に送
+り返されることに直面し
+た。","beginOffset":1050},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"警
+察は刺し傷をテロ攻撃として扱っていまし
+た。","beginOffset":1208},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"「
+[問い合わせ]の重要なポイントは、彼がこの攻撃をどのように実行したかを確立する
+ことです」と、チーフは、警察がスタッフォードシャーの住所で捜索を行っていると
+付け加え
+た。","beginOffset":1276},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"容
+疑者は、攻撃が展開されたときに偽の爆発性ベストを着ていたが、「専門家の武装し
+た将校」に撃たれる前に公衆のメンバーによって取り組まれ、Basuによると彼は現場
+で死亡し
+た。","beginOffset":1526},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"「
+私たちはまだ調査の初期段階にありますが、現時点では攻撃に関連する他の誰かを積
+極的に探しているわけではありません」とバスは語り、テロ調査は継続され、警察は
+「他の人がいないことを確認している」と述べたこの攻撃に関与しており、一般の
+人々にとって目立った脅威はありません。
+」","beginOffset":1775},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"攻
+撃中に男性と女性が死亡し、2人の女性と男性が負傷し、病院に残ったと、チーフが
+言っ
+た。","beginOffset":2179},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"警
+察は午後2時前にロンドンブリッジエリアに呼び出されまし
+た。","beginOffset":2308},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"金
+曜日の現地時
+間。","beginOffset":2396},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"「
+現在の状況を理解しているように、金曜日の午後、攻撃者は「一緒に学ぶ」と呼ばれ
+る魚屋のホールでのイベントに参加しました」とバスは言いまし
+た。","beginOffset":2425},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"「
+私たちは、彼が建物を出てロンドン橋に進む前に内部で攻撃が始まったと信じていま
+す。","beginOffset":2636},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"そ
+こで、彼は拘留され、その後武装した将校に立ち向かい、撃たれました。
+」","beginOffset":2759},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"公
+共の安全は最優先事項であり、バスは、警察が市内およびロンドン全域のパトロール
+を強化し続けているため、この地域を回避し続けるよう国民に求めまし
+た。","beginOffset":2866},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"BBCや
+スカイニュースなどの英国のメディアは、攻撃者はイスラム過激派グループへのリン
+クを持つ元囚人であると報告したが、当局は容疑者の身元を確認するのを待ってい
+た。","beginOffset":3087},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"ロ
+ンドンのサディク・カーン市長は金曜日、「恐ろしい」テロ攻撃の犠牲者2人が「悲
+劇的に死んだ」と述べ
+た。","beginOffset":3326},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"「
+私の心は彼ら、彼らの愛する人たち、そして影響を受けたすべての人たちに捧げます
+」と彼は声明で述べ
+た。","beginOffset":3479},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"「
+ロンドンは決してテロリズムに悩まされることはありませ
+ん。","beginOffset":3630},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"テ
+ロリズムが勝つことは決してありません。
+」","beginOffset":3717},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"「
+今週末、ロンドンの路上で、銃器チームを含む警察のパトロールが強化されることを
+ロンドン市民と訪問者に安心させたい」と彼は付け加え
+た。","beginOffset":3782},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"「
+今夜、政府の緊急COBRA会議に出席する予定です。
+」","beginOffset":3981},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Basuは、
+英国警察の画像アピールサイトにアクセスして事件の情報、画像、または映像を共有
+するか、調査に役立つ情報を警察に電話することを一般市民に懇願しまし
+た。","beginOffset":4054},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"「
+一般市民は警戒を続け、警察に対する懸念を報告すべきです」とバスは付け加え
+た。","beginOffset":4285},"sentiment":{"magnitude":0.1,"score":-0.1}}]},"ko":{"documentSentiment":{"magnitude":7.1,"score":0},"language":"ko","sentences":[{"text":{"content":"런던 
+브리지 테러 용의자 
+석방은 '실수'였다.","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"런던 
+브리지에 대한 금요일의 찌르는 공격은 두 사람을 죽이고 다른 세 명은 부상을 
+입었다.","beginOffset":61},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"경찰에 
+의해.","beginOffset":184},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"존슨은 
+\"심각하고 폭력적인 범죄자들이 감옥에서 일찍 나오지 못하도록하는 것에 
+반대하여\"오랫동안 주장 해 왔다고 
+말했다.","beginOffset":203},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"존슨 
+대변인은“우리는 그 습관에서 벗어나 위험한 범죄자, 특히 테러리스트에게 
+적절한 문장을 집행하는 것이 매우 중요하다”고 
+말했다.","beginOffset":371},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"이 
+사건으로 런던 경찰은 피의자를 28 세의 Usman Khan으로 확인했으며, 스태포드 
+셔 지역에 살았으며 2012 년 \"테러 범죄\"로 유죄 판결을 
+받았습니다.","beginOffset":558},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"당국자들은 
+칸 경찰이 2018 년 12 월 \"면허 상태\"로 석방됐다고 
+밝혔다.","beginOffset":752},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"경찰은 
+스테이 빙을 테러 공격으로 
+취급하고있었습니다.","beginOffset":845},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"경찰은 
+스태포드 셔 주둔지에서 수색을 실시하고 있다고 
+덧붙였다.","beginOffset":922},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"공격이 
+전개되면서 가짜 폭발성 조끼를 입은 용의자는 \"전문가 무 장관\"에게 총격을 
+가하기 전에 일반인들에 의해 다루어졌으며 그는 현장에서 사망했다고 바수는 
+말했다.","beginOffset":1013},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"바수 
+대변인은“우리는 아직 조사 초기 단계에 있지만 현재로서는 공격과 관련하여 
+다른 사람을 적극적으로 찾고 있지 않다”며 테러 조사가 계속되고 경찰이 다른 
+사람이 없었 음을 확인하고 있다고 
+지적했다.","beginOffset":1242},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"\"이 
+공격에 관여하고 대중에게 현저한 위협이 
+없음\"","beginOffset":1522},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"족장에 
+따르면 공격 중에 남자와 여자가 ​​사망했고 두 명의 여자와 남자가 부상을 입어 
+병원에 남아 
+있었다고한다.","beginOffset":1592},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"경찰은 
+오후 2시 직전에 런던 브리지 지역으로 
+소환되었습니다.","beginOffset":1751},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"금요일 
+현지 
+시간.","beginOffset":1836},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"바수 
+대변인은“현재 우리가 이해하고있는 바에 따르면, 공격자가 금요일 오후 일찍 
+Fishmonger 's Hall에서 'Learning Together'라는 이벤트에 참석 한 것으로 
+보인다.","beginOffset":1862},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"\"우리는 
+그가 건물을 떠나기 전에 내부 공격이 시작되어 런던 브리지로 진격 한 후 
+그곳에서 구금 된 후 무 장관들과 맞서고 총격을가했다고 
+믿는다.\"","beginOffset":2071},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"공공 
+안전이 최우선 순위이며 Basu는 경찰이 도시와 런던 전역의 순찰을 계속 
+강화함에 따라이 지역을 계속 피하도록 
+요청했습니다.","beginOffset":2271},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"BBC와 
+Sky News를 포함한 영국 언론은이 공격자가 이슬람 극단주의 단체와 연계 된 
+전직 포로라고 밝혔지만, 관리들은 피의자의 신원을 확인하기 위해 
+기다렸다.","beginOffset":2447},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"사 
+디크 칸 런던 시장은 금요일 이른바 테러 공격의 두 피해자가 비극적으로 
+사망했다고 
+밝혔다.","beginOffset":2658},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"\"내 
+마음은 그들과 사랑하는 사람과 영향을받는 모든 사람에게 나간다\"고 성명에서 
+말했다.","beginOffset":2788},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"런던은 
+결코 테러에 휩싸이지 않을 
+것입니다.","beginOffset":2910},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"테러는 
+결코 이길 수 
+없습니다.\"","beginOffset":2972},"sentiment":{"magnitude":0.5,"score":-0.5}},{"text":{"content":"\"나는 
+이번 주말에 런던 거리에서 총기 팀을 포함한 경찰 순찰이 강화 될 것이라고 
+런던 사람들과 방문객들에게 확신을주고 싶다\"고 
+덧붙였다.","beginOffset":3016},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"오늘 
+정부의 긴급 COBRA 회의에 참석할 
+것입니다.\"","beginOffset":3206},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Basu는 
+영국 경찰 이미지 이의 제기 사이트를 방문하여 사건에 대한 정보, 이미지 또는 
+영상을 공유하거나 조사에 도움이 될 수있는 정보를 가지고 경찰에 전화하도록 
+일반인들에게 
+호소했습니다.","beginOffset":3273},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"바수 
+대변인은“대중은 계속 경계해야하며 경찰에 대한 우려 사항을보고해야한다”고 
+덧붙였다.","beginOffset":3533},"sentiment":{"magnitude":0.4,"score":-0.4}}]},"pt":{"documentSentiment":{"magnitude":6.5,"score":0},"language":"pt","sentences":[{"text":{"content":"Liberação 
+do suspeito de terrorismo da London Bridge foi 'erro', diz o 
+primeiro-ministro Boris 
+Johnson","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"O 
+ataque de sexta-feira à ponte de Londres que deixou duas pessoas mortas e 
+outras três feridas teve o primeiro-ministro britânico Boris Johnson 
+argumentando depois que havia sido um \"erro\" conceder uma libertação 
+antecipada ao suspeito, um ex-condenado que foi baleado e morto pela 
+polícia.","beginOffset":106},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Johnson 
+disse que \"há muito argumenta\" contra permitir que \"criminosos sérios e 
+violentos saiam da prisão mais 
+cedo\".","beginOffset":405},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"\"É 
+muito importante abandonar esse hábito e aplicar as sentenças apropriadas 
+para criminosos perigosos, especialmente para terroristas, que acho que o 
+público vai querer ver\", disse 
+Johnson.","beginOffset":527},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"Após 
+o ataque, a polícia de Londres identificou o suspeito como Usman Khan, 28 
+anos, que morava na área de Staffordshire e foi condenado em 2012 por 
+\"crimes de 
+terrorismo\".","beginOffset":723},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"As 
+autoridades disseram que Khan foi libertado em dezembro de 2018 \"sob 
+licença\", o que significa que ele precisa cumprir certas condições ou ser 
+devolvido à prisão, de acordo com o chefe de contraterrorismo da Polícia 
+Metropolitana Neil 
+Basu.","beginOffset":900},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"A 
+polícia estava tratando as facadas como um ataque 
+terrorista.","beginOffset":1151},"sentiment":{"magnitude":0.2,"score":0.2}},{"text":{"content":"\"Uma 
+linha-chave de [investigação] agora é estabelecer como ele realizou esse 
+ataque\", disse o chefe, acrescentando que a polícia está realizando buscas 
+em um endereço de 
+Staffordshire.","beginOffset":1217},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"O 
+suspeito, que usava um colete explosivo falso quando o ataque se 
+desenrolou, foi abordado por membros do público antes de ser morto por 
+\"oficiais armados especializados\" e ele morreu no local, segundo 
+Basu.","beginOffset":1410},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"\"Enquanto 
+ainda estamos nos estágios iniciais da investigação, neste momento não 
+estamos buscando ativamente mais ninguém em relação ao ataque\", disse 
+Basu, observando que a investigação sobre terrorismo continua e a polícia 
+está se certificando de \"que nenhuma outra pessoa estava\" envolvidos 
+neste ataque e que não há ameaça proeminente ao público 
+\".","beginOffset":1621},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Um 
+homem e uma mulher foram mortos durante o ataque, e duas mulheres e um 
+homem ficaram feridos e permanecem no hospital, segundo o 
+chefe.","beginOffset":1990},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"A 
+polícia foi chamada para a área da ponte de Londres pouco antes das 14h. 
+hora local na 
+sexta-feira.","beginOffset":2130},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"As 
+circunstâncias, como atualmente as entendemos, são que o atacante 
+participou de um evento no início da tarde de sexta-feira no Fishmonger's 
+Hall chamado 'Learning Together' '\", disse 
+Basu.","beginOffset":2235},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Acreditamos 
+que o ataque começou antes que ele deixasse o prédio e seguisse para a 
+London Bridge, onde foi detido e posteriormente confrontado e baleado por 
+oficiais 
+armados\".","beginOffset":2431},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"A 
+segurança pública é a principal prioridade e Basu pediu que o público 
+continuasse a evitar a área, pois a polícia continua aprimorando as 
+patrulhas na cidade e em 
+Londres.","beginOffset":2611},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"Os 
+meios de comunicação britânicos, incluindo a BBC e a Sky News, informaram 
+que o atacante era um ex-prisioneiro com ligações a grupos extremistas 
+islâmicos, mas as autoridades esperaram para confirmar a identidade do 
+suspeito.","beginOffset":2792},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"O 
+prefeito de Londres Sadiq Khan disse na sexta-feira que duas vítimas do 
+\"terrorista\" ataque terrorista \"morreram 
+tragicamente\".","beginOffset":3028},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Meu 
+coração se apaixona por eles, seus entes queridos e todos os afetados\", 
+disse ele em 
+comunicado.","beginOffset":3160},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"\"Londres 
+nunca será intimidada pelo 
+terrorismo.","beginOffset":3264},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"O 
+terrorismo nunca 
+vencerá.\"","beginOffset":3313},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Quero 
+tranquilizar os londrinos e visitantes de que haverá patrulhas policiais 
+aprimoradas, incluindo equipes de armas de fogo, nas ruas de Londres neste 
+fim de semana\", 
+acrescentou.","beginOffset":3344},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"\"Estarei 
+participando da reunião de emergência COBRA do governo hoje à 
+noite.\"","beginOffset":3529},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"Basu 
+pediu ao público que compartilhasse qualquer informação, imagem ou filmagem 
+do incidente visitando o site de Recurso de Imagem da Polícia do Reino 
+Unido ou que chamasse a polícia com qualquer informação que pudesse ajudar 
+na 
+investigação.","beginOffset":3612},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"O 
+público deve continuar vigilante e relatar qualquer preocupação que tiver à 
+polícia\", acrescentou 
+Basu.","beginOffset":3866},"sentiment":{"magnitude":0.2,"score":-0.2}}]},"es":{"documentSentiment":{"magnitude":10.2,"score":0},"language":"es","sentences":[{"text":{"content":"La 
+liberación del sospechoso de terrorismo del Puente de Londres fue 'error', 
+dice el primer ministro Boris 
+Johnson","beginOffset":0},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"El 
+ataque punzante del viernes en el puente de Londres que dejó dos personas 
+muertas y otras tres heridas hizo que el primer ministro británico, Boris 
+Johnson, argumentara después que había sido un \"error\" otorgar una 
+liberación anticipada al sospechoso, un ex convicto que fue asesinado a 
+tiros.","beginOffset":118},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"por 
+la 
+policia.","beginOffset":420},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Johnson 
+dijo que había \"discutido durante mucho tiempo\" en contra de permitir que 
+\"criminales serios y violentos salgan de la cárcel 
+temprano\".","beginOffset":437},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Es 
+muy importante que salgamos de ese hábito y que apliquemos las sentencias 
+apropiadas para criminales peligrosos, especialmente para terroristas, que 
+creo que el público querrá ver\", dijo 
+Johnson.","beginOffset":584},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Después 
+del ataque, la policía de Londres identificó al sospechoso como Usman Khan, 
+de 28 años, que vivía en el área de Staffordshire y fue condenado en 2012 
+por \"delitos de 
+terrorismo\".","beginOffset":788},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Las 
+autoridades dijeron que Khan había sido puesto en libertad en diciembre de 
+2018 \"bajo licencia\", lo que significa que tenía que cumplir con ciertas 
+condiciones o enfrentarse a ser enviado de regreso a prisión, según el jefe 
+de contraterrorismo de la Policía Metropolitana, Neil 
+Basu.","beginOffset":982},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"La 
+policía trataba los apuñalamientos como un ataque 
+terrorista.","beginOffset":1276},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"\"Una 
+línea clave de [investigación] ahora es establecer cómo llegó a llevar a 
+cabo este ataque\", dijo el jefe, y agregó que la policía está realizando 
+búsquedas en una dirección de 
+Staffordshire.","beginOffset":1344},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"El 
+sospechoso, que llevaba un chaleco explosivo falso mientras se desarrollaba 
+el ataque, fue abordado por miembros del público antes de ser baleado por 
+\"oficiales armados especializados\", y murió en el lugar, según 
+Basu.","beginOffset":1550},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"\"Mientras 
+todavía estamos en las primeras etapas de la investigación, en este momento 
+no estamos buscando activamente a nadie más en relación con el ataque\", 
+dijo Basu, señalando que la investigación del terrorismo continúa y que la 
+policía se está asegurando de que \"no haya otras 
+personas\".","beginOffset":1776},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"involucrado 
+en este ataque y que no hay una amenaza pendiente para el público 
+\".","beginOffset":2078},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"Un 
+hombre y una mujer murieron durante el ataque, y dos mujeres y un hombre 
+resultaron heridos y permanecen en el hospital, según el 
+jefe.","beginOffset":2161},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"La 
+policía fue llamada al área del London Bridge justo antes de las 2 
+p.m.","beginOffset":2302},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"hora 
+local el 
+viernes.","beginOffset":2379},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"\"Las 
+circunstancias, tal como las entendemos actualmente, son que el atacante 
+asistió a un evento el viernes por la tarde en Fishmonger's Hall llamado\" 
+Aprendiendo juntos \"\", dijo 
+Basu.","beginOffset":2403},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"\"Creemos 
+que el ataque comenzó dentro antes de que abandonara el edificio y 
+procediera al Puente de Londres, donde fue detenido y posteriormente 
+confrontado y disparado por oficiales 
+armados\".","beginOffset":2590},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"La 
+seguridad pública es la principal prioridad, y Basu le pidió al público que 
+continúe evitando el área mientras la policía continúa mejorando las 
+patrullas en la ciudad y en todo 
+Londres.","beginOffset":2785},"sentiment":{"magnitude":0.5,"score":0.5}},{"text":{"content":"Los 
+medios de comunicación británicos, incluidos la BBC y Sky News, informaron 
+que el atacante era un ex preso vinculado a grupos extremistas islámicos, 
+pero las autoridades esperaron para confirmar la identidad del 
+sospechoso.","beginOffset":2983},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"El 
+alcalde de Londres, Sadiq Khan, dijo el viernes que dos víctimas del 
+\"terrorífico\" ataque terrorista habían \"muerto 
+trágicamente\".","beginOffset":3215},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"Mi 
+corazón está con ellos, sus seres queridos y todos los afectados\", dijo en 
+un 
+comunicado.","beginOffset":3354},"sentiment":{"magnitude":0.8,"score":0.8}},{"text":{"content":"\"Londres 
+nunca será intimidado por el 
+terrorismo.","beginOffset":3450},"sentiment":{"magnitude":0.3,"score":-0.3}},{"text":{"content":"El 
+terrorismo nunca 
+ganará\".","beginOffset":3501},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"Quiero 
+asegurarles a los londinenses y visitantes que habrá patrullas policiales 
+mejoradas, incluidos equipos de armas de fuego, en las calles de Londres 
+este fin de semana\", 
+agregó.","beginOffset":3532},"sentiment":{"magnitude":0.7,"score":0.7}},{"text":{"content":"\"Asistiré 
+a la reunión COBRA de emergencia del gobierno esta 
+noche\".","beginOffset":3718},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"Basu 
+suplicó al público que comparta cualquier información, imágenes o imágenes 
+del incidente visitando el sitio de Apelación de imágenes policiales del 
+Reino Unido, o que llame a la policía con cualquier información que pueda 
+ayudar a la 
+investigación.","beginOffset":3790},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"\"El 
+público debe seguir vigilante y reportar cualquier preocupación que tenga a 
+la policía\", agregó 
+Basu.","beginOffset":4055},"sentiment":{"magnitude":0.6,"score":0.6}}]},"random_to_source":{"documentSentiment":{"magnitude":7.2,"score":-0.1},"language":"en","sentences":[{"text":{"content":"The 
+release of the suspected London Bridge terrorist was \"a mistake,\" says 
+Prime Minister Boris 
+Johnson","beginOffset":0},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"The 
+piercing attack on the London bridge on Friday that left two people dead 
+and three others had British Prime Minister Boris Johnson subsequently 
+argued that it was a \"mistake\" to grant an early release to the suspect, 
+a former prisoner who he was killed and killed by the 
+police.","beginOffset":105},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Johnson 
+said he \"talked at length\" about not allowing \"serious and violent 
+criminals to get out of prison 
+early\".","beginOffset":389},"sentiment":{"magnitude":0.6,"score":-0.6}},{"text":{"content":"\"It 
+is very important to get out of this habit and apply the appropriate 
+sentences for dangerous criminals, particularly terrorists, which I think 
+the public will want to see,\" Johnson 
+said.","beginOffset":504},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Following 
+the attack, the London police identified the suspect as 28-year-old Usman 
+Khan, who lived in the Staffordshire area and was sentenced in 2012 for 
+\"terrorist 
+offenses\".","beginOffset":696},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+authorities claimed that Khan had been released \"under license\" in 
+December 2018, which means he had to meet certain conditions or face being 
+sent back to prison, according to the Metropolitan Police chief of 
+anti-terrorism Neil 
+Basu.","beginOffset":875},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"The 
+police treated the stabs as a terrorist 
+attack.","beginOffset":1115},"sentiment":{"magnitude":0.2,"score":-0.2}},{"text":{"content":"\"A 
+key line of [investigation] now is to establish how he came to execute this 
+attack,\" the chief said, adding that the police are conducting research at 
+a Staffordshire 
+address.","beginOffset":1168},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"The 
+suspect, who was wearing a fake explosive jacket while the attack was 
+taking place, was confronted by members of the public before being shot by 
+\"specialized armed officers\", and died on the scene, according to 
+Basu.","beginOffset":1348},"sentiment":{"magnitude":0.7,"score":-0.7}},{"text":{"content":"\"While 
+we are still in the early stages of the investigation, we are currently not 
+actively looking for anyone else in relation to the attack,\" said Basu, 
+noting that terrorism investigations continue and that the police are 
+making sure \"no one else was involved in this attack and that there is no 
+exceptional threat to the public 
+\".","beginOffset":1570},"sentiment":{"magnitude":0.1,"score":-0.1}},{"text":{"content":"A 
+man and a woman were killed during the attack, and two women and one man 
+were injured and remain in the hospital, according to the 
+chief.","beginOffset":1906},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"The 
+police were called to the London Bridge area just before 2:00 
+pm.","beginOffset":2047},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"local 
+time on 
+Friday.","beginOffset":2117},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"The 
+circumstances, as we currently understand them, are that the attacker 
+attended an event Friday afternoon in the Fishmonger Hall called\" Learning 
+together, \"said 
+Basu.\"","beginOffset":2140},"sentiment":{"magnitude":0.3,"score":0.3}},{"text":{"content":"We 
+believe the attack started inside before he left the building and proceeded 
+on London Bridge, where he was detained and subsequently confronted and 
+struck by armed officers 
+\".","beginOffset":2313},"sentiment":{"magnitude":0.8,"score":-0.8}},{"text":{"content":"Public 
+safety is the top priority and Basu has asked the public to continue 
+avoiding the area while the police continue to strengthen patrols in the 
+city and throughout 
+London.","beginOffset":2493},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"British 
+media including the BBC and Sky News reported that the attacker was a 
+former prisoner with links to Islamic extremist groups, but officials 
+waited to confirm the suspect's 
+identity.","beginOffset":2671},"sentiment":{"magnitude":0.4,"score":-0.4}},{"text":{"content":"London 
+Mayor Sadiq Khan said last Friday that two victims of the \"scary\" 
+terrorist attack were \"tragically 
+dead\".","beginOffset":2862},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"My 
+heart goes to them, to their loved ones and to all those affected,\" he 
+said in a 
+statement.","beginOffset":2977},"sentiment":{"magnitude":0.6,"score":0.6}},{"text":{"content":"\"London 
+will never be intimidated by 
+terrorism.","beginOffset":3073},"sentiment":{"magnitude":0.1,"score":0.1}},{"text":{"content":"Terrorism 
+will never 
+win.\"","beginOffset":3121},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"I 
+want to reassure Londoners and visitors that there will be enhanced police 
+patrols, including firearms teams, on the streets of London this weekend,\" 
+he 
+added.","beginOffset":3149},"sentiment":{"magnitude":0.4,"score":0.4}},{"text":{"content":"\"Tonight 
+I will attend the emergency meeting of the COBRA 
+government\".","beginOffset":3312},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"Basu 
+asked the public to share any information, image or video of the incident 
+by visiting the British police appeal site or to call the police with any 
+information that could help the 
+investigation.","beginOffset":3384},"sentiment":{"magnitude":0,"score":0}},{"text":{"content":"\"The 
+public should continue to remain vigilant and report any concerns to the 
+police,\" added 
+Basu.","beginOffset":3585},"sentiment":{"magnitude":0.1,"score":0.1}}],"foreign_lang":"it"}}
